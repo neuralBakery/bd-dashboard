@@ -1,0 +1,96 @@
+{
+  "timezone": "Australia/Melbourne",
+  "max_articles_per_source": 12,
+  "request_interval_seconds": 2,
+  "catchments": {
+    "Bendigo": [
+      "Bendigo",
+      "Castlemaine",
+      "Kyneton",
+      "Maryborough",
+      "Heathcote",
+      "Marong",
+      "Lockwood",
+      "Golden Square"
+    ],
+    "Shepparton": [
+      "Shepparton",
+      "Mooroopna",
+      "Tatura",
+      "Kyabram",
+      "Echuca",
+      "Cobram",
+      "Numurkah",
+      "Benalla"
+    ],
+    "Mildura": [
+      "Mildura",
+      "Irymple",
+      "Merbein",
+      "Red Cliffs",
+      "Robinvale",
+      "Carwarp",
+      "Ouyen",
+      "Sunraysia"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Regional Development Victoria",
+      "url": "https://www.rdv.vic.gov.au/news",
+      "paths": [
+        "/news/"
+      ],
+      "primary": true
+    },
+    {
+      "name": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media",
+      "paths": [
+        "/about-us/news-and-media/"
+      ],
+      "primary": true
+    },
+    {
+      "name": "Greater Shepparton Council",
+      "url": "https://greatershepparton.vic.gov.au/whats-happening/news",
+      "paths": [
+        "/whats-happening/news/"
+      ],
+      "primary": true
+    },
+    {
+      "name": "Mildura Rural City Council",
+      "url": "https://www.mildura.vic.gov.au/Latest-News",
+      "paths": [
+        "/Latest-News/"
+      ],
+      "primary": true
+    },
+    {
+      "name": "The Shepparton Adviser",
+      "url": "https://www.sheppadviser.com.au/feed/",
+      "paths": [
+        "/"
+      ],
+      "primary": false
+    },
+    {
+      "name": "Bendigo Times",
+      "url": "https://timesnewsgroup.com.au/bendigotimes/feed/",
+      "paths": [
+        "/bendigotimes/"
+      ],
+      "primary": false
+    },
+    {
+      "name": "Foodmach Careers",
+      "url": "https://foodmach.com.au/jobs/",
+      "paths": [
+        "/jobs/"
+      ],
+      "primary": true
+    }
+  ],
+  "outside_catchment_locations": []
+}

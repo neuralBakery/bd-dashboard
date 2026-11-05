@@ -1,0 +1,100 @@
+name: Refresh regional dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Melbourne 07:00 = Sunday 20:00 UTC (summer) or 21:00 UTC (winter).
+    # The guard below selects the correct slot for daylight saving.
+    - cron: '0 20 * * 0'
+    - cron: '0 21 * * 0'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: regional-intelligence-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Select Melbourne schedule
+        id: schedule
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import datetime, os
+          from zoneinfo import ZoneInfo
+          current = datetime.datetime.now(ZoneInfo('Australia/Melbourne'))
+          offset = int(current.utcoffset().total_seconds() // 3600)
+          expected = f'0 { (7-offset) % 24 } * * 0'
+          run = os.environ['EVENT_NAME'] != 'schedule' or os.environ['SCHEDULE'] == expected
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f'run={str(run).lower()}\n')
+          print('Run selected:', run, '| Melbourne:', current.isoformat())
+          PY
+      - uses: actions/checkout@v4
+        if: steps.schedule.outputs.run == 'true'
+      - uses: actions/setup-python@v5
+        if: steps.schedule.outputs.run == 'true'
+        with:
+          python-version: '3.12'
+      - name: Validate pipeline
+        if: steps.schedule.outputs.run == 'true'
+        run: python3 -m unittest discover -s tests -v
+      - name: Gather public intelligence
+        id: research
+        if: steps.schedule.outputs.run == 'true'
+        continue-on-error: true
+        run: python3 -m bdintel refresh
+      - name: Save dashboard and research history
+        if: always() && steps.schedule.outputs.run == 'true' && steps.research.outcome != 'skipped'
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add dashboard.html data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Update regional intelligence and research status"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+      - name: Downloadable dashboard and briefing
+        if: always() && steps.schedule.outputs.run == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: regional-dashboard
+          path: |
+            dashboard.html
+            data/weekly-brief.txt
+            data/runs/
+          if-no-files-found: error
+          retention-days: 90
+      - name: Report research outcome
+        if: always() && steps.schedule.outputs.run == 'true'
+        env:
+          RESEARCH_OUTCOME: ${{ steps.research.outcome }}
+        run: |
+          python3 - <<'PY'
+          import json, os
+          from pathlib import Path
+          path = Path('data/state.json')
+          lines = ['## Regional dashboard refresh', '', 'Download **regional-dashboard** in the Artifacts section of this run.', '']
+          if path.exists():
+              s = json.loads(path.read_text())
+              lines.append('Last successful research: ' + str(s.get('lastSuccessfulRun') or 'Not yet successful'))
+              if s.get('runs'):
+                  r = s['runs'][-1]
+                  lines.extend(['', 'Latest recorded run: **' + r['status'] + '**', f"New: {r['added']}; updated: {r['updated']}"])
+                  for source in r['sources']:
+                      lines.append('- ' + source['name'] + ': ' + source['status'] + ' ' + source.get('error', ''))
+          lines.extend(['', 'A failed or incomplete run preserves previously accepted findings. Browser notes are not stored by this workflow.', '', 'GitHub schedules can be delayed. The downloaded file is a snapshot; download a fresh copy after each update.'])
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
+              f.write('\n'.join(lines) + '\n')
+          if os.environ['RESEARCH_OUTCOME'] != 'success':
+              raise SystemExit('Research did not complete successfully. See source failures above.')
+          PY

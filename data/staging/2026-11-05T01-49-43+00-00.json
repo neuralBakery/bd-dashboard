@@ -1,0 +1,62 @@
+{
+  "candidates": [],
+  "audit": [],
+  "report": {
+    "startedAt": "2026-11-05T01:49:43+00:00",
+    "finishedAt": null,
+    "sources": [
+      {
+        "name": "Regional Development Victoria",
+        "url": "https://www.rdv.vic.gov.au/news",
+        "required": true,
+        "status": "failed",
+        "error": "Network/proxy connection failed: Tunnel connection failed: 403 Forbidden"
+      },
+      {
+        "name": "City of Greater Bendigo",
+        "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media",
+        "required": true,
+        "status": "failed",
+        "error": "Network/proxy connection failed: Tunnel connection failed: 403 Forbidden"
+      },
+      {
+        "name": "Greater Shepparton Council",
+        "url": "https://greatershepparton.vic.gov.au/whats-happening/news",
+        "required": true,
+        "status": "failed",
+        "error": "Network/proxy connection failed: Tunnel connection failed: 403 Forbidden"
+      },
+      {
+        "name": "Mildura Rural City Council",
+        "url": "https://www.mildura.vic.gov.au/Latest-News",
+        "required": true,
+        "status": "failed",
+        "error": "Network/proxy connection failed: Tunnel connection failed: 403 Forbidden"
+      },
+      {
+        "name": "The Shepparton Adviser",
+        "url": "https://www.sheppadviser.com.au/feed/",
+        "required": false,
+        "status": "failed",
+        "error": "Network/proxy connection failed: Tunnel connection failed: 403 Forbidden"
+      },
+      {
+        "name": "Bendigo Times",
+        "url": "https://timesnewsgroup.com.au/bendigotimes/feed/",
+        "required": false,
+        "status": "failed",
+        "error": "Network/proxy connection failed: Tunnel connection failed: 403 Forbidden"
+      },
+      {
+        "name": "Foodmach Careers",
+        "url": "https://foodmach.com.au/jobs/",
+        "required": false,
+        "status": "failed",
+        "error": "Network/proxy connection failed: Tunnel connection failed: 403 Forbidden"
+      }
+    ],
+    "added": 0,
+    "updated": 0,
+    "status": "failed"
+  }
+}

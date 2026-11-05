@@ -1,0 +1,12 @@
+[Unit]
+Description=Regional Victoria public-source workforce intelligence
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/workspace/bd-dashboard
+ExecStart=/workspace/bd-dashboard/scripts/weekly.sh
+# Adapt both paths to the persistent private checkout on your chosen host.
+# In managed clouds, keep the platform proxy and CA environment available.
+UMask=0077

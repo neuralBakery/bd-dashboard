@@ -1,0 +1,15 @@
+REGIONAL VICTORIA — WEEKLY INTELLIGENCE
+Generated: 2026-11-05
+Last successful bounded research run: None
+Latest run: failed
+Direct employer hiring does not confirm external provider demand.
+
+No verified recent new or materially updated findings available. This does not establish that no developments occurred.
+COVERAGE / FAILURES
+Regional Development Victoria: failed — Network/proxy connection failed: Tunnel connection failed: 403 Forbidden
+City of Greater Bendigo: failed — Network/proxy connection failed: Tunnel connection failed: 403 Forbidden
+Greater Shepparton Council: failed — Network/proxy connection failed: Tunnel connection failed: 403 Forbidden
+Mildura Rural City Council: failed — Network/proxy connection failed: Tunnel connection failed: 403 Forbidden
+The Shepparton Adviser: failed — Network/proxy connection failed: Tunnel connection failed: 403 Forbidden
+Bendigo Times: failed — Network/proxy connection failed: Tunnel connection failed: 403 Forbidden
+Foodmach Careers: failed — Network/proxy connection failed: Tunnel connection failed: 403 Forbidden

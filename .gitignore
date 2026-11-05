@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Runtime process lock (research JSON and history are intentionally retained)
+data/.refresh.lock

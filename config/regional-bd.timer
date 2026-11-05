@@ -1,0 +1,10 @@
+[Unit]
+Description=Weekly regional BD research at 07:00 Melbourne time
+
+[Timer]
+OnCalendar=Mon *-*-* 07:00:00 Australia/Melbourne
+Persistent=true
+Unit=regional-bd.service
+
+[Install]
+WantedBy=timers.target
