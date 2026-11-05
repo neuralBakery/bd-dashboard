@@ -1640,6 +1640,79 @@
       "status": "incomplete",
       "partialAdded": 19,
       "partialUpdated": 0
+    },
+    {
+      "startedAt": "2026-11-05T04:04:03.697342+00:00",
+      "finishedAt": "2026-11-05T04:06:55.177628+00:00",
+      "sources": [
+        {
+          "name": "Regional Development Victoria",
+          "url": "https://www.rdv.vic.gov.au/news",
+          "status": "failed",
+          "error": "Robots access failed (403); collection stopped"
+        },
+        {
+          "name": "City of Greater Bendigo",
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media",
+          "status": "success",
+          "coverage": {
+            "discoveredLinks": 14,
+            "checkedPages": 14,
+            "windowLimit": 12,
+            "boundedCoverage": true
+          }
+        },
+        {
+          "name": "Greater Shepparton Council",
+          "url": "https://greatershepparton.vic.gov.au/whats-happening/news",
+          "status": "failed",
+          "error": "Network/proxy connection failed: timed out"
+        },
+        {
+          "name": "Mildura Rural City Council",
+          "url": "https://www.mildura.vic.gov.au/Contact-us/News-and-media/Media-Releases",
+          "status": "failed",
+          "error": "Robots access failed (403); collection stopped"
+        },
+        {
+          "name": "The Shepparton Adviser",
+          "url": "https://www.sheppadviser.com.au/feed/",
+          "status": "success",
+          "coverage": {
+            "discoveredLinks": 1,
+            "checkedPages": 3,
+            "windowLimit": 12,
+            "boundedCoverage": false
+          }
+        },
+        {
+          "name": "Bendigo Times",
+          "url": "https://timesnewsgroup.com.au/bendigotimes/feed/",
+          "status": "success",
+          "coverage": {
+            "discoveredLinks": 10,
+            "checkedPages": 11,
+            "windowLimit": 12,
+            "boundedCoverage": false
+          }
+        },
+        {
+          "name": "Foodmach Careers",
+          "url": "https://foodmach.com.au/jobs/",
+          "status": "success",
+          "coverage": {
+            "discoveredLinks": 0,
+            "checkedPages": 2,
+            "windowLimit": 12,
+            "boundedCoverage": false
+          }
+        }
+      ],
+      "added": 0,
+      "updated": 0,
+      "status": "incomplete",
+      "partialAdded": 0,
+      "partialUpdated": 0
     }
   ],
   "partialRecords": [
@@ -2134,8 +2207,8 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:31:40.257994+00:00",
-      "lastChecked": "2026-11-05T03:31:40.257994+00:00",
-      "change": "New",
+      "lastChecked": "2026-11-05T04:04:34.821449+00:00",
+      "change": "Unchanged",
       "history": [
         {
           "id": "B04",
@@ -2255,8 +2328,8 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:32:02.162041+00:00",
-      "lastChecked": "2026-11-05T03:32:02.162041+00:00",
-      "change": "New",
+      "lastChecked": "2026-11-05T04:04:34.828396+00:00",
+      "change": "Unchanged",
       "history": [],
       "evidence": [
         {
@@ -2324,8 +2397,8 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:32:04.605083+00:00",
-      "lastChecked": "2026-11-05T03:32:04.605083+00:00",
-      "change": "New",
+      "lastChecked": "2026-11-05T04:04:34.830426+00:00",
+      "change": "Unchanged",
       "history": [],
       "evidence": [
         {
@@ -2395,8 +2468,8 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:32:58.334451+00:00",
-      "lastChecked": "2026-11-05T03:32:58.334451+00:00",
-      "change": "New",
+      "lastChecked": "2026-11-05T04:06:22.816086+00:00",
+      "change": "Unchanged",
       "history": [
         {
           "id": "S01",
@@ -2520,8 +2593,8 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:33:18.434311+00:00",
-      "lastChecked": "2026-11-05T03:33:18.434311+00:00",
-      "change": "New",
+      "lastChecked": "2026-11-05T04:06:22.818032+00:00",
+      "change": "Unchanged",
       "history": [],
       "evidence": [
         {
@@ -2593,8 +2666,8 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:33:18.434311+00:00",
-      "lastChecked": "2026-11-05T03:33:18.434311+00:00",
-      "change": "New",
+      "lastChecked": "2026-11-05T04:06:22.818188+00:00",
+      "change": "Unchanged",
       "history": [
         {
           "id": "S02",
@@ -2724,8 +2797,8 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:33:38.218045+00:00",
-      "lastChecked": "2026-11-05T03:33:38.218045+00:00",
-      "change": "New",
+      "lastChecked": "2026-11-05T04:06:22.822044+00:00",
+      "change": "Unchanged",
       "history": [],
       "evidence": [
         {
@@ -2799,8 +2872,8 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:33:42.627491+00:00",
-      "lastChecked": "2026-11-05T03:33:42.627491+00:00",
-      "change": "New",
+      "lastChecked": "2026-11-05T04:06:47.798255+00:00",
+      "change": "Unchanged",
       "history": [
         {
           "id": "B03",
@@ -2923,8 +2996,8 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:33:49.057642+00:00",
-      "lastChecked": "2026-11-05T03:33:49.057642+00:00",
-      "change": "New",
+      "lastChecked": "2026-11-05T04:06:47.805299+00:00",
+      "change": "Unchanged",
       "history": [],
       "evidence": [
         {
@@ -2999,8 +3072,8 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:34:10.312128+00:00",
-      "lastChecked": "2026-11-05T03:34:10.312128+00:00",
-      "change": "New",
+      "lastChecked": "2026-11-05T04:06:55.175179+00:00",
+      "change": "Unchanged",
       "history": [
         {
           "id": "S05",

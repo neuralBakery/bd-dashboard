@@ -25,25 +25,17 @@ Why it matters / next step (inference): Inference: investigate site timing, work
 Source: https://www.rdv.vic.gov.au/news/investing-in-fast-growing-businesses-to-keep-succeeding
 Assessment: workforceDemand: 4; serviceRelevance: 3; timing: 2; commercialPotential: 0; evidenceStrength: 3; Published direct recruitment does not confirm external provider demand.
 
-GV Link Enterprise Park — $2M boost to unlock next stage of GV Link Enterprise Park - The Shepparton Adviser [High; New]
-GREATER Shepparton’s push to attract new businesses and jobs has received a $2 million boost, with the Victorian Government funding set to help progress the next stage of GV Link Enterprise Park. Greater Shepparton City Council welcomed the investment, which will fund critical infrastructure needed to prepare additional industrial lots for development and attract future business investment. Mayor Geoff Akers said the funding was a major vote of confidence in the region’s economic future, with demand for industrial land continuing to grow. Council will now progress detailed design work for Stage 2 and seek expressions of interest for the remaining lots to better understand industry demand. The expansion is expected to create opportunities for business growth, freight and logistics investment, and employment across Shepparton and the wider Goulburn Valley.
+GV Link Enterprise Park — ​​Trunk infrastructure to support regional businesses​ [Medium; New]
+Three growing business precincts in the northeast will gain the essential services needed to attract new investment. Water, power and gas connections will support development at GV Link Enterprise Park in Mooroopna, the Mansfield Enterprise Park, and the Alpine Commercial Estate in Wangaratta.
 Why it matters / next step (inference): Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.
-Source: https://www.sheppadviser.com.au/2m-boost-to-unlock-next-stage-of-gv-link-enterprise-park
-Assessment: workforceDemand: 4; serviceRelevance: 3; timing: 2; commercialPotential: 0; evidenceStrength: 2; Published direct recruitment does not confirm external provider demand.
-
-Organisation unverified — City to continue to investigate safety improvements for Howard Street [Monitor; New]
-City of Greater Bendigo Mayor Cr Thomas Prince said while the City will not proceed with the trial, it will continue to investigate, review, implement and advocate for traffic safety improvements within the Howard Street corridor and surrounding road network in partnership with government agencies and stakeholders.
-
-A recurring theme across the consultation was support for longer-term solutions, including improved school access and parking, enhanced pedestrian infrastructure, and advocacy for a dedicated freight corridor or alternative freight route to address growing transport demands in the area.
-Why it matters / next step (inference): Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.
-Source: https://www.bendigo.vic.gov.au/about-us/news-and-media/city-continue-investigate-safety-improvements-howard-street
-Assessment: workforceDemand: 2; serviceRelevance: 3; timing: 2; commercialPotential: 0; evidenceStrength: 3; Published direct recruitment does not confirm external provider demand.
+Source: https://www.rdv.vic.gov.au/news/trunk-infrastructure-to-support-regional-businesses
+Assessment: workforceDemand: 0; serviceRelevance: 3; timing: 2; commercialPotential: 0; evidenceStrength: 3; Published direct recruitment does not confirm external provider demand.
 
 COVERAGE / FAILURES
-Regional Development Victoria: success
+Regional Development Victoria: failed — Robots access failed (403); collection stopped
 City of Greater Bendigo: success
-Greater Shepparton Council: failed — Robots access failed (503); collection stopped
-Mildura Rural City Council: failed — Discovery returned no article links; not evidence of no developments
+Greater Shepparton Council: failed — Network/proxy connection failed: timed out
+Mildura Rural City Council: failed — Robots access failed (403); collection stopped
 The Shepparton Adviser: success
 Bendigo Times: success
 Foodmach Careers: success

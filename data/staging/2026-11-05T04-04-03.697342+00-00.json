@@ -1,0 +1,1075 @@
+{
+  "candidates": [
+    {
+      "id": "A74ba8f5734f93e1a7299",
+      "company": "Bendigo Regional Employment Precinct",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        },
+        {
+          "branch": "Bendigo",
+          "town": "Marong"
+        }
+      ],
+      "sector": "Industrial property & logistics",
+      "type": "Expansion & investment",
+      "date": "2026-10-06",
+      "headline": "BREP site reaches important rezoning milestone",
+      "summary": "Bendigo Regional Employment Precinct – the City of Greater Bendigo’s highest priority advocacy project – has been rezoned as industrial land.",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/brep-site-reaches-important-rezoning-milestone",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T04:04:34.821443+00:00",
+      "lastChecked": "2026-11-05T04:04:34.821449+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/brep-site-reaches-important-rezoning-milestone",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": "2026-10-06",
+          "retrievedAt": "2026-11-05T04:04:34.821451+00:00",
+          "sha256": "f1e5cda8999c713c5e59335662d3a2f2eace5639dd090280164eb5c527885a85",
+          "snapshot": "data/evidence/f1e5cda8999c713c5e59335662d3a2f2eace5639dd090280164eb5c527885a85.txt",
+          "quotes": [
+            "Bendigo Regional Employment Precinct – the City of Greater Bendigo’s highest priority advocacy project – has been rezoned as industrial land."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 10,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 2,
+          "serviceRelevance": 3,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 3
+        },
+        "priority": "Medium",
+        "reasons": [
+          "workforceDemand: 2",
+          "serviceRelevance: 3",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 3",
+          "Published direct recruitment does not confirm external provider demand."
+        ],
+        "ageDays": 30
+      },
+      "priority": "Medium"
+    },
+    {
+      "id": "Ac13540ddaed6d44e4099",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Expansion & investment",
+      "date": "2026-10-19",
+      "headline": "City to continue to investigate safety improvements for Howard Street",
+      "summary": "City of Greater Bendigo Mayor Cr Thomas Prince said while the City will not proceed with the trial, it will continue to investigate, review, implement and advocate for traffic safety improvements within the Howard Street corridor and surrounding road network in partnership with government agencies and stakeholders.\n\nA recurring theme across the consultation was support for longer-term solutions, including improved school access and parking, enhanced pedestrian infrastructure, and advocacy for a dedicated freight corridor or alternative freight route to address growing transport demands in the area.",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/city-continue-investigate-safety-improvements-howard-street",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T04:04:34.828393+00:00",
+      "lastChecked": "2026-11-05T04:04:34.828396+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/city-continue-investigate-safety-improvements-howard-street",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": "2026-10-19",
+          "retrievedAt": "2026-11-05T04:04:34.828398+00:00",
+          "sha256": "78fdda454d45267e533c9ff88e044270cd3a6ac26b6dcb832f0f792d0da7ff17",
+          "snapshot": "data/evidence/78fdda454d45267e533c9ff88e044270cd3a6ac26b6dcb832f0f792d0da7ff17.txt",
+          "quotes": [
+            "City of Greater Bendigo Mayor Cr Thomas Prince said while the City will not proceed with the trial, it will continue to investigate, review, implement and advocate for traffic safety improvements within the Howard Street corridor and surrounding road network in partnership with government agencies and stakeholders.",
+            "A recurring theme across the consultation was support for longer-term solutions, including improved school access and parking, enhanced pedestrian infrastructure, and advocacy for a dedicated freight corridor or alternative freight route to address growing transport demands in the area."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 10,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 2,
+          "serviceRelevance": 3,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 3
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 2",
+          "serviceRelevance: 3",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 3",
+          "Published direct recruitment does not confirm external provider demand."
+        ],
+        "ageDays": 17
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "Aa8182354ecbde72c4865",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Expansion & investment",
+      "date": "2026-10-16",
+      "headline": "Improvements to Bendigo Library's Public Toilet and Parent Facilities completed",
+      "summary": "The City of Greater Bendigo has completed a major project to improve the Bendigo Library’s public toilet and parent facilities to comply with the current National Construction Code and make them safer and easier to access.\n\nDemolition of the old public toilet area and construction of new self-contained toilet cubicles to improve safety and efficiency\n\nConstruction of a dedicated cleaner’s room for improved cleaning functionality\n\nToday Member for Bendigo West Maree Edwards, Goldfields Library CEO Mark Hands and City of Greater Bendigo Healthy Communities and Environments Director Jess Howard inspected the new facilities.",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/improvements-bendigo-librarys-public-toilet-and-parent-facilities-completed",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T04:04:34.830424+00:00",
+      "lastChecked": "2026-11-05T04:04:34.830426+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/improvements-bendigo-librarys-public-toilet-and-parent-facilities-completed",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": "2026-10-16",
+          "retrievedAt": "2026-11-05T04:04:34.830427+00:00",
+          "sha256": "a92cc123ea1cb8a4872baa6dc203f9f0eadf88b9e300d4b493ff736bfba87e4b",
+          "snapshot": "data/evidence/a92cc123ea1cb8a4872baa6dc203f9f0eadf88b9e300d4b493ff736bfba87e4b.txt",
+          "quotes": [
+            "The City of Greater Bendigo has completed a major project to improve the Bendigo Library’s public toilet and parent facilities to comply with the current National Construction Code and make them safer and easier to access.",
+            "Demolition of the old public toilet area and construction of new self-contained toilet cubicles to improve safety and efficiency",
+            "Construction of a dedicated cleaner’s room for improved cleaning functionality",
+            "Today Member for Bendigo West Maree Edwards, Goldfields Library CEO Mark Hands and City of Greater Bendigo Healthy Communities and Environments Director Jess Howard inspected the new facilities."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 10,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 2,
+          "serviceRelevance": 3,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 3
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 2",
+          "serviceRelevance: 3",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 3",
+          "Published direct recruitment does not confirm external provider demand."
+        ],
+        "ageDays": 20
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "A373f0552e080481d304b",
+      "company": "GV Link Enterprise Park",
+      "region": "Shepparton",
+      "town": "Shepparton",
+      "geographicMatches": [
+        {
+          "branch": "Shepparton",
+          "town": "Shepparton"
+        }
+      ],
+      "sector": "Logistics & industrial property",
+      "type": "Infrastructure & construction",
+      "date": "2026-10-28",
+      "headline": "$2M boost to unlock next stage of GV Link Enterprise Park - The Shepparton Adviser",
+      "summary": "GREATER Shepparton’s push to attract new businesses and jobs has received a $2 million boost, with the Victorian Government funding set to help progress the next stage of GV Link Enterprise Park. Greater Shepparton City Council welcomed the investment, which will fund critical infrastructure needed to prepare additional industrial lots for development and attract future business investment. Mayor Geoff Akers said the funding was a major vote of confidence in the region’s economic future, with demand for industrial land continuing to grow. Council will now progress detailed design work for Stage 2 and seek expressions of interest for the remaining lots to better understand industry demand. The expansion is expected to create opportunities for business growth, freight and logistics investment, and employment across Shepparton and the wider Goulburn Valley.",
+      "source": "The Shepparton Adviser",
+      "url": "https://www.sheppadviser.com.au/2m-boost-to-unlock-next-stage-of-gv-link-enterprise-park",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": false,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T04:06:22.816082+00:00",
+      "lastChecked": "2026-11-05T04:06:22.816086+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.sheppadviser.com.au/2m-boost-to-unlock-next-stage-of-gv-link-enterprise-park",
+          "publisher": "The Shepparton Adviser",
+          "publicationDate": "2026-10-28",
+          "retrievedAt": "2026-11-05T04:06:22.816088+00:00",
+          "sha256": "d33e282df2d3ef15d213f7fdc5eb5a8616372a03972e32aeb328c484a85f9eba",
+          "snapshot": "data/evidence/d33e282df2d3ef15d213f7fdc5eb5a8616372a03972e32aeb328c484a85f9eba.txt",
+          "quotes": [
+            "GREATER Shepparton’s push to attract new businesses and jobs has received a $2 million boost, with the Victorian Government funding set to help progress the next stage of GV Link Enterprise Park. Greater Shepparton City Council welcomed the investment, which will fund critical infrastructure needed to prepare additional industrial lots for development and attract future business investment. Mayor Geoff Akers said the funding was a major vote of confidence in the region’s economic future, with demand for industrial land continuing to grow. Council will now progress detailed design work for Stage 2 and seek expressions of interest for the remaining lots to better understand industry demand. The expansion is expected to create opportunities for business growth, freight and logistics investment, and employment across Shepparton and the wider Goulburn Valley."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 11,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 4,
+          "serviceRelevance": 3,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 2
+        },
+        "priority": "High",
+        "reasons": [
+          "workforceDemand: 4",
+          "serviceRelevance: 3",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 2",
+          "Published direct recruitment does not confirm external provider demand."
+        ],
+        "ageDays": 8
+      },
+      "priority": "High"
+    },
+    {
+      "id": "Aae3c2abc0a6f1b8d4c13",
+      "company": "GV Link Enterprise Park",
+      "region": "Shepparton",
+      "town": "Shepparton",
+      "geographicMatches": [
+        {
+          "branch": "Shepparton",
+          "town": "Shepparton"
+        },
+        {
+          "branch": "Shepparton",
+          "town": "Mooroopna"
+        }
+      ],
+      "sector": "Logistics & industrial property",
+      "type": "Infrastructure & construction",
+      "date": "2026-09-02",
+      "headline": "More than 20 years in the making, GV Link Enterprise Park is open - The Shepparton Adviser",
+      "summary": "AFTER more than two decades of planning, the vision for GV Link Enterprise Park has finally become reality, with the $24M Stage 1 project officially opened on Friday.",
+      "source": "The Shepparton Adviser",
+      "url": "https://www.sheppadviser.com.au/more-than-20-years-in-the-making-gv-link-enterprise-park-is-open",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": false,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T04:06:22.818029+00:00",
+      "lastChecked": "2026-11-05T04:06:22.818032+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.sheppadviser.com.au/more-than-20-years-in-the-making-gv-link-enterprise-park-is-open",
+          "publisher": "The Shepparton Adviser",
+          "publicationDate": "2026-09-02",
+          "retrievedAt": "2026-11-05T04:06:22.818034+00:00",
+          "sha256": "e25ecadceff44f3414a198d96315220efc757eca3addad6af812ef1e2b873a33",
+          "snapshot": "data/evidence/e25ecadceff44f3414a198d96315220efc757eca3addad6af812ef1e2b873a33.txt",
+          "quotes": [
+            "AFTER more than two decades of planning, the vision for GV Link Enterprise Park has finally become reality, with the $24M Stage 1 project officially opened on Friday."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 4,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 3,
+          "timing": 0,
+          "commercialPotential": 0,
+          "evidenceStrength": 1
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 3",
+          "timing: 0",
+          "commercialPotential: 0",
+          "evidenceStrength: 1",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Older than 45 days: current demand requires rechecking."
+        ],
+        "ageDays": 64
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "A284fbe484fbff76ad79d",
+      "company": "Flavour Makers",
+      "region": "Shepparton",
+      "town": "Shepparton",
+      "geographicMatches": [
+        {
+          "branch": "Shepparton",
+          "town": "Shepparton"
+        },
+        {
+          "branch": "Shepparton",
+          "town": "Mooroopna"
+        }
+      ],
+      "sector": "Food manufacturing",
+      "type": "Infrastructure & construction",
+      "date": "2026-09-02",
+      "headline": "More than 20 years in the making, GV Link Enterprise Park is open - The Shepparton Adviser",
+      "summary": "Another major investment at GV Link will come from food manufacturer Flavour Makers, which is set to establish a warehouse across two sites.",
+      "source": "The Shepparton Adviser",
+      "url": "https://www.sheppadviser.com.au/more-than-20-years-in-the-making-gv-link-enterprise-park-is-open",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": false,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T04:06:22.818186+00:00",
+      "lastChecked": "2026-11-05T04:06:22.818188+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.sheppadviser.com.au/more-than-20-years-in-the-making-gv-link-enterprise-park-is-open",
+          "publisher": "The Shepparton Adviser",
+          "publicationDate": "2026-09-02",
+          "retrievedAt": "2026-11-05T04:06:22.818189+00:00",
+          "sha256": "e25ecadceff44f3414a198d96315220efc757eca3addad6af812ef1e2b873a33",
+          "snapshot": "data/evidence/e25ecadceff44f3414a198d96315220efc757eca3addad6af812ef1e2b873a33.txt",
+          "quotes": [
+            "Another major investment at GV Link will come from food manufacturer Flavour Makers, which is set to establish a warehouse across two sites."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 4,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 3,
+          "timing": 0,
+          "commercialPotential": 0,
+          "evidenceStrength": 1
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 3",
+          "timing: 0",
+          "commercialPotential: 0",
+          "evidenceStrength: 1",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Older than 45 days: current demand requires rechecking."
+        ],
+        "ageDays": 64
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "A2282862f32d30b727219",
+      "company": "Organisation unverified",
+      "region": "Shepparton",
+      "town": "Shepparton",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        },
+        {
+          "branch": "Shepparton",
+          "town": "Shepparton"
+        },
+        {
+          "branch": "Shepparton",
+          "town": "Echuca"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Expansion & investment",
+      "date": "2026-11-04",
+      "headline": "A funding story - The Shepparton Adviser",
+      "summary": "The Fairley Leadership Program began in 1997 with modest funding and a belief that investing in local people could strengthen an entire region.\n\nGovernment investment continued between 2020 and 2023 through the Regional Community Leadership Program Fund and Department of Jobs, Precincts and Regions.\n\nThroughout its history, that investment has been complemented by participant scholarships, including support from organisations such as the Gardiner Foundation and Hugh Williamson Foundation.\n\nTheir contribution also demonstrates that sustaining regional leadership is not the responsibility of any one organisation or sector. It is something businesses, governments, philanthropic organisations and communities can collectively invest in, helping ensure the next generation of local leaders has the same opportunity to step forward.",
+      "source": "The Shepparton Adviser",
+      "url": "https://www.sheppadviser.com.au/a-funding-story",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": false,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T04:06:22.822041+00:00",
+      "lastChecked": "2026-11-05T04:06:22.822044+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.sheppadviser.com.au/a-funding-story",
+          "publisher": "The Shepparton Adviser",
+          "publicationDate": "2026-11-04",
+          "retrievedAt": "2026-11-05T04:06:22.822046+00:00",
+          "sha256": "a1303ff7e2295ab909a4eb564b541e06b69bba4aeecbeb9a61551b41fc780912",
+          "snapshot": "data/evidence/a1303ff7e2295ab909a4eb564b541e06b69bba4aeecbeb9a61551b41fc780912.txt",
+          "quotes": [
+            "The Fairley Leadership Program began in 1997 with modest funding and a belief that investing in local people could strengthen an entire region.",
+            "Government investment continued between 2020 and 2023 through the Regional Community Leadership Program Fund and Department of Jobs, Precincts and Regions.",
+            "Throughout its history, that investment has been complemented by participant scholarships, including support from organisations such as the Gardiner Foundation and Hugh Williamson Foundation.",
+            "Their contribution also demonstrates that sustaining regional leadership is not the responsibility of any one organisation or sector. It is something businesses, governments, philanthropic organisations and communities can collectively invest in, helping ensure the next generation of local leaders has the same opportunity to step forward."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 8,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 4,
+          "serviceRelevance": 0,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 2
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 4",
+          "serviceRelevance: 0",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 2",
+          "Published direct recruitment does not confirm external provider demand."
+        ],
+        "ageDays": 1
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "Af144ef95d563c7288a44",
+      "company": "Aston Dynamics",
+      "region": "Bendigo",
+      "town": "Golden Square",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        },
+        {
+          "branch": "Bendigo",
+          "town": "Golden Square"
+        }
+      ],
+      "sector": "Advanced manufacturing",
+      "type": "Expansion & investment",
+      "date": "2026-04-24",
+      "headline": "Funding supports new facility for manufacturer",
+      "summary": "GOLDEN Square advanced vehicle braking system manufacturer Aston Dynamics will benefit from $1.5 million in funding from the latest round of the federal government’s Industry Growth Program (IGP).\n\n“Aston Dynamics acknowledges and appreciates the government’s support in advancing the development of its next generation of high-performance braking systems and strengthening Australia’s position in advanced manufacturing,” founder, CEO and head of design Dr Dale Hynd said.",
+      "source": "Bendigo Times",
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/funding-supports-new-facility-for-manufacturer",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": false,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T04:06:47.798250+00:00",
+      "lastChecked": "2026-11-05T04:06:47.798255+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://timesnewsgroup.com.au/bendigotimes/news/funding-supports-new-facility-for-manufacturer",
+          "publisher": "Bendigo Times",
+          "publicationDate": "2026-04-24",
+          "retrievedAt": "2026-11-05T04:06:47.798257+00:00",
+          "sha256": "595945792fb52ba7635d151c61343bdc76aa33ec4280801e853f026fbbf0ffaf",
+          "snapshot": "data/evidence/595945792fb52ba7635d151c61343bdc76aa33ec4280801e853f026fbbf0ffaf.txt",
+          "quotes": [
+            "GOLDEN Square advanced vehicle braking system manufacturer Aston Dynamics will benefit from $1.5 million in funding from the latest round of the federal government’s Industry Growth Program (IGP).",
+            "“Aston Dynamics acknowledges and appreciates the government’s support in advancing the development of its next generation of high-performance braking systems and strengthening Australia’s position in advanced manufacturing,” founder, CEO and head of design Dr Dale Hynd said."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 6,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 2,
+          "serviceRelevance": 3,
+          "timing": 0,
+          "commercialPotential": 0,
+          "evidenceStrength": 1
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 2",
+          "serviceRelevance: 3",
+          "timing: 0",
+          "commercialPotential: 0",
+          "evidenceStrength: 1",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Older than 45 days: current demand requires rechecking."
+        ],
+        "ageDays": 195
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "Aaa22914f1b3df4afa6de",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Market trends",
+      "date": "2026-11-04",
+      "headline": "Cup Day over runneth with joy; crowd rises again",
+      "summary": "“That broader economic contribution is something we are extremely proud of and will continue to build upon.”\n\nThe economic contribution of Bendigo Cup Day extends well beyond the racecourse and generates $3.2 million in local economic activity, supporting accommodation, hospitality, retail, tourism and other businesses throughout the region.\n\nWith attendance continuing to grow, BJC chairman Jack Lyons said the club anticipated another significant economic contribution from the 2026 event, further demonstrating the importance of Cup day to the local economy and community.\n\n“The Bendigo Cup is much more than a race meeting; it is an important part of our city’s identity, a major economic driver and an opportunity to showcase Bendigo on a national stage.",
+      "source": "Bendigo Times",
+      "url": "https://timesnewsgroup.com.au/bendigotimes/sport/cup-day-over-runneth-with-joy-crowd-rises-again",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": false,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T04:06:47.805296+00:00",
+      "lastChecked": "2026-11-05T04:06:47.805299+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://timesnewsgroup.com.au/bendigotimes/sport/cup-day-over-runneth-with-joy-crowd-rises-again",
+          "publisher": "Bendigo Times",
+          "publicationDate": "2026-11-04",
+          "retrievedAt": "2026-11-05T04:06:47.805301+00:00",
+          "sha256": "b6e45882555a240495f5ec70d402c91cc32a8506be188808153832ce74bf9648",
+          "snapshot": "data/evidence/b6e45882555a240495f5ec70d402c91cc32a8506be188808153832ce74bf9648.txt",
+          "quotes": [
+            "“That broader economic contribution is something we are extremely proud of and will continue to build upon.”",
+            "The economic contribution of Bendigo Cup Day extends well beyond the racecourse and generates $3.2 million in local economic activity, supporting accommodation, hospitality, retail, tourism and other businesses throughout the region.",
+            "With attendance continuing to grow, BJC chairman Jack Lyons said the club anticipated another significant economic contribution from the 2026 event, further demonstrating the importance of Cup day to the local economy and community.",
+            "“The Bendigo Cup is much more than a race meeting; it is an important part of our city’s identity, a major economic driver and an opportunity to showcase Bendigo on a national stage."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 4,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 0,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 2
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 0",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 2",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Risk, competitor or economic context: separated from sales opportunities."
+        ],
+        "ageDays": 1
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "A1b7cf01758d145b65f45",
+      "company": "Foodmach",
+      "region": "Shepparton",
+      "town": "Echuca",
+      "geographicMatches": [
+        {
+          "branch": "Shepparton",
+          "town": "Shepparton"
+        },
+        {
+          "branch": "Shepparton",
+          "town": "Echuca"
+        }
+      ],
+      "sector": "Packaging automation",
+      "type": "Hiring & workforce",
+      "date": "",
+      "headline": "JobsPositions vacant at Foodmach",
+      "summary": "Foodmach is one of Australasia's largest privately-owned and operated packaging machinery manufacturers and integrators.\n\nFoodmach's 7,100m2 manufacturing facilities are in Echuca, Victoria, with engineering sales offices in Melbourne, Sydney, Adelaide and Brisbane.\n\nFoodmach is an Equal Opportunity Employer that values diversity of all kinds in the workplace.Join us and be part of a winning team!\n\nFoodmach is seeking an experienced Industrial Electrician to join our growing manufacturing team in Echuca. Working from our workshop, you will be involved in the electrical assembly, wiring, testing, fault finding and commissioning of advanced packaging, materials handling and automation systems for some of Australia's leading food, beverage and manufacturing businesses. This is an excellent opportunity for a tradesperson looking to work on complex automation projects rather than repetitive maintenance work. You'll work closely with our engineering, manufacturing and project teams to build state-of-the-art equipment that is deployed across Australia and New Zealand. Occasional travel to customer sites across Australia and overseas is required, including some time away from home.",
+      "source": "Foodmach Careers",
+      "url": "https://foodmach.com.au/jobs",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T04:06:55.168940+00:00",
+      "lastChecked": "2026-11-05T04:06:55.168945+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://foodmach.com.au/jobs",
+          "publisher": "Foodmach Careers",
+          "publicationDate": null,
+          "retrievedAt": "2026-11-05T04:06:55.168947+00:00",
+          "sha256": "b1178be95f8fabffc6f98cbe3fd82bbf380a064b44c5c5dc6d32a35cdf5540bf",
+          "snapshot": "data/evidence/b1178be95f8fabffc6f98cbe3fd82bbf380a064b44c5c5dc6d32a35cdf5540bf.txt",
+          "quotes": [
+            "Foodmach is one of Australasia's largest privately-owned and operated packaging machinery manufacturers and integrators.",
+            "Foodmach's 7,100m2 manufacturing facilities are in Echuca, Victoria, with engineering sales offices in Melbourne, Sydney, Adelaide and Brisbane.",
+            "Foodmach is an Equal Opportunity Employer that values diversity of all kinds in the workplace.Join us and be part of a winning team!",
+            "Foodmach is seeking an experienced Industrial Electrician to join our growing manufacturing team in Echuca. Working from our workshop, you will be involved in the electrical assembly, wiring, testing, fault finding and commissioning of advanced packaging, materials handling and automation systems for some of Australia's leading food, beverage and manufacturing businesses. This is an excellent opportunity for a tradesperson looking to work on complex automation projects rather than repetitive maintenance work. You'll work closely with our engineering, manufacturing and project teams to build state-of-the-art equipment that is deployed across Australia and New Zealand. Occasional travel to customer sites across Australia and overseas is required, including some time away from home."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 4,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 3,
+          "timing": 0,
+          "commercialPotential": 0,
+          "evidenceStrength": 1
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 3",
+          "timing: 0",
+          "commercialPotential: 0",
+          "evidenceStrength: 1",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Publication date unknown; freshness cannot be established."
+        ],
+        "ageDays": null
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "A1b7cf01758d145b65f45",
+      "company": "Foodmach",
+      "region": "Shepparton",
+      "town": "Echuca",
+      "geographicMatches": [
+        {
+          "branch": "Shepparton",
+          "town": "Shepparton"
+        },
+        {
+          "branch": "Shepparton",
+          "town": "Echuca"
+        }
+      ],
+      "sector": "Packaging automation",
+      "type": "Hiring & workforce",
+      "date": "",
+      "headline": "JobsPositions vacant at Foodmach",
+      "summary": "Foodmach is one of Australasia's largest privately-owned and operated packaging machinery manufacturers and integrators.\n\nFoodmach's 7,100m2 manufacturing facilities are in Echuca, Victoria, with engineering sales offices in Melbourne, Sydney, Adelaide and Brisbane.\n\nFoodmach is an Equal Opportunity Employer that values diversity of all kinds in the workplace.Join us and be part of a winning team!\n\nFoodmach is seeking an experienced Industrial Electrician to join our growing manufacturing team in Echuca. Working from our workshop, you will be involved in the electrical assembly, wiring, testing, fault finding and commissioning of advanced packaging, materials handling and automation systems for some of Australia's leading food, beverage and manufacturing businesses. This is an excellent opportunity for a tradesperson looking to work on complex automation projects rather than repetitive maintenance work. You'll work closely with our engineering, manufacturing and project teams to build state-of-the-art equipment that is deployed across Australia and New Zealand. Occasional travel to customer sites across Australia and overseas is required, including some time away from home.",
+      "source": "Foodmach Careers",
+      "url": "https://foodmach.com.au/jobs",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T04:06:55.175177+00:00",
+      "lastChecked": "2026-11-05T04:06:55.175179+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://foodmach.com.au/jobs",
+          "publisher": "Foodmach Careers",
+          "publicationDate": null,
+          "retrievedAt": "2026-11-05T04:06:55.175181+00:00",
+          "sha256": "9fa8065bd2856225fd934109525ca75e40a182508a34dde12c8a0ebdddf92b38",
+          "snapshot": "data/evidence/9fa8065bd2856225fd934109525ca75e40a182508a34dde12c8a0ebdddf92b38.txt",
+          "quotes": [
+            "Foodmach is one of Australasia's largest privately-owned and operated packaging machinery manufacturers and integrators.",
+            "Foodmach's 7,100m2 manufacturing facilities are in Echuca, Victoria, with engineering sales offices in Melbourne, Sydney, Adelaide and Brisbane.",
+            "Foodmach is an Equal Opportunity Employer that values diversity of all kinds in the workplace.Join us and be part of a winning team!",
+            "Foodmach is seeking an experienced Industrial Electrician to join our growing manufacturing team in Echuca. Working from our workshop, you will be involved in the electrical assembly, wiring, testing, fault finding and commissioning of advanced packaging, materials handling and automation systems for some of Australia's leading food, beverage and manufacturing businesses. This is an excellent opportunity for a tradesperson looking to work on complex automation projects rather than repetitive maintenance work. You'll work closely with our engineering, manufacturing and project teams to build state-of-the-art equipment that is deployed across Australia and New Zealand. Occasional travel to customer sites across Australia and overseas is required, including some time away from home."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 4,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 3,
+          "timing": 0,
+          "commercialPotential": 0,
+          "evidenceStrength": 1
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 3",
+          "timing: 0",
+          "commercialPotential: 0",
+          "evidenceStrength: 1",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Publication date unknown; freshness cannot be established."
+        ],
+        "ageDays": null
+      },
+      "priority": "Monitor"
+    }
+  ],
+  "audit": [
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media",
+      "retrievedAt": "2026-11-05T04:04:07.231606+00:00",
+      "sha256": "8369340c765a272108db52da0c971e26e4d43fd2d7fc7e2d039f02cc19796638",
+      "snapshot": "data/evidence/8369340c765a272108db52da0c971e26e4d43fd2d7fc7e2d039f02cc19796638.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/brep-site-reaches-important-rezoning-milestone",
+      "retrievedAt": "2026-11-05T04:04:09.235895+00:00",
+      "sha256": "f1e5cda8999c713c5e59335662d3a2f2eace5639dd090280164eb5c527885a85",
+      "snapshot": "data/evidence/f1e5cda8999c713c5e59335662d3a2f2eace5639dd090280164eb5c527885a85.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/building-and-business/doing-business-us/contracts-awarded",
+      "retrievedAt": "2026-11-05T04:04:10.806049+00:00",
+      "sha256": "8554e90efc95f5685205ac5eed3d1ea3cb38c3428a1fd638776df654bbf74aad",
+      "snapshot": "data/evidence/8554e90efc95f5685205ac5eed3d1ea3cb38c3428a1fd638776df654bbf74aad.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/gb-news-and-magazine",
+      "retrievedAt": "2026-11-05T04:04:12.804574+00:00",
+      "sha256": "bc7424ddd06da585db1ebb3ce15c6aaa6d8127be39e10036860112c7c98dc3b9",
+      "snapshot": "data/evidence/bc7424ddd06da585db1ebb3ce15c6aaa6d8127be39e10036860112c7c98dc3b9.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/follow-us-social-media",
+      "retrievedAt": "2026-11-05T04:04:14.818192+00:00",
+      "sha256": "e119b85e07567ab92793703f41743bbe535510cb35d21d5f370bdd0f38b00c5c",
+      "snapshot": "data/evidence/e119b85e07567ab92793703f41743bbe535510cb35d21d5f370bdd0f38b00c5c.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/media-enquiries",
+      "retrievedAt": "2026-11-05T04:04:16.897808+00:00",
+      "sha256": "a3537179133b7f18d02ae3a9e57e9507578a6b2ef0a7e6f9f3a3197d4cc2bf4e",
+      "snapshot": "data/evidence/a3537179133b7f18d02ae3a9e57e9507578a6b2ef0a7e6f9f3a3197d4cc2bf4e.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/newsletters",
+      "retrievedAt": "2026-11-05T04:04:18.773750+00:00",
+      "sha256": "3c1aedd4670a5714aaf9ab6446a6910e401a80468201be2da83076aafbf869ed",
+      "snapshot": "data/evidence/3c1aedd4670a5714aaf9ab6446a6910e401a80468201be2da83076aafbf869ed.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/community-invited-help-shape-eaglehawk-districts-future",
+      "retrievedAt": "2026-11-05T04:04:20.783668+00:00",
+      "sha256": "66ce30df4ae7bef0a685b35bcb6cdca44c183283464c370f0a9343c08113dbbc",
+      "snapshot": "data/evidence/66ce30df4ae7bef0a685b35bcb6cdca44c183283464c370f0a9343c08113dbbc.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/view-street-set-buzz-artist-market-and-live-music-returns-november-21",
+      "retrievedAt": "2026-11-05T04:04:22.806492+00:00",
+      "sha256": "957712eed493e8f571e83eaa5784c47c5115ba5f6e47e8093b5aa212f1a788b7",
+      "snapshot": "data/evidence/957712eed493e8f571e83eaa5784c47c5115ba5f6e47e8093b5aa212f1a788b7.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/hargreaves-street-mall-turns-volume-aus-music-month",
+      "retrievedAt": "2026-11-05T04:04:24.774249+00:00",
+      "sha256": "f4425bffb43a5bc5a53ae68c4d1a52852da14ce9afb4c5ef8a1dae8a8f1bab63",
+      "snapshot": "data/evidence/f4425bffb43a5bc5a53ae68c4d1a52852da14ce9afb4c5ef8a1dae8a8f1bab63.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/citys-grass-slashing-program-well-underway",
+      "retrievedAt": "2026-11-05T04:04:26.816576+00:00",
+      "sha256": "f3f5a70796949691df3b8cf0779f935040f19f00fd7255ad174289eeb595c735",
+      "snapshot": "data/evidence/f3f5a70796949691df3b8cf0779f935040f19f00fd7255ad174289eeb595c735.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/new-pavilion-north-bendigo-rec-reserve-officially-opened",
+      "retrievedAt": "2026-11-05T04:04:28.786508+00:00",
+      "sha256": "48df13408cd4dd849aa78325b811960f9cc31596f4575ed10a37ff2be029602a",
+      "snapshot": "data/evidence/48df13408cd4dd849aa78325b811960f9cc31596f4575ed10a37ff2be029602a.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/city-continue-investigate-safety-improvements-howard-street",
+      "retrievedAt": "2026-11-05T04:04:30.803955+00:00",
+      "sha256": "78fdda454d45267e533c9ff88e044270cd3a6ac26b6dcb832f0f792d0da7ff17",
+      "snapshot": "data/evidence/78fdda454d45267e533c9ff88e044270cd3a6ac26b6dcb832f0f792d0da7ff17.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/improvements-bendigo-librarys-public-toilet-and-parent-facilities-completed",
+      "retrievedAt": "2026-11-05T04:04:32.799662+00:00",
+      "sha256": "a92cc123ea1cb8a4872baa6dc203f9f0eadf88b9e300d4b493ff736bfba87e4b",
+      "snapshot": "data/evidence/a92cc123ea1cb8a4872baa6dc203f9f0eadf88b9e300d4b493ff736bfba87e4b.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/help-shape-greater-bendigos-budget-2027-2028",
+      "retrievedAt": "2026-11-05T04:04:34.814147+00:00",
+      "sha256": "ed07c8e5f9e069d64073d2ac39618dea9cbedae68b86ea467a2c9d46061c7571",
+      "snapshot": "data/evidence/ed07c8e5f9e069d64073d2ac39618dea9cbedae68b86ea467a2c9d46061c7571.txt"
+    },
+    {
+      "url": "https://www.sheppadviser.com.au/feed",
+      "retrievedAt": "2026-11-05T04:05:22.293617+00:00",
+      "sha256": "7adb19eb218405495eb5e6077ac090a394eeeba315b75562713a7ea256dba52d",
+      "snapshot": "data/evidence/7adb19eb218405495eb5e6077ac090a394eeeba315b75562713a7ea256dba52d.txt"
+    },
+    {
+      "url": "https://www.sheppadviser.com.au/2m-boost-to-unlock-next-stage-of-gv-link-enterprise-park",
+      "retrievedAt": "2026-11-05T04:05:42.907670+00:00",
+      "sha256": "d33e282df2d3ef15d213f7fdc5eb5a8616372a03972e32aeb328c484a85f9eba",
+      "snapshot": "data/evidence/d33e282df2d3ef15d213f7fdc5eb5a8616372a03972e32aeb328c484a85f9eba.txt"
+    },
+    {
+      "url": "https://www.sheppadviser.com.au/more-than-20-years-in-the-making-gv-link-enterprise-park-is-open",
+      "retrievedAt": "2026-11-05T04:06:03.187579+00:00",
+      "sha256": "e25ecadceff44f3414a198d96315220efc757eca3addad6af812ef1e2b873a33",
+      "snapshot": "data/evidence/e25ecadceff44f3414a198d96315220efc757eca3addad6af812ef1e2b873a33.txt"
+    },
+    {
+      "url": "https://www.sheppadviser.com.au/a-funding-story",
+      "retrievedAt": "2026-11-05T04:06:22.807280+00:00",
+      "sha256": "a1303ff7e2295ab909a4eb564b541e06b69bba4aeecbeb9a61551b41fc780912",
+      "snapshot": "data/evidence/a1303ff7e2295ab909a4eb564b541e06b69bba4aeecbeb9a61551b41fc780912.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/feed",
+      "retrievedAt": "2026-11-05T04:06:26.987272+00:00",
+      "sha256": "065860012c16b6acd75cc46261917b4432d3aab7e339219d74924f119222aa48",
+      "snapshot": "data/evidence/065860012c16b6acd75cc46261917b4432d3aab7e339219d74924f119222aa48.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/funding-supports-new-facility-for-manufacturer",
+      "retrievedAt": "2026-11-05T04:06:27.575162+00:00",
+      "sha256": "595945792fb52ba7635d151c61343bdc76aa33ec4280801e853f026fbbf0ffaf",
+      "snapshot": "data/evidence/595945792fb52ba7635d151c61343bdc76aa33ec4280801e853f026fbbf0ffaf.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/sport/locals-shine-at-the-cup-bendigos-big-day-launches-with-pair-of-hometown-wins",
+      "retrievedAt": "2026-11-05T04:06:29.583641+00:00",
+      "sha256": "3934240f43de3ae02c0a255d06cc90ed3ca2d4279db42e91774a4521fdadff89",
+      "snapshot": "data/evidence/3934240f43de3ae02c0a255d06cc90ed3ca2d4279db42e91774a4521fdadff89.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/woodhouse-trumps-contemporaries-to-take-out-title",
+      "retrievedAt": "2026-11-05T04:06:31.586699+00:00",
+      "sha256": "f9c57af916f9d8880d48285652c69ee2fb7d4464c3f9d8ae16abe2c81709b28e",
+      "snapshot": "data/evidence/f9c57af916f9d8880d48285652c69ee2fb7d4464c3f9d8ae16abe2c81709b28e.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/sport/cup-day-over-runneth-with-joy-crowd-rises-again",
+      "retrievedAt": "2026-11-05T04:06:33.665959+00:00",
+      "sha256": "b6e45882555a240495f5ec70d402c91cc32a8506be188808153832ce74bf9648",
+      "snapshot": "data/evidence/b6e45882555a240495f5ec70d402c91cc32a8506be188808153832ce74bf9648.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/sport/mias-spirited-debut-a-dream-come-true",
+      "retrievedAt": "2026-11-05T04:06:35.542176+00:00",
+      "sha256": "2fd66034e30ad308f622c91a520b4e46fe6e8164406697ab390631ffd4788fa2",
+      "snapshot": "data/evidence/2fd66034e30ad308f622c91a520b4e46fe6e8164406697ab390631ffd4788fa2.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/sport/bfnl-returns-to-self-administration-more-changes-to-womens-football",
+      "retrievedAt": "2026-11-05T04:06:37.575899+00:00",
+      "sha256": "3f2b0bbfc9bc62ab147f797356594f0b9bfed4cb530767f5e730b9558124abba",
+      "snapshot": "data/evidence/3f2b0bbfc9bc62ab147f797356594f0b9bfed4cb530767f5e730b9558124abba.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/sport/kereama-flags-growing-pains-as-spirit-slip-to-0-3",
+      "retrievedAt": "2026-11-05T04:06:39.616153+00:00",
+      "sha256": "4dfb60e9bcfeb6f0a69616c8fcab7be440f4f41099bfe793620bbad06f4a608b",
+      "snapshot": "data/evidence/4dfb60e9bcfeb6f0a69616c8fcab7be440f4f41099bfe793620bbad06f4a608b.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/sport/maccas-the-new-naming-rights-sponsor-of-bfnl-under-18s",
+      "retrievedAt": "2026-11-05T04:06:41.600306+00:00",
+      "sha256": "c430e8e2c31831d0d9b0056bd2ab4df2d68a860b8ad925930c05d3186ea47f20",
+      "snapshot": "data/evidence/c430e8e2c31831d0d9b0056bd2ab4df2d68a860b8ad925930c05d3186ea47f20.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/more-preschool-kids-to-go-bush",
+      "retrievedAt": "2026-11-05T04:06:43.596506+00:00",
+      "sha256": "d5c34748b70986f5999874e912f480a1deee78e481394c3ee0acb9e2713e7f0a",
+      "snapshot": "data/evidence/d5c34748b70986f5999874e912f480a1deee78e481394c3ee0acb9e2713e7f0a.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/hopefully-he-can-do-bendigo-proud-fitzsimmons-living-his-melbourne-cup-dream",
+      "retrievedAt": "2026-11-05T04:06:45.893278+00:00",
+      "sha256": "7d1f27e25cc29456ec0240318a3014a7422c787013f5e1921a8145ca53cb90fa",
+      "snapshot": "data/evidence/7d1f27e25cc29456ec0240318a3014a7422c787013f5e1921a8145ca53cb90fa.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/last-chance-to-enrol-ahead-of-state-election",
+      "retrievedAt": "2026-11-05T04:06:47.791953+00:00",
+      "sha256": "13c0407e1485546584d5c7023a7cf1c3cc794e687406c0dd76e8353ae93215c2",
+      "snapshot": "data/evidence/13c0407e1485546584d5c7023a7cf1c3cc794e687406c0dd76e8353ae93215c2.txt"
+    },
+    {
+      "url": "https://foodmach.com.au/jobs",
+      "retrievedAt": "2026-11-05T04:06:51.330872+00:00",
+      "sha256": "eae761f42a3734657de29d9177cdd76733d3ff04cccc6fa4c59d643e3298609c",
+      "snapshot": "data/evidence/eae761f42a3734657de29d9177cdd76733d3ff04cccc6fa4c59d643e3298609c.txt"
+    },
+    {
+      "url": "https://foodmach.com.au/jobs",
+      "retrievedAt": "2026-11-05T04:06:53.341839+00:00",
+      "sha256": "b1178be95f8fabffc6f98cbe3fd82bbf380a064b44c5c5dc6d32a35cdf5540bf",
+      "snapshot": "data/evidence/b1178be95f8fabffc6f98cbe3fd82bbf380a064b44c5c5dc6d32a35cdf5540bf.txt"
+    },
+    {
+      "url": "https://foodmach.com.au/jobs",
+      "retrievedAt": "2026-11-05T04:06:55.156578+00:00",
+      "sha256": "9fa8065bd2856225fd934109525ca75e40a182508a34dde12c8a0ebdddf92b38",
+      "snapshot": "data/evidence/9fa8065bd2856225fd934109525ca75e40a182508a34dde12c8a0ebdddf92b38.txt"
+    }
+  ],
+  "report": {
+    "startedAt": "2026-11-05T04:04:03.697342+00:00",
+    "finishedAt": null,
+    "sources": [
+      {
+        "name": "Regional Development Victoria",
+        "url": "https://www.rdv.vic.gov.au/news",
+        "status": "failed",
+        "error": "Robots access failed (403); collection stopped"
+      },
+      {
+        "name": "City of Greater Bendigo",
+        "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media",
+        "status": "success",
+        "coverage": {
+          "discoveredLinks": 14,
+          "checkedPages": 14,
+          "windowLimit": 12,
+          "boundedCoverage": true
+        }
+      },
+      {
+        "name": "Greater Shepparton Council",
+        "url": "https://greatershepparton.vic.gov.au/whats-happening/news",
+        "status": "failed",
+        "error": "Network/proxy connection failed: timed out"
+      },
+      {
+        "name": "Mildura Rural City Council",
+        "url": "https://www.mildura.vic.gov.au/Contact-us/News-and-media/Media-Releases",
+        "status": "failed",
+        "error": "Robots access failed (403); collection stopped"
+      },
+      {
+        "name": "The Shepparton Adviser",
+        "url": "https://www.sheppadviser.com.au/feed/",
+        "status": "success",
+        "coverage": {
+          "discoveredLinks": 1,
+          "checkedPages": 3,
+          "windowLimit": 12,
+          "boundedCoverage": false
+        }
+      },
+      {
+        "name": "Bendigo Times",
+        "url": "https://timesnewsgroup.com.au/bendigotimes/feed/",
+        "status": "success",
+        "coverage": {
+          "discoveredLinks": 10,
+          "checkedPages": 11,
+          "windowLimit": 12,
+          "boundedCoverage": false
+        }
+      },
+      {
+        "name": "Foodmach Careers",
+        "url": "https://foodmach.com.au/jobs/",
+        "status": "success",
+        "coverage": {
+          "discoveredLinks": 0,
+          "checkedPages": 2,
+          "windowLimit": 12,
+          "boundedCoverage": false
+        }
+      }
+    ],
+    "added": 0,
+    "updated": 0,
+    "status": "incomplete",
+    "partialAdded": 0,
+    "partialUpdated": 0
+  }
+}
