@@ -1481,6 +1481,87 @@
       "added": 0,
       "updated": 0,
       "status": "failed"
+    },
+    {
+      "startedAt": "2026-11-05T03:18:13.428217+00:00",
+      "finishedAt": "2026-11-05T03:20:40.106618+00:00",
+      "sources": [
+        {
+          "name": "Regional Development Victoria",
+          "url": "https://www.rdv.vic.gov.au/news",
+          "status": "failed",
+          "error": "Robots access failed (403); collection stopped"
+        },
+        {
+          "name": "City of Greater Bendigo",
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media",
+          "status": "success",
+          "coverage": {
+            "discoveredLinks": 14,
+            "checkedPages": 14,
+            "windowLimit": 12,
+            "boundedCoverage": true
+          }
+        },
+        {
+          "name": "Greater Shepparton Council",
+          "url": "https://greatershepparton.vic.gov.au/whats-happening/news",
+          "status": "failed",
+          "error": "Network/proxy connection failed: timed out"
+        },
+        {
+          "name": "Mildura Rural City Council",
+          "url": "https://www.mildura.vic.gov.au/Latest-News",
+          "status": "failed",
+          "error": "Robots access failed (403); collection stopped"
+        },
+        {
+          "name": "The Shepparton Adviser",
+          "url": "https://www.sheppadviser.com.au/feed/",
+          "status": "incomplete",
+          "errors": [
+            {
+              "url": "https://www.sheppadviser.com.au/2m-boost-to-unlock-next-stage-of-gv-link-enterprise-park/",
+              "error": "Access protection encountered; not bypassed"
+            },
+            {
+              "url": "https://www.sheppadviser.com.au/more-than-20-years-in-the-making-gv-link-enterprise-park-is-open/",
+              "error": "Access protection encountered; not bypassed"
+            },
+            {
+              "url": "https://www.sheppadviser.com.au/a-funding-story",
+              "error": "Access protection encountered; not bypassed"
+            }
+          ],
+          "coverage": {
+            "discoveredLinks": 1,
+            "checkedPages": 0,
+            "windowLimit": 12,
+            "boundedCoverage": false
+          },
+          "error": "3 article checks failed"
+        },
+        {
+          "name": "Bendigo Times",
+          "url": "https://timesnewsgroup.com.au/bendigotimes/feed/",
+          "status": "success",
+          "coverage": {
+            "discoveredLinks": 0,
+            "checkedPages": 1,
+            "windowLimit": 12,
+            "boundedCoverage": false
+          }
+        },
+        {
+          "name": "Foodmach Careers",
+          "url": "https://foodmach.com.au/jobs/",
+          "status": "failed",
+          "error": "Access protection encountered; not bypassed"
+        }
+      ],
+      "added": 0,
+      "updated": 0,
+      "status": "incomplete"
     }
   ]
 }

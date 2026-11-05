@@ -1,0 +1,1240 @@
+{
+  "candidates": [
+    {
+      "id": "A74ba8f5734f93e1a7299",
+      "company": "Bendigo Regional Employment Precinct",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        },
+        {
+          "branch": "Bendigo",
+          "town": "Marong"
+        }
+      ],
+      "sector": "Industrial property & logistics",
+      "type": "Expansion & investment",
+      "date": "2026-10-06",
+      "headline": "BREP site reaches important rezoning milestone",
+      "summary": "Bendigo Regional Employment Precinct – the City of Greater Bendigo’s highest priority advocacy project – has been rezoned as industrial land.",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/brep-site-reaches-important-rezoning-milestone",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:18:44.322341+00:00",
+      "lastChecked": "2026-11-05T03:18:44.322355+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/brep-site-reaches-important-rezoning-milestone",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": "2026-10-06",
+          "retrievedAt": "2026-11-05T03:18:44.322358+00:00",
+          "sha256": "20a36affec396f0764cb976bfcd4c49143d1bc89c5109d9e5091d403735b7c0d",
+          "snapshot": "data/evidence/20a36affec396f0764cb976bfcd4c49143d1bc89c5109d9e5091d403735b7c0d.txt",
+          "quotes": [
+            "Bendigo Regional Employment Precinct – the City of Greater Bendigo’s highest priority advocacy project – has been rezoned as industrial land."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 10,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 2,
+          "serviceRelevance": 3,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 3
+        },
+        "priority": "Medium",
+        "reasons": [
+          "workforceDemand: 2",
+          "serviceRelevance: 3",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 3",
+          "Published direct recruitment does not confirm external provider demand."
+        ],
+        "ageDays": 30
+      },
+      "priority": "Medium"
+    },
+    {
+      "id": "A1b6b70d5f67b7ee6d096",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Tenders & contracts",
+      "date": "",
+      "headline": "Contracts awarded",
+      "summary": "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport\n\nView a list of our current contracts awarded in line with the City’s Procurement Policy at the time of the contract award\n\nFor more information contact the Procurement team via email:\n\nTenders, contracts and information for suppliers. Prequalification for contractors, service providers and suppliers.",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/building-and-business/doing-business-us/contracts-awarded",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:18:44.323606+00:00",
+      "lastChecked": "2026-11-05T03:18:44.323610+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/building-and-business/doing-business-us/contracts-awarded",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": null,
+          "retrievedAt": "2026-11-05T03:18:44.323612+00:00",
+          "sha256": "44b6e43a5f77ff9788e897752cdc8817b7b63c09ae1152edcc5b9e40e5dd08c5",
+          "snapshot": "data/evidence/44b6e43a5f77ff9788e897752cdc8817b7b63c09ae1152edcc5b9e40e5dd08c5.txt",
+          "quotes": [
+            "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport",
+            "View a list of our current contracts awarded in line with the City’s Procurement Policy at the time of the contract award",
+            "For more information contact the Procurement team via email:",
+            "Tenders, contracts and information for suppliers. Prequalification for contractors, service providers and suppliers."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 1,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 0,
+          "timing": 0,
+          "commercialPotential": 0,
+          "evidenceStrength": 1
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 0",
+          "timing: 0",
+          "commercialPotential: 0",
+          "evidenceStrength: 1",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Publication date unknown; freshness cannot be established."
+        ],
+        "ageDays": null
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "A48874f1ca1bfb9521420",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        },
+        {
+          "branch": "Bendigo",
+          "town": "Heathcote"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Tenders & contracts",
+      "date": "",
+      "headline": "GB news and magazine",
+      "summary": "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/gb-news-and-magazine",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:18:44.324896+00:00",
+      "lastChecked": "2026-11-05T03:18:44.324898+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/gb-news-and-magazine",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": null,
+          "retrievedAt": "2026-11-05T03:18:44.324900+00:00",
+          "sha256": "58843e7fb44ee763a2b53fb3bf0ef6b17a542ac55f8d05ceab7afedacc17e4d9",
+          "snapshot": "data/evidence/58843e7fb44ee763a2b53fb3bf0ef6b17a542ac55f8d05ceab7afedacc17e4d9.txt",
+          "quotes": [
+            "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport"
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 1,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 0,
+          "timing": 0,
+          "commercialPotential": 0,
+          "evidenceStrength": 1
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 0",
+          "timing: 0",
+          "commercialPotential: 0",
+          "evidenceStrength: 1",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Publication date unknown; freshness cannot be established."
+        ],
+        "ageDays": null
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "A38a3de7f654da67ce2da",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Tenders & contracts",
+      "date": "",
+      "headline": "Follow us on social media",
+      "summary": "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/follow-us-social-media",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:18:44.327034+00:00",
+      "lastChecked": "2026-11-05T03:18:44.327036+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/follow-us-social-media",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": null,
+          "retrievedAt": "2026-11-05T03:18:44.327038+00:00",
+          "sha256": "c0d0693b93c1ae8133e989e76aa75a32e14c97b449c0e6c56faba0f8b64b7312",
+          "snapshot": "data/evidence/c0d0693b93c1ae8133e989e76aa75a32e14c97b449c0e6c56faba0f8b64b7312.txt",
+          "quotes": [
+            "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport"
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 1,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 0,
+          "timing": 0,
+          "commercialPotential": 0,
+          "evidenceStrength": 1
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 0",
+          "timing: 0",
+          "commercialPotential: 0",
+          "evidenceStrength: 1",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Publication date unknown; freshness cannot be established."
+        ],
+        "ageDays": null
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "Aa0454db640b952712980",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Tenders & contracts",
+      "date": "",
+      "headline": "Media enquiries",
+      "summary": "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/media-enquiries",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:18:44.327761+00:00",
+      "lastChecked": "2026-11-05T03:18:44.327763+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/media-enquiries",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": null,
+          "retrievedAt": "2026-11-05T03:18:44.327764+00:00",
+          "sha256": "268e6a80760873fc77f2bceecdf782f0c53f46bc1b242e0bcb158305ac72e104",
+          "snapshot": "data/evidence/268e6a80760873fc77f2bceecdf782f0c53f46bc1b242e0bcb158305ac72e104.txt",
+          "quotes": [
+            "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport"
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 1,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 0,
+          "timing": 0,
+          "commercialPotential": 0,
+          "evidenceStrength": 1
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 0",
+          "timing: 0",
+          "commercialPotential: 0",
+          "evidenceStrength: 1",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Publication date unknown; freshness cannot be established."
+        ],
+        "ageDays": null
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "A6fd917683cab4034fa83",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Tenders & contracts",
+      "date": "",
+      "headline": "Newsletters",
+      "summary": "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport\n\nSign-up to receive regular updates about the Practical Regenerative Agricultural Communities program, which is a partnership between Macedon Ranges Shire Council, Hepburn Shire Council, City of Greater Bendigo, North Central Catchment Management Authority, Coliban Water, Melbourne Water and the Upper Campaspe Landcare Network.",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/newsletters",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:18:44.329478+00:00",
+      "lastChecked": "2026-11-05T03:18:44.329480+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/newsletters",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": null,
+          "retrievedAt": "2026-11-05T03:18:44.329482+00:00",
+          "sha256": "2b5bc2e727373090f6a0700e728dad0e5fc83f5f6e50937faed64bb5aba91e30",
+          "snapshot": "data/evidence/2b5bc2e727373090f6a0700e728dad0e5fc83f5f6e50937faed64bb5aba91e30.txt",
+          "quotes": [
+            "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport",
+            "Sign-up to receive regular updates about the Practical Regenerative Agricultural Communities program, which is a partnership between Macedon Ranges Shire Council, Hepburn Shire Council, City of Greater Bendigo, North Central Catchment Management Authority, Coliban Water, Melbourne Water and the Upper Campaspe Landcare Network."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 4,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 3,
+          "timing": 0,
+          "commercialPotential": 0,
+          "evidenceStrength": 1
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 3",
+          "timing: 0",
+          "commercialPotential: 0",
+          "evidenceStrength: 1",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Publication date unknown; freshness cannot be established."
+        ],
+        "ageDays": null
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "Ab13080eca26a8b7cedde",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Tenders & contracts",
+      "date": "2026-11-03",
+      "headline": "Community invited to help shape Eaglehawk district's future",
+      "summary": "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport\n\nReplacing the existing Eaglehawk Structure Plan, created in 2013, the new Structure Plan and Urban Design Framework will help shape decisions about land use, housing, heritage and neighbourhood character, transport and access, community facilities and services, recreation and open space, the natural environment, climate change and environmental risks.\n\n“Whether it’s ideas about housing, transport, parks, community facilities or protecting what makes Eaglehawk and surrounds special, we encourage everyone to get involved and share their views.”",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/community-invited-help-shape-eaglehawk-districts-future",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:18:44.332127+00:00",
+      "lastChecked": "2026-11-05T03:18:44.332129+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/community-invited-help-shape-eaglehawk-districts-future",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": "2026-11-03",
+          "retrievedAt": "2026-11-05T03:18:44.332131+00:00",
+          "sha256": "b3db8f3b4c96a4d404003b726e18f82832a0dbd571261197c8ca2c3a4f54337e",
+          "snapshot": "data/evidence/b3db8f3b4c96a4d404003b726e18f82832a0dbd571261197c8ca2c3a4f54337e.txt",
+          "quotes": [
+            "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport",
+            "Replacing the existing Eaglehawk Structure Plan, created in 2013, the new Structure Plan and Urban Design Framework will help shape decisions about land use, housing, heritage and neighbourhood character, transport and access, community facilities and services, recreation and open space, the natural environment, climate change and environmental risks.",
+            "“Whether it’s ideas about housing, transport, parks, community facilities or protecting what makes Eaglehawk and surrounds special, we encourage everyone to get involved and share their views.”"
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 8,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 3,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 3
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 3",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 3",
+          "Published direct recruitment does not confirm external provider demand."
+        ],
+        "ageDays": 2
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "Ab68640151aa3ac59ac2f",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Tenders & contracts",
+      "date": "2026-11-02",
+      "headline": "View Street set to buzz as Artist Market and live music returns on November 21",
+      "summary": "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport\n\n“Following the success of the first Artist Market earlier this year, we’re excited to offer another opportunity for the community to meet local artists, hear about their creative process and even purchase some of their works,” Ms Field said.\n\n“Bring your family and friends along to celebrate the best of View Street with delicious food and coffee options, beautiful boutiques, free live music on The Capital front steps, and an impressive range of local art to discover.”",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/view-street-set-buzz-artist-market-and-live-music-returns-november-21",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:18:44.334440+00:00",
+      "lastChecked": "2026-11-05T03:18:44.334442+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/view-street-set-buzz-artist-market-and-live-music-returns-november-21",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": "2026-11-02",
+          "retrievedAt": "2026-11-05T03:18:44.334443+00:00",
+          "sha256": "1c5ff5eeedc901f600ddb0480c49dfb613f4c698ed3ba87b8980b444ddffbe40",
+          "snapshot": "data/evidence/1c5ff5eeedc901f600ddb0480c49dfb613f4c698ed3ba87b8980b444ddffbe40.txt",
+          "quotes": [
+            "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport",
+            "“Following the success of the first Artist Market earlier this year, we’re excited to offer another opportunity for the community to meet local artists, hear about their creative process and even purchase some of their works,” Ms Field said.",
+            "“Bring your family and friends along to celebrate the best of View Street with delicious food and coffee options, beautiful boutiques, free live music on The Capital front steps, and an impressive range of local art to discover.”"
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 8,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 3,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 3
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 3",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 3",
+          "Published direct recruitment does not confirm external provider demand."
+        ],
+        "ageDays": 3
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "A468b3dea9df00b9dbde2",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Closure & restructuring",
+      "date": "2026-11-01",
+      "headline": "Hargreaves Street Mall turns up the volume for Aus Music Month",
+      "summary": "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport\n\nThe line-up features Xanthe Thorpe, Steph Bitter, Miss Tuesday, Tait Poyser and Kalo Davis Band, with Sugargum closing the evening.",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/hargreaves-street-mall-turns-volume-aus-music-month",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:18:44.336525+00:00",
+      "lastChecked": "2026-11-05T03:18:44.336527+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/hargreaves-street-mall-turns-volume-aus-music-month",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": "2026-11-01",
+          "retrievedAt": "2026-11-05T03:18:44.336528+00:00",
+          "sha256": "7b7907bdeebdbb5f514a0d1e8e85e6a3c7f5a8b955eb36b387c0aefb2fba3c6a",
+          "snapshot": "data/evidence/7b7907bdeebdbb5f514a0d1e8e85e6a3c7f5a8b955eb36b387c0aefb2fba3c6a.txt",
+          "quotes": [
+            "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport",
+            "The line-up features Xanthe Thorpe, Steph Bitter, Miss Tuesday, Tait Poyser and Kalo Davis Band, with Sugargum closing the evening."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 5,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 0,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 3
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 0",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 3",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Risk, competitor or economic context: separated from sales opportunities."
+        ],
+        "ageDays": 4
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "Ae53a2e0f650d485d5f5a",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Hiring & workforce",
+      "date": "2026-10-28",
+      "headline": "City's Grass Slashing Program well underway",
+      "summary": "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport\n\n“It’s important for the community to know that the City is not the only authority responsible for grass cutting and slashing on road-sides and Crown Land areas. Other authorities also play a role in undertaking seasonal slashing works.",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/citys-grass-slashing-program-well-underway",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:18:44.338671+00:00",
+      "lastChecked": "2026-11-05T03:18:44.338673+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/citys-grass-slashing-program-well-underway",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": "2026-10-28",
+          "retrievedAt": "2026-11-05T03:18:44.338675+00:00",
+          "sha256": "9a591b735e7e3caae8745da0eb9d65ef6876d04b8024fda4f9c68e25b8dd2b3e",
+          "snapshot": "data/evidence/9a591b735e7e3caae8745da0eb9d65ef6876d04b8024fda4f9c68e25b8dd2b3e.txt",
+          "quotes": [
+            "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport",
+            "“It’s important for the community to know that the City is not the only authority responsible for grass cutting and slashing on road-sides and Crown Land areas. Other authorities also play a role in undertaking seasonal slashing works."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 7,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 0,
+          "timing": 2,
+          "commercialPotential": 2,
+          "evidenceStrength": 3
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 0",
+          "timing: 2",
+          "commercialPotential: 2",
+          "evidenceStrength: 3",
+          "Published direct recruitment does not confirm external provider demand."
+        ],
+        "ageDays": 8
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "A089306aaaddea9f493d7",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Hiring & workforce",
+      "date": "2026-10-22",
+      "headline": "New Pavilion at North Bendigo Rec Reserve officially opened",
+      "summary": "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport\n\nSeasonal users of the new pavilion will include Golden City Football Club (all grades), Bendigo Cricket Club (junior and women), North Bendigo Football/Netball Club (juniors training) and the wider community.\n\nThe new $3.86M pavilion was funded with $1M from the Australian Government’s Investing in Our Communities program, $1M from the Victorian Government’s Regional Community Sports Infrastructure Fund, $1.79M from the City of Greater Bendigo, $37,500 from Bendigo Cricket Club and $37,500 from Golden City Football Club.",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/new-pavilion-north-bendigo-rec-reserve-officially-opened",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:18:44.341108+00:00",
+      "lastChecked": "2026-11-05T03:18:44.341110+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/new-pavilion-north-bendigo-rec-reserve-officially-opened",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": "2026-10-22",
+          "retrievedAt": "2026-11-05T03:18:44.341111+00:00",
+          "sha256": "34f3ee6fdbafac9202fa1e89be04a72985a712bdf2980a1ab406e64455674f99",
+          "snapshot": "data/evidence/34f3ee6fdbafac9202fa1e89be04a72985a712bdf2980a1ab406e64455674f99.txt",
+          "quotes": [
+            "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport",
+            "Seasonal users of the new pavilion will include Golden City Football Club (all grades), Bendigo Cricket Club (junior and women), North Bendigo Football/Netball Club (juniors training) and the wider community.",
+            "The new $3.86M pavilion was funded with $1M from the Australian Government’s Investing in Our Communities program, $1M from the Victorian Government’s Regional Community Sports Infrastructure Fund, $1.79M from the City of Greater Bendigo, $37,500 from Bendigo Cricket Club and $37,500 from Golden City Football Club."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 7,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 0,
+          "timing": 2,
+          "commercialPotential": 2,
+          "evidenceStrength": 3
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 0",
+          "timing: 2",
+          "commercialPotential: 2",
+          "evidenceStrength: 3",
+          "Published direct recruitment does not confirm external provider demand."
+        ],
+        "ageDays": 14
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "Ac13540ddaed6d44e4099",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Expansion & investment",
+      "date": "2026-10-19",
+      "headline": "City to continue to investigate safety improvements for Howard Street",
+      "summary": "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport\n\nFollowing a community consultation process, the Greater Bendigo City Council has voted not to undertake a trial banning heavy vehicle access between 8am and 9.30am and 2.30pm and 4pm, Monday to Friday in Howard Street, between Midland Highway and Goynes Road Epsom.\n\nThe community engagement was undertaken following a request from the Victorian Government’s Department of Transport and Planning (DTP) who had received significant feedback received from Epsom residents regarding safety concerns associated with heavy vehicle movements through the area, particularly during peak periods when school and commuter traffic is at its highest.\n\nCity of Greater Bendigo Mayor Cr Thomas Prince said while the City will not proceed with the trial, it will continue to investigate, review, implement and advocate for traffic safety improvements within the Howard Street corridor and surrounding road network in partnership with government agencies and stakeholders.",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/city-continue-investigate-safety-improvements-howard-street",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:18:44.344120+00:00",
+      "lastChecked": "2026-11-05T03:18:44.344122+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/city-continue-investigate-safety-improvements-howard-street",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": "2026-10-19",
+          "retrievedAt": "2026-11-05T03:18:44.344124+00:00",
+          "sha256": "625fd86aa1aa2615bfc1d9e0333fe7b4ec8e9f6ba27e69d74bd288e3d7f17c7b",
+          "snapshot": "data/evidence/625fd86aa1aa2615bfc1d9e0333fe7b4ec8e9f6ba27e69d74bd288e3d7f17c7b.txt",
+          "quotes": [
+            "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport",
+            "Following a community consultation process, the Greater Bendigo City Council has voted not to undertake a trial banning heavy vehicle access between 8am and 9.30am and 2.30pm and 4pm, Monday to Friday in Howard Street, between Midland Highway and Goynes Road Epsom.",
+            "The community engagement was undertaken following a request from the Victorian Government’s Department of Transport and Planning (DTP) who had received significant feedback received from Epsom residents regarding safety concerns associated with heavy vehicle movements through the area, particularly during peak periods when school and commuter traffic is at its highest.",
+            "City of Greater Bendigo Mayor Cr Thomas Prince said while the City will not proceed with the trial, it will continue to investigate, review, implement and advocate for traffic safety improvements within the Howard Street corridor and surrounding road network in partnership with government agencies and stakeholders."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 10,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 2,
+          "serviceRelevance": 3,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 3
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 2",
+          "serviceRelevance: 3",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 3",
+          "Published direct recruitment does not confirm external provider demand."
+        ],
+        "ageDays": 17
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "Aa8182354ecbde72c4865",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Expansion & investment",
+      "date": "2026-10-16",
+      "headline": "Improvements to Bendigo Library's Public Toilet and Parent Facilities completed",
+      "summary": "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport\n\nThe City of Greater Bendigo has completed a major project to improve the Bendigo Library’s public toilet and parent facilities to comply with the current National Construction Code and make them safer and easier to access.\n\nDemolition of the old public toilet area and construction of new self-contained toilet cubicles to improve safety and efficiency\n\nConstruction of a dedicated cleaner’s room for improved cleaning functionality",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/improvements-bendigo-librarys-public-toilet-and-parent-facilities-completed",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:18:44.346401+00:00",
+      "lastChecked": "2026-11-05T03:18:44.346403+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/improvements-bendigo-librarys-public-toilet-and-parent-facilities-completed",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": "2026-10-16",
+          "retrievedAt": "2026-11-05T03:18:44.346404+00:00",
+          "sha256": "9bb221b06cffca1820474619c2192fd9832000e1311065085c1db154a142da17",
+          "snapshot": "data/evidence/9bb221b06cffca1820474619c2192fd9832000e1311065085c1db154a142da17.txt",
+          "quotes": [
+            "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport",
+            "The City of Greater Bendigo has completed a major project to improve the Bendigo Library’s public toilet and parent facilities to comply with the current National Construction Code and make them safer and easier to access.",
+            "Demolition of the old public toilet area and construction of new self-contained toilet cubicles to improve safety and efficiency",
+            "Construction of a dedicated cleaner’s room for improved cleaning functionality"
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 10,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 2,
+          "serviceRelevance": 3,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 3
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 2",
+          "serviceRelevance: 3",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 3",
+          "Published direct recruitment does not confirm external provider demand."
+        ],
+        "ageDays": 20
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "Ad70303ebc43581712ca4",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Expansion & investment",
+      "date": "2026-10-12",
+      "headline": "Help shape Greater Bendigo's Budget 2027-2028",
+      "summary": "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport\n\nThe City also maintains $3.8B worth of important community infrastructure, including roads, bridges, buildings and recreational facilities.\n\n“Every year we make important decisions about how Council invests in services, infrastructure and projects that support our growing community, and community feedback plays an important role in that process,” Cr Prince said.",
+      "source": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/help-shape-greater-bendigos-budget-2027-2028",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": true,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:18:44.348435+00:00",
+      "lastChecked": "2026-11-05T03:18:44.348437+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/help-shape-greater-bendigos-budget-2027-2028",
+          "publisher": "City of Greater Bendigo",
+          "publicationDate": "2026-10-12",
+          "retrievedAt": "2026-11-05T03:18:44.348438+00:00",
+          "sha256": "0d5c4b1cb9e441f212d438f9f19d898262df489fa59bd91356c58bfbf5e35f3d",
+          "snapshot": "data/evidence/0d5c4b1cb9e441f212d438f9f19d898262df489fa59bd91356c58bfbf5e35f3d.txt",
+          "quotes": [
+            "Building and business Building and business Planning applications on public notice Tenders Building fences Bendigo Airport",
+            "The City also maintains $3.8B worth of important community infrastructure, including roads, bridges, buildings and recreational facilities.",
+            "“Every year we make important decisions about how Council invests in services, infrastructure and projects that support our growing community, and community feedback plays an important role in that process,” Cr Prince said."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 10,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 2,
+          "serviceRelevance": 3,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 3
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 2",
+          "serviceRelevance: 3",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 3",
+          "Published direct recruitment does not confirm external provider demand."
+        ],
+        "ageDays": 24
+      },
+      "priority": "Monitor"
+    },
+    {
+      "id": "Af144ef95d563c7288a44",
+      "company": "Aston Dynamics",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        },
+        {
+          "branch": "Bendigo",
+          "town": "Golden Square"
+        }
+      ],
+      "sector": "Advanced manufacturing",
+      "type": "Expansion & investment",
+      "date": "2026-04-24",
+      "headline": "Funding supports new facility for manufacturer",
+      "summary": "GOLDEN Square advanced vehicle braking system manufacturer Aston Dynamics will benefit from $1.5 million in funding from the latest round of the federal government’s Industry Growth Program (IGP).\n\n“Aston Dynamics acknowledges and appreciates the government’s support in advancing the development of its next generation of high-performance braking systems and strengthening Australia’s position in advanced manufacturing,” founder, CEO and head of design Dr Dale Hynd said.",
+      "source": "Bendigo Times",
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/funding-supports-new-facility-for-manufacturer",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": false,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-05T03:20:36.768335+00:00",
+      "lastChecked": "2026-11-05T03:20:36.768349+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://timesnewsgroup.com.au/bendigotimes/news/funding-supports-new-facility-for-manufacturer",
+          "publisher": "Bendigo Times",
+          "publicationDate": "2026-04-24",
+          "retrievedAt": "2026-11-05T03:20:36.768352+00:00",
+          "sha256": "d732f2fe69b707bf332268e99fe2fccac1b3506d19a111107051378b1cf60936",
+          "snapshot": "data/evidence/d732f2fe69b707bf332268e99fe2fccac1b3506d19a111107051378b1cf60936.txt",
+          "quotes": [
+            "GOLDEN Square advanced vehicle braking system manufacturer Aston Dynamics will benefit from $1.5 million in funding from the latest round of the federal government’s Industry Growth Program (IGP).",
+            "“Aston Dynamics acknowledges and appreciates the government’s support in advancing the development of its next generation of high-performance braking systems and strengthening Australia’s position in advanced manufacturing,” founder, CEO and head of design Dr Dale Hynd said."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 6,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 2,
+          "serviceRelevance": 3,
+          "timing": 0,
+          "commercialPotential": 0,
+          "evidenceStrength": 1
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 2",
+          "serviceRelevance: 3",
+          "timing: 0",
+          "commercialPotential: 0",
+          "evidenceStrength: 1",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Older than 45 days: current demand requires rechecking."
+        ],
+        "ageDays": 195
+      },
+      "priority": "Monitor"
+    }
+  ],
+  "audit": [
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media",
+      "retrievedAt": "2026-11-05T03:18:16.343011+00:00",
+      "sha256": "f84756e770fa5ed5c4b4467d73a85e9ecd553a4b4f67876ab55a6464b7960d1a",
+      "snapshot": "data/evidence/f84756e770fa5ed5c4b4467d73a85e9ecd553a4b4f67876ab55a6464b7960d1a.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/brep-site-reaches-important-rezoning-milestone",
+      "retrievedAt": "2026-11-05T03:18:18.323373+00:00",
+      "sha256": "20a36affec396f0764cb976bfcd4c49143d1bc89c5109d9e5091d403735b7c0d",
+      "snapshot": "data/evidence/20a36affec396f0764cb976bfcd4c49143d1bc89c5109d9e5091d403735b7c0d.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/building-and-business/doing-business-us/contracts-awarded",
+      "retrievedAt": "2026-11-05T03:18:20.320449+00:00",
+      "sha256": "44b6e43a5f77ff9788e897752cdc8817b7b63c09ae1152edcc5b9e40e5dd08c5",
+      "snapshot": "data/evidence/44b6e43a5f77ff9788e897752cdc8817b7b63c09ae1152edcc5b9e40e5dd08c5.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/gb-news-and-magazine",
+      "retrievedAt": "2026-11-05T03:18:22.322456+00:00",
+      "sha256": "58843e7fb44ee763a2b53fb3bf0ef6b17a542ac55f8d05ceab7afedacc17e4d9",
+      "snapshot": "data/evidence/58843e7fb44ee763a2b53fb3bf0ef6b17a542ac55f8d05ceab7afedacc17e4d9.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/follow-us-social-media",
+      "retrievedAt": "2026-11-05T03:18:24.730824+00:00",
+      "sha256": "c0d0693b93c1ae8133e989e76aa75a32e14c97b449c0e6c56faba0f8b64b7312",
+      "snapshot": "data/evidence/c0d0693b93c1ae8133e989e76aa75a32e14c97b449c0e6c56faba0f8b64b7312.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/media-enquiries",
+      "retrievedAt": "2026-11-05T03:18:26.315309+00:00",
+      "sha256": "268e6a80760873fc77f2bceecdf782f0c53f46bc1b242e0bcb158305ac72e104",
+      "snapshot": "data/evidence/268e6a80760873fc77f2bceecdf782f0c53f46bc1b242e0bcb158305ac72e104.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/newsletters",
+      "retrievedAt": "2026-11-05T03:18:28.309483+00:00",
+      "sha256": "2b5bc2e727373090f6a0700e728dad0e5fc83f5f6e50937faed64bb5aba91e30",
+      "snapshot": "data/evidence/2b5bc2e727373090f6a0700e728dad0e5fc83f5f6e50937faed64bb5aba91e30.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/community-invited-help-shape-eaglehawk-districts-future",
+      "retrievedAt": "2026-11-05T03:18:30.306399+00:00",
+      "sha256": "b3db8f3b4c96a4d404003b726e18f82832a0dbd571261197c8ca2c3a4f54337e",
+      "snapshot": "data/evidence/b3db8f3b4c96a4d404003b726e18f82832a0dbd571261197c8ca2c3a4f54337e.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/view-street-set-buzz-artist-market-and-live-music-returns-november-21",
+      "retrievedAt": "2026-11-05T03:18:32.291543+00:00",
+      "sha256": "1c5ff5eeedc901f600ddb0480c49dfb613f4c698ed3ba87b8980b444ddffbe40",
+      "snapshot": "data/evidence/1c5ff5eeedc901f600ddb0480c49dfb613f4c698ed3ba87b8980b444ddffbe40.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/hargreaves-street-mall-turns-volume-aus-music-month",
+      "retrievedAt": "2026-11-05T03:18:34.311745+00:00",
+      "sha256": "7b7907bdeebdbb5f514a0d1e8e85e6a3c7f5a8b955eb36b387c0aefb2fba3c6a",
+      "snapshot": "data/evidence/7b7907bdeebdbb5f514a0d1e8e85e6a3c7f5a8b955eb36b387c0aefb2fba3c6a.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/citys-grass-slashing-program-well-underway",
+      "retrievedAt": "2026-11-05T03:18:36.724657+00:00",
+      "sha256": "9a591b735e7e3caae8745da0eb9d65ef6876d04b8024fda4f9c68e25b8dd2b3e",
+      "snapshot": "data/evidence/9a591b735e7e3caae8745da0eb9d65ef6876d04b8024fda4f9c68e25b8dd2b3e.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/new-pavilion-north-bendigo-rec-reserve-officially-opened",
+      "retrievedAt": "2026-11-05T03:18:38.345740+00:00",
+      "sha256": "34f3ee6fdbafac9202fa1e89be04a72985a712bdf2980a1ab406e64455674f99",
+      "snapshot": "data/evidence/34f3ee6fdbafac9202fa1e89be04a72985a712bdf2980a1ab406e64455674f99.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/city-continue-investigate-safety-improvements-howard-street",
+      "retrievedAt": "2026-11-05T03:18:40.304497+00:00",
+      "sha256": "625fd86aa1aa2615bfc1d9e0333fe7b4ec8e9f6ba27e69d74bd288e3d7f17c7b",
+      "snapshot": "data/evidence/625fd86aa1aa2615bfc1d9e0333fe7b4ec8e9f6ba27e69d74bd288e3d7f17c7b.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/improvements-bendigo-librarys-public-toilet-and-parent-facilities-completed",
+      "retrievedAt": "2026-11-05T03:18:42.291528+00:00",
+      "sha256": "9bb221b06cffca1820474619c2192fd9832000e1311065085c1db154a142da17",
+      "snapshot": "data/evidence/9bb221b06cffca1820474619c2192fd9832000e1311065085c1db154a142da17.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/help-shape-greater-bendigos-budget-2027-2028",
+      "retrievedAt": "2026-11-05T03:18:44.314297+00:00",
+      "sha256": "0d5c4b1cb9e441f212d438f9f19d898262df489fa59bd91356c58bfbf5e35f3d",
+      "snapshot": "data/evidence/0d5c4b1cb9e441f212d438f9f19d898262df489fa59bd91356c58bfbf5e35f3d.txt"
+    },
+    {
+      "url": "https://www.sheppadviser.com.au/feed",
+      "retrievedAt": "2026-11-05T03:19:31.498741+00:00",
+      "sha256": "7adb19eb218405495eb5e6077ac090a394eeeba315b75562713a7ea256dba52d",
+      "snapshot": "data/evidence/7adb19eb218405495eb5e6077ac090a394eeeba315b75562713a7ea256dba52d.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/feed",
+      "retrievedAt": "2026-11-05T03:20:36.119220+00:00",
+      "sha256": "065860012c16b6acd75cc46261917b4432d3aab7e339219d74924f119222aa48",
+      "snapshot": "data/evidence/065860012c16b6acd75cc46261917b4432d3aab7e339219d74924f119222aa48.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/funding-supports-new-facility-for-manufacturer",
+      "retrievedAt": "2026-11-05T03:20:36.762016+00:00",
+      "sha256": "d732f2fe69b707bf332268e99fe2fccac1b3506d19a111107051378b1cf60936",
+      "snapshot": "data/evidence/d732f2fe69b707bf332268e99fe2fccac1b3506d19a111107051378b1cf60936.txt"
+    }
+  ],
+  "report": {
+    "startedAt": "2026-11-05T03:18:13.428217+00:00",
+    "finishedAt": null,
+    "sources": [
+      {
+        "name": "Regional Development Victoria",
+        "url": "https://www.rdv.vic.gov.au/news",
+        "status": "failed",
+        "error": "Robots access failed (403); collection stopped"
+      },
+      {
+        "name": "City of Greater Bendigo",
+        "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media",
+        "status": "success",
+        "coverage": {
+          "discoveredLinks": 14,
+          "checkedPages": 14,
+          "windowLimit": 12,
+          "boundedCoverage": true
+        }
+      },
+      {
+        "name": "Greater Shepparton Council",
+        "url": "https://greatershepparton.vic.gov.au/whats-happening/news",
+        "status": "failed",
+        "error": "Network/proxy connection failed: timed out"
+      },
+      {
+        "name": "Mildura Rural City Council",
+        "url": "https://www.mildura.vic.gov.au/Latest-News",
+        "status": "failed",
+        "error": "Robots access failed (403); collection stopped"
+      },
+      {
+        "name": "The Shepparton Adviser",
+        "url": "https://www.sheppadviser.com.au/feed/",
+        "status": "incomplete",
+        "errors": [
+          {
+            "url": "https://www.sheppadviser.com.au/2m-boost-to-unlock-next-stage-of-gv-link-enterprise-park/",
+            "error": "Access protection encountered; not bypassed"
+          },
+          {
+            "url": "https://www.sheppadviser.com.au/more-than-20-years-in-the-making-gv-link-enterprise-park-is-open/",
+            "error": "Access protection encountered; not bypassed"
+          },
+          {
+            "url": "https://www.sheppadviser.com.au/a-funding-story",
+            "error": "Access protection encountered; not bypassed"
+          }
+        ],
+        "coverage": {
+          "discoveredLinks": 1,
+          "checkedPages": 0,
+          "windowLimit": 12,
+          "boundedCoverage": false
+        },
+        "error": "3 article checks failed"
+      },
+      {
+        "name": "Bendigo Times",
+        "url": "https://timesnewsgroup.com.au/bendigotimes/feed/",
+        "status": "success",
+        "coverage": {
+          "discoveredLinks": 0,
+          "checkedPages": 1,
+          "windowLimit": 12,
+          "boundedCoverage": false
+        }
+      },
+      {
+        "name": "Foodmach Careers",
+        "url": "https://foodmach.com.au/jobs/",
+        "status": "failed",
+        "error": "Access protection encountered; not bypassed"
+      }
+    ],
+    "added": 0,
+    "updated": 0,
+    "status": "incomplete"
+  }
+}

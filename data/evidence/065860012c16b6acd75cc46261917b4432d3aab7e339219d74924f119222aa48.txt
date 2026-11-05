@@ -1,0 +1,534 @@
+	<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bendigo Times</title>
+	<atom:link href="https://timesnewsgroup.com.au/bendigotimes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://timesnewsgroup.com.au/bendigotimes/</link>
+	<description></description>
+	<lastBuildDate>Wed, 04 Nov 2026 06:38:30 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2021/02/favicon.png</url>
+	<title>Bendigo Times</title>
+	<link>https://timesnewsgroup.com.au/bendigotimes/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Locals shine at the Cup; Bendigo&#8217;s big day launches with pair of hometown wins</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/sport/locals-shine-at-the-cup-bendigos-big-day-launches-with-pair-of-hometown-wins/</link>
+		
+		<dc:creator><![CDATA[Kieran Iles]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[Sport]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118845</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-1-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bendigo Cup Day Wins" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" fetchpriority="high" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-1-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-1-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-1-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-1.jpg 1200w" sizes="(max-width: 640px) 100vw, 640px" /><p>RACING Bendigo trainers struck hard and early on local Cup day last Wednesday, landing the first two winners on the card, led by a pair of impressive youngsters. Jarrod Robinson was the first to make his presence felt with highly-touted three-year-old making a stunning return to racing by winning the RSN Bendigo 945AM 3YO Maiden [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/sport/locals-shine-at-the-cup-bendigos-big-day-launches-with-pair-of-hometown-wins/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/locals-shine-at-the-cup-bendigos-big-day-launches-with-pair-of-hometown-wins/">Locals shine at the Cup; Bendigo&#8217;s big day launches with pair of hometown wins</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-1-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bendigo Cup Day Wins" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-1-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-1-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-1-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-1.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>RACING</p>
+<p>Bendigo trainers struck hard and early on local Cup day last Wednesday, landing the first two winners on the card, led by a pair of impressive youngsters.</p>
+<p>Jarrod Robinson was the first to make his presence felt with highly-touted three-year-old making a stunning return to racing by winning the RSN Bendigo 945AM 3YO Maiden Plate (1000m).</p>
+<p>He was quickly followed into the winner&#8217;s circle by Arthur Pace, whose three-year-old colt Hydro Rush continued his impressive rise through the grades with a second straight win in the Catanachs Jewellers 3YO Benchmark 64 Handicap (1300m).</p>
+<p>A dominant all-the-way win for Running Rich was as much a relief as it was a delight for Robinson.</p>
+<p>The gelding, who was ridden by local jockey Chelsea Jokic, has taken his time to break his maiden, albeit has contested some high-calibre races.</p>
+<p>He finished second in his second start in the $250,000 VOBIS Gold Rush on Golden Mile day earlier this year and was third in the $125,000 VOBIS Gold Elvstroem Classic at Swan Hill at his next run, before going to Flemington.</p>
+<p>Despite winning a trial at Seymour earlier in the month, Robinson conceded he was a little unsure how Running Rich would fare first-up on Cup day.</p>
+<figure id="attachment_30038" aria-describedby="caption-attachment-30038" style="width: 600px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-30038" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/brh_9295_94684.jpg" alt="" width="600" height="400" /><figcaption id="caption-attachment-30038" class="wp-caption-text">Hydro Rush, ridden by Damian Lane, wins the three-your-old benchmark 64 handicap at Bendigo on Cup day.</figcaption></figure>
+<p>&nbsp;</p>
+<p>&#8220;It was more of a relief than anything, but it was a nice prizemoney race for the owners,&#8221; he said.</p>
+<p>&#8220;The bar was set pretty high for him in his first prep, racing in some strong races.</p>
+<p>&#8220;Even though it was a strong maiden (on Cup day), it&#8217;s probably the easiest race he&#8217;s run in since his first start.</p>
+<p>&#8220;It was good to see him get it done, as he&#8217;s not fully wound up. He&#8217;s still got improvement to come.</p>
+<p>&#8220;He&#8217;s not really a 1000m horse either, he&#8217;ll be better when he gets out over a bit more ground.</p>
+<p>&#8220;But we&#8217;ve always had a good opinion of him, which is why we set him for the Gold Rush.</p>
+<p>&#8220;He&#8217;s come back a bigger, stronger horse, so hopefully he&#8217;s got a few nice wins in him.&#8221;</p>
+<p>Robinson was quick to praise a superb front-running ride by Jokic.</p>
+<p>&#8220;Chelsea rides work for me every morning; very dedicated, a good rider and has good hands,&#8221; he said.</p>
+<figure id="attachment_30038-2" aria-describedby="caption-attachment-30038-2" style="width: 600px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-30038" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/866159678_1572325994_95319.jpg" alt="" width="600" height="750" /><figcaption id="caption-attachment-30038-2" class="wp-caption-text">Arthur Pace. Photo: Racing Photos.</figcaption></figure>
+<p>&nbsp;</p>
+<p>&#8220;It was good to reward her with the ride and she did it well.</p>
+<p>&#8220;He&#8217;ll probably go to Ballarat (next week), there&#8217;s a VOBIS race there for him, so Chelsea will stick with him.&#8221;</p>
+<p>Robinson said the longer-term plan with Running Rich was far from set in stone, albeit it would be hard not to think the youngster was more than capable of adding to the young trainer&#8217;s handful of previous city winners.</p>
+<p>&#8220;We sort of planned to miss the spring and come back when the better horses were on their way to the paddock and try and win a few races and target the VOBIS races,&#8221; he said.</p>
+<p>&#8220;He&#8217;s got all the bonuses available to him.</p>
+<p>&#8220;Was nice to get a win a s we haven&#8217;t had a lot of runners this season.&#8221;</p>
+<p>Robinson and Jokic reignited their winning combination only a few days later, taking out the first race on the program at last Saturday&#8217;s Wycheproof Cup meeting with Ruthless Soul.</p>
+<p>Meanwhile, Hydro Rush made it three wins from four starts with a near all-the-way win in the three-year-old benchmark 64.</p>
+<p>The son of Headwater was quick to take up the lead after jumping from gate one and, despite looking vulnerable at times in the straight, hung tough for a half-length win under the guidance of gun jockey Damian Lane.</p>
+<figure id="attachment_30038-3" aria-describedby="caption-attachment-30038-3" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-30038" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/bh5_9076_77785.jpg" alt="" width="600" height="486" /><figcaption id="caption-attachment-30038-3" class="wp-caption-text">The Matthew Enright-trained The Muffin Man flashes home for third behind Itsukushima on Cup day. Photo: Brett Holburt/Racing Photos.</figcaption></figure>
+<p>&nbsp;</p>
+<p>Hydro Rush, who debuted with a win on his hometrack in August, has been beaten only once his career at his second start at Sandown.</p>
+<p>His win on Cup day was a huge thrill for the Pace family, including trainer Arthur and daughters Courtney and Patrice.</p>
+<p>&#8220;A small field, full of tactics – it was probably a bit unusual seeing him being that handy in the run,&#8221; Courtney said.</p>
+<p>&#8220;He handled it really well.</p>
+<p>&#8220;I thought there might have been a little bit more speed on the outside – that&#8217;s what the maps suggested.</p>
+<p>&#8220;Seeing him there, there wasn&#8217;t much option for him to do anything else.</p>
+<p>&#8220;I liked the way he controlled the race and kicked on with it. It was tough.</p>
+<p>&#8220;He was (up for the fight). He looks the part, but I think he&#8217;s got the ability to go on with it as well.</p>
+<p>&#8220;A great ride and I&#8217;m just so happy for dad and the owners here too and my sister Patrice.</p>
+<p>&#8220;For our hometown Cup day, we&#8217;re over the moon.&#8221;</p>
+<figure id="attachment_30038-4" aria-describedby="caption-attachment-30038-4" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-30038" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/865108076_1572326094_94978.jpg" alt="" width="600" height="751" /><figcaption id="caption-attachment-30038-4" class="wp-caption-text">Jarrod Robinson. Photo: Racing Photos.</figcaption></figure>
+<p>&nbsp;</p>
+<p>Whatever the immediate future might hold, the stable is convinced the best is yet to come.</p>
+<p>&#8220;He&#8217;s a very immature horse when you really stop and have a look at him. He&#8217;s still probably six months away,&#8221; Courtney Pace said.</p>
+<p>&#8220;He&#8217;s still a colt and he was a little bit cheeky outside (last Wednesday), so there might be some improvement, but who knows.</p>
+<p>&#8220;When he&#8217;s a baby like this, it&#8217;s just a step by step run. We&#8217;ll work out it when we get home and see how he pulls up.&#8221;</p>
+<p>The Pace team further had the honour of flying the flag for5 the locals in the feature event – the $500,000 Group 3 Bendigo Cup (24000m) – with Raging Bull.</p>
+<p>Third in last year&#8217;s Cup, the eight-year-old gelding finished in the prizemoney in seventh spot behind So You Are, beating home several well-fancied runners despite his 100-1 odds.</p>
+<p>Another local to catch the eye on Cup day was the Matthew Enright-trained The Muffin Man, who finished third in the Prestige Event Hire Benchmark 70 Handicap (1600m).</p>
+<p>The five-year-old gelding, ridden by Luke Currie, was last on the home turn, but charged home to finish one-and-half-lengths from the winner Itsukushima in a nice audition for a potential start in this Sunday&#8217;s $70,000 Ararat Cup (2000m).</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/locals-shine-at-the-cup-bendigos-big-day-launches-with-pair-of-hometown-wins/">Locals shine at the Cup; Bendigo&#8217;s big day launches with pair of hometown wins</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Woodhouse trumps contemporaries to take out title</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/news/woodhouse-trumps-contemporaries-to-take-out-title/</link>
+		
+		<dc:creator><![CDATA[Adam Carswell]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118857</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-2-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Australia&#039;s best steak restaurant" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-2-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-2-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-2-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-2.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>Paul Pitcher&#8217;s Woodhouse Bar &#38; Grill has been named Australia&#8217;s best formal steak restaurant, taking home gold at the recent national finals of the Restaurant &#38; Catering Hostplus Awards for Excellence. Black Hide Steak and Seafood by Gambaro in Brisbane took Silver, while Sentinel Bar &#38; Grill in Perth took Bronze. Notably, the Williamson Street [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/news/woodhouse-trumps-contemporaries-to-take-out-title/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/woodhouse-trumps-contemporaries-to-take-out-title/">Woodhouse trumps contemporaries to take out title</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-2-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Australia&#039;s best steak restaurant" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-2-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-2-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-2-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-2.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>Paul Pitcher&#8217;s Woodhouse Bar &amp; Grill has been named Australia&#8217;s best formal steak restaurant, taking home gold at the recent national finals of the Restaurant &amp; Catering Hostplus Awards for Excellence.</p>
+<p>Black Hide Steak and Seafood by Gambaro in Brisbane took Silver, while Sentinel Bar &amp; Grill in Perth took Bronze.</p>
+<p>Notably, the Williamson Street venue also finished ahead of South Australian finalist arkhé, which since last month has held one Michelin star after being among the first Australian restaurants to receive the commendation.</p>
+<p>Pitcher said as the medals were read out in reverse order at the ceremony, when third and second were announced, he thought, &#8220;we&#8217;re not going to win this&#8221;.</p>
+<p>&#8220;Then we were read out,&#8221; he said. &#8220;I couldn&#8217;t believe it, I was actually shocked.&#8221;</p>
+<p>He said his staff were amazed and happy about the news, with many local businesses and regular customers also forwarding their congratulations.</p>
+<p>Pitcher said much of the credit belonged to his kitchen team.</p>
+<p>&#8220;They love what they do and they do it really well,&#8221; he said.</p>
+<p>&#8220;I think that&#8217;s the most important thing out of all of this &#8211; they&#8217;re dedicated and that&#8217;s what it takes, because if they&#8217;re not, they can&#8217;t ever be what they want to be.&#8221;</p>
+<p>He said he hoped the win would help spread the word about the Woodhouse wider and draw more visitors to Bendigo.</p>
+<p>&#8220;At the end of the day, we want the Bendigo tourism industry to be strong,&#8221; he said.</p>
+<p>&#8220;We want people to come here, so we need good restaurants.</p>
+<p>&#8220;We&#8217;ve got cool pubs, but we still need good restaurants.</p>
+<p>&#8220;We need somewhere for people that want something that little bit better to be able to have somewhere to go.&#8221;</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/woodhouse-trumps-contemporaries-to-take-out-title/">Woodhouse trumps contemporaries to take out title</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cup Day over runneth with joy; crowd rises again</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/sport/cup-day-over-runneth-with-joy-crowd-rises-again/</link>
+		
+		<dc:creator><![CDATA[Kieran Iles]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[Sport]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118867</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-3-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bendigo Cup Day" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-3-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-3-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-3-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-3.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>Bendigo has embraced local Cup day after the Bendigo Jockey Club delivered another outstanding day of racing, fashion and entertainment. The day was bolstered by a boost in crowd numbers, with 6868 racegoers attending last week&#8217;s event at the Bendigo racecourse, representing an increase of more than five per cent on last year&#8217;s attendance. It [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/sport/cup-day-over-runneth-with-joy-crowd-rises-again/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/cup-day-over-runneth-with-joy-crowd-rises-again/">Cup Day over runneth with joy; crowd rises again</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-3-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bendigo Cup Day" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-3-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-3-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-3-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-3.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>Bendigo has embraced local Cup day after the Bendigo Jockey Club delivered another outstanding day of racing, fashion and entertainment.</p>
+<p>The day was bolstered by a boost in crowd numbers, with 6868 racegoers attending last week&#8217;s event at the Bendigo racecourse, representing an increase of more than five per cent on last year&#8217;s attendance.</p>
+<p>It reinforced the event&#8217;s position as one of regional Victoria&#8217;s premier sporting and social events.</p>
+<p>BJC chief executive officer Paul Scullie said the strong attendance continued the event&#8217;s recent growth.</p>
+<p>He said the club was delighted by the overwhelming support from the local community, members, corporate partners and visitors who helped create a fantastic atmosphere across the racecourse.</p>
+<p>On the track, the $500,000 Group 3 Ladbrokes Bendigo Cup attracted an exceptional field of local, interstate and internationally trained stayers, with several runners chasing an opportunity to secure a position in the Group 1 Lexus Melbourne Cup, run earlier this week.</p>
+<p>It was the Bjorn Baker-trained So You Are, ridden superbly by Rachel King, who claimed the prestigious Group Bendigo Cup, scoring his fourth consecutive victory and further strengthening the Bendigo Cup&#8217;s reputation as an important pathway to the Melbourne Cup.</p>
+<p>An impressive victory over Ballarat Cup-bound Berkeley Square and Litzdeel earned So You Are a 1kg weight penalty and a confirmed start in the Melbourne Cup, highlighting the significance of Bendigo&#8217;s position on the Spring Racing Carnival calendar and its ability to shape the field for Australia&#8217;s most iconic race.</p>
+<p>Scullie could not have been happier with how the overall day unfolded.</p>
+<p>&#8220;To welcome 6868 people through the gates, representing another increase in attendance, is a fantastic result and a real reflection of the support we continue to receive from the Bendigo community,&#8221; he said.</p>
+<p>&#8220;We are incredibly grateful to everyone who came along and helped make the day such a success.</p>
+<figure id="attachment_30038-5" aria-describedby="caption-attachment-30038-5" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-30038" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/864366355_1863781471_25269.jpg" alt="" width="600" height="843" /><figcaption id="caption-attachment-30038-5" class="wp-caption-text">Fashions on the Field proved as popular as ever on Bendigo Cup Day. Photo: Bendigo Jockey Club.</figcaption></figure>
+<p>&nbsp;</p>
+<p>&#8220;The quality of this year&#8217;s Bendigo Cup field was exceptional, and to have So You Are win in such impressive fashion with a potential Melbourne Cup start on the line reinforces just how important our race is within the Spring Racing Carnival.</p>
+<p>&#8220;We were also thrilled with the standard of fashion across the course and, importantly, the number of people who supported our local businesses in preparing for the day.</p>
+<p>&#8220;That broader economic contribution is something we are extremely proud of and will continue to build upon.&#8221;</p>
+<p>Away from the track, racegoers once again embraced the occasion, with an outstanding display of fashion, particularly through the Beck Legal Fashions on the Field competition.</p>
+<p>The club was especially encouraged by the number of patrons supporting Bendigo&#8217;s local fashion, beauty and retail businesses in preparation for the day, reinforcing the importance of Cup day to the broader business community.</p>
+<p>Complementing the outstanding racing and fashion was a vibrant program of entertainment, headlined by internationally acclaimed and local violinist Evangeline Victoria, whose captivating performance added to the atmosphere of the day.</p>
+<p>Racegoers were also treated to an exceptional range of food and hospitality offerings from local businesses, including Two Sisters, Ms Batterhams and Madame Cue.</p>
+<p>Scullie said a particular highlight was the on-course cafe and food court operated by Year 9 and 10 VET hospitality students from Weeroona College, providing young people with invaluable hands-on hospitality industry experience while showcasing the club&#8217;s commitment to supporting local businesses, education and community partnerships.</p>
+<p>The economic contribution of Bendigo Cup Day extends well beyond the racecourse and generates $3.2 million in local economic activity, supporting accommodation, hospitality, retail, tourism and other businesses throughout the region.</p>
+<p>With attendance continuing to grow, BJC chairman Jack Lyons said the club anticipated another significant economic contribution from the 2026 event, further demonstrating the importance of Cup day to the local economy and community.</p>
+<p>&#8220;The Ladbrokes Bendigo Cup continues to go from strength to strength, and this year&#8217;s event was another outstanding example of what can be achieved when our club, industry partners and community come together,&#8221; Lyons said.</p>
+<p>&#8220;The continued growth in attendance is particularly pleasing and reflects the hard work of our staff, volunteers, members and corporate partners who contribute so much to the success of the day.</p>
+<p>&#8220;Following council&#8217;s recent decision to retain Bendigo Cup Day as our local public holiday, we now have the certainty to continue growing the event and its contribution to the region.</p>
+<p>&#8220;The Bendigo Cup is much more than a race meeting; it is an important part of our city&#8217;s identity, a major economic driver and an opportunity to showcase Bendigo on a national stage.</p>
+<p>&#8220;We look forward to building on this momentum in the years ahead.&#8221;</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/cup-day-over-runneth-with-joy-crowd-rises-again/">Cup Day over runneth with joy; crowd rises again</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mia&#8217;s spirited debut a dream-come-true</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/sport/mias-spirited-debut-a-dream-come-true/</link>
+		
+		<dc:creator><![CDATA[Kieran Iles]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[Sport]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118874</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-4-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mia Harvey WNBL debut" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-4-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-4-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-4-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-4.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>BASKETBALL For Mia Harvey, her official WNBL debut for Bendigo Spirit was the stuff dreams are made of. The 18-year-old and long-time junior Bendigo Braves guard grew up dreaming of playing for her hometown Spirit. After landing a late amateur development player contract in the days before the Spirit&#8217;s season opener in Canberra on 17 [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/sport/mias-spirited-debut-a-dream-come-true/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/mias-spirited-debut-a-dream-come-true/">Mia&#8217;s spirited debut a dream-come-true</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-4-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mia Harvey WNBL debut" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-4-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-4-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-4-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-4.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>BASKETBALL</p>
+<p>For Mia Harvey, her official WNBL debut for Bendigo Spirit was the stuff dreams are made of.</p>
+<p>The 18-year-old and long-time junior Bendigo Braves guard grew up dreaming of playing for her hometown Spirit.</p>
+<p>After landing a late amateur development player contract in the days before the Spirit&#8217;s season opener in Canberra on 17 October, it was likely always a matter of not if, but when she would get to set foot on the court in a regular season game.</p>
+<p>That moment arrived in the team&#8217;s home season opener against reigning champion Townsville Fire on 27 October at Red Energy Arena, playing the final 4.16 minutes of the final term.</p>
+<p>Arriving on court to a thunderous applause, Harvey managed to put up one shot, despite not connecting, and committed the one foul.</p>
+<p>Stats counted for nothing for the teenage, who will spend next season playing college basketball with the University of Nevada, Las Vegas (UNLV). It was all about belonging.</p>
+<p>&#8220;Honestly, it was pretty surreal,&#8221; she said,</p>
+<p>&#8220;Growing up in Bendigo, watching the Spirit, I dreamt I would one day have the opportunity to play WNBL in my hometown</p>
+<p>&#8220;It meant a lot to me to step on the court wearing the Spirit jersey – it was pretty special.</p>
+<p>&#8220;I&#8217;m grateful for everyone who has supported me along the way.</p>
+<p>&#8220;It was so cool being on the court</p>
+<p>&#8220;Obviously I&#8217;ve been a training player (for three years), so it&#8217;s something I wanted to do before I went away for college.&#8221;</p>
+<p>Harvey was the first locally raised player to make her debut for the Spirit since Lavinia Cox did likewise as a development player during the 2024-25 season.</p>
+<p>Cox was the first since Piper Dunlop made her debut during the 2020 COVID season as a 16-year-old.</p>
+<p>Both Cox and Dunlop are currently plying their trade on the football field in the AFLW, with Hawthorn and Geelong respectively.</p>
+<p>Harvey donned the number 4 jersey, the same number she has worn with distinction throughout her junior and senior Braves careers and in multiple representative teams.</p>
+<p>It was the same number worn by her father Ben Harvey during a lengthy and decorated playing career in the SEABL (now NBL1) with the Braves, North West Tasmania and Hobart Chargers.</p>
+<p>She plans on making the number her own, leading to some light-hearted banter and bragging rights between father and daughter.</p>
+<p>&#8220;I&#8217;ve taken that number from dad, but we can just say it&#8217;s my number now,&#8221; Harvey laughed.</p>
+<p>&#8220;Ever since I was little I&#8217;ve worn four, so glad to get it this year at the Spirit.&#8221;</p>
+<p>That is likely to change when she joins the UNLV Rebels next June.</p>
+<p>&#8220;Currently that jersey is retired, so I don&#8217;t think I&#8217;ll be getting it over there,&#8221; Harvey said.</p>
+<figure id="attachment_118878" aria-describedby="caption-attachment-118878" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class=" wp-image-118878" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/814498787_2984891808_50073_tn.jpg" alt="" width="600" height="750" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/814498787_2984891808_50073_tn.jpg 1080w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/814498787_2984891808_50073_tn-240x300.jpg 240w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/814498787_2984891808_50073_tn-819x1024.jpg 819w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/814498787_2984891808_50073_tn-768x960.jpg 768w" sizes="auto, (max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-118878" class="wp-caption-text">Homegrown talent Mia Harvey made her official WNBL debut in the Spirit&#8217;s 27 October clash against Townsville Fire at Red Energy Arena. Photo: Fort Bend Film Club.</figcaption></figure>
+<p>&nbsp;</p>
+<p>&#8220;To be honest, I&#8217;m just happy to be going over there – super-excited.&#8221;</p>
+<p>Having recently graduated from school, Harvey will have more time to devote to Spirit training.</p>
+<p>It&#8217;s something she is eager to do.</p>
+<p>&#8220;Getting to play against Jade Melbourne and players like that at training is going to be amazing,&#8221; Harvey said.</p>
+<p>&#8220;Sometimes I have to reflect on what I am getting to do. I&#8217;m pretty hard on myself, but I then I realise I&#8217;m only 18 and matching up against players like Jade at training.</p>
+<p>&#8220;The great thing is I am learning heaps.&#8221;</p>
+<p>Now in her fourth season in the Spirit system – the first three as a training partner – Harvey cannot speak highly enough of the influence Spirit coach Kennedy Kereama has had on her.</p>
+<p>&#8220;Bringing me in at such a young age (14), I&#8217;ve got to learn heaps,&#8221; he said.</p>
+<p>&#8220;Getting to train alongside people like Veronica Burton, who&#8217;s playing with the Valkyries right now (in the just completed WNBA finals) has been a real eye-opener for my development.</p>
+<p>&#8220;I am so grateful to have him as a coach.&#8221;</p>
+<p>Harvey admitted her call-up from the bench against Townsville was so much of a blur that she did not quite recall what Kereama said to her before hitting the court.</p>
+<p>&#8220;I think he just called my name and said &#8216;put her in&#8217; type of thing,&#8221; she laughed.</p>
+<p>&#8220;It all happened so quickly.</p>
+<p>&#8220;I do remember the crowd. When I walked it was pretty loud. It was a pretty cool feeling.</p>
+<p>&#8220;A lot of my family and friends were there, which was the best part.</p>
+<p>&#8220;There was a lot of adrenaline pumping.</p>
+<p>&#8220;I didn&#8217;t know that would be the night, I just had to stay ready and stay engaged in the game.&#8221;</p>
+<p>Without reigning league MVP Izzy Borlase throughout the first three games due to her WNBA finals commitments with Atlanta Dream, and with co-captain Marianna Tolo battling a foot injury, the Spirit have struggled to gain early momentum.</p>
+<p>Ready to do what she can to help fill a role, Harvey sees their current form as &#8216;only temporary&#8217;,</p>
+<p>&#8220;It&#8217;s a good learning curve at the moment, but it&#8217;s only the start of the season. We&#8217;ll be a totally different team at the end of the season,&#8221; she said.</p>
+<p>&#8220;We&#8217;ll keep getting better at every training and every game.&#8221;</p>
+<p>Harvey will have a bit of extra basketball to look forward to in January, when she lines up for Victoria in the national under-20 championships in Ballarat from 24 to 31 January.</p>
+<p>The Spirit are due to play Southside Melbourne Flyers in Ballarat on 25 January.</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/mias-spirited-debut-a-dream-come-true/">Mia&#8217;s spirited debut a dream-come-true</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>BFNL returns to self-administration; more changes to women&#8217;s football</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/sport/bfnl-returns-to-self-administration-more-changes-to-womens-football/</link>
+		
+		<dc:creator><![CDATA[Kieran Iles]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[Sport]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118881</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-5-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="BFNL Self Administration" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-5-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-5-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-5-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-5.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>FOOTBALL/NETBALL A new self-management model will see the Bendigo Football Netball League (BFNL) assume direct responsibility for its governance, employment, administration, and operations. The move to self-administration – effective from last Monday (2 November) – is one of several changes to future football administration arrangements, announced by AFL Central Victoria, as part of its Regional [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/sport/bfnl-returns-to-self-administration-more-changes-to-womens-football/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/bfnl-returns-to-self-administration-more-changes-to-womens-football/">BFNL returns to self-administration; more changes to women&#8217;s football</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-5-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="BFNL Self Administration" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-5-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-5-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-5-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-5.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>FOOTBALL/NETBALL</p>
+<p>A new self-management model will see the Bendigo Football Netball League (BFNL) assume direct responsibility for its governance, employment, administration, and operations.</p>
+<p>The move to self-administration – effective from last Monday (2 November) – is one of several changes to future football administration arrangements, announced by AFL Central Victoria, as part of its Regional Administration Centres (RAC) Transition Project.</p>
+<p>AFL Central Victoria regional manager Cameron Tomlins said the project was designed to support the evolution of football administration by strengthening league capability, governance, and long-term sustainability while ensuring competitions continue to operate with minimal disruption for clubs, players, volunteers, umpires and communities.</p>
+<p>&#8220;The project remains focused on maintaining confidence in football operations while supporting leagues through the transition process,&#8221; he said.</p>
+<p>&#8220;Regional Administration Centres have played an important role in supporting football administration across Victoria.</p>
+<p>&#8220;As football has evolved, AFL Victoria, leagues and stakeholders have worked collaboratively to identify administration models that better reflect local needs, governance capability, and future growth opportunities.&#8221;</p>
+<figure id="attachment_118885" aria-describedby="caption-attachment-118885" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class=" wp-image-118885" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/camt_45930_tn.jpg" alt="" width="600" height="369" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/camt_45930_tn.jpg 551w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/camt_45930_tn-300x185.jpg 300w" sizes="auto, (max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-118885" class="wp-caption-text">Cameron Tomlins. Photo: AFL Central Victoria.</figcaption></figure>
+<p>&nbsp;</p>
+<p>Under the changes, the BFNL has also entered into a service agreement to provide administration services to the Bendigo Junior Football League (BJFL), which will retain its independent governance.</p>
+<p>The BFNL will also assume responsibility for the management and administration of the current Central Victorian Football League (CVFL), incorporating the existing under-18 girls and open women&#8217;s competitions.</p>
+<p>In other changes to regional football and netball administration, the North Central Football League (NCFL) will join the Loddon Valley Football Netball League (LVFNL) and Heathcote District Football Netball League (HDFNL) under a service arrangement with local administration provider Central Victoria Sports Administration (CVSA).</p>
+<p>The Central Murray Football Netball League (CMFNL) will also move to a self-management model, supported by its own staffing, governance, and operating arrangements.</p>
+<p>Meanwhile, the Bendigo Junior Football League (BJFL) will assume responsibility for the management of the former AFL Central Victoria Football Academy, with future branding, and program details to be announced in due course.</p>
+<p>This follows the recent announcement confirming the collaboration between AFL Central Victoria and the Bendigo Academy of Sport (BAS), which will see BAS expand its existing netball development offering for athletes aged 12–13, providing a clearer progression for talented young players across the region, as AFL Central Victoria moves away from directly operating its former netball academy.</p>
+<figure id="attachment_118889" aria-describedby="caption-attachment-118889" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class=" wp-image-118889" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/800863859_1084090587_63523_tn.jpg" alt="" width="600" height="400" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/800863859_1084090587_63523_tn.jpg 2048w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/800863859_1084090587_63523_tn-300x200.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/800863859_1084090587_63523_tn-1024x683.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/800863859_1084090587_63523_tn-768x512.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/800863859_1084090587_63523_tn-1536x1025.jpg 1536w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/800863859_1084090587_63523_tn-272x182.jpg 272w" sizes="auto, (max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-118889" class="wp-caption-text">The BFNL will assume responsibility for the administration of the CVVL, including under-18 girls and senior women&#8217;s competitions. Photo: Fort Bend Film Club</figcaption></figure>
+<p>&nbsp;</p>
+<p>Tomlins said while AFL Central Victoria would transition away from providing direct league administration services, Central Victoria will continue as a dedicated AFL Victoria Country region, with its existing regional functions continuing through the region council, region manager, club development lead and regional participation team, based at La Trobe University Bendigo.</p>
+<p>&#8220;AFL Victoria and AFL Central Victoria remain committed to supporting leagues, clubs, volunteers, umpires and all participants through the transition,&#8221; he said.</p>
+<p>&#8220;While governance and administration structures are evolving, AFL Victoria will continue to provide strategic support across participation, club development, growth, integrity and community football outcomes.</p>
+<p>&#8220;The transition is designed to minimise disruption while strengthening local governance, accountability and the long-term sustainability of football administration across Central Victoria.</p>
+<p>&#8220;AFL Victoria and AFL Central Victoria acknowledges the significant contribution, support and commitment of regional league and association leaders, boards, managers and administrators across Central Victoria, and their willingness to work collaboratively throughout the transition to progress these arrangements in the best interests of football and netball across the region.&#8221;</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/bfnl-returns-to-self-administration-more-changes-to-womens-football/">BFNL returns to self-administration; more changes to women&#8217;s football</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Kereama flags &#8216;growing pains&#8217; as Spirit slip to 0-3</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/sport/kereama-flags-growing-pains-as-spirit-slip-to-0-3/</link>
+		
+		<dc:creator><![CDATA[Kieran Iles]]></dc:creator>
+		<pubDate>Wed, 04 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[Sport]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118893</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-11-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bendigo Spirit WNBL" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-11-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-11-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-11-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-11.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>BASKETBALL Bendigo Spirit’s dream recent run at a key home away from home in Ballarat has ended at the hands of the Geelong Venom. Aiming to turnaround a winless start to the 2026-27 WNBL season, the Spirit slumped to 0-3 off the back of a 77-70 upset loss to Geelong Venom. The Spirit had been [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/sport/kereama-flags-growing-pains-as-spirit-slip-to-0-3/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/kereama-flags-growing-pains-as-spirit-slip-to-0-3/">Kereama flags &#8216;growing pains&#8217; as Spirit slip to 0-3</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-11-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bendigo Spirit WNBL" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-11-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-11-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-11-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-11.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>BASKETBALL</p>
+<p>Bendigo Spirit’s dream recent run at a key home away from home in Ballarat has ended at the hands of the Geelong Venom.</p>
+<p>Aiming to turnaround a winless start to the 2026-27 WNBL season, the Spirit slumped to 0-3 off the back of a 77-70 upset loss to Geelong Venom.</p>
+<p>The Spirit had been flawless in their three previous encounters at Selkirk Stadium over the last two season, highlighted by a 93-58 thrashing of the Venom in December last year.</p>
+<p>While 2025-26 season league MVP Izzy Borlase was one of the chief architects in that triumph, the Spirit have had to make do without the Opals star in the early part of the season while battling things out in the WNBA finals for Atlanta Dream.</p>
+<p>Borlase’s Dream were beaten 68-63 in the deciding seventh game by Golden State Valkyries in San Francisco on Sunday (Australian time).</p>
+<p>The 24-year-old’s absence was a key in the Spirit’s season-opening loss to Canberra Capitals and their round two loss at Red Energy to Townsville Fire and was again a factor in Ballarat on Melbourne Cup eve.</p>
+<p>They were unable to protect a five-point lead at three-quarter time, surrendering 29 final quarter points to lose by seven.</p>
+<p>The Spirit had no answer for towering Chinese giant Han Xu, who easily led all players on court with 26 points and added seven rebounds for a Venom team missing more than 450 games of experience through injuries to Opal Maddy Rocci (foot) and Bec Cole (leg).</p>
+<p>A crucial jump shot from Han with about 30 seconds to play sealed the win, after the Venom trailed for much of the night, before hitting the lead midway through the final term.</p>
+<p>Venom captain Alex Sharp created plenty of headaches of her own for the Spirit, nabbing an astonishing 17 rebounds, complemented by eight points.</p>
+<p>Opal Jade Melbourne shone for the Spirit with 22 points, eight assists, seven rebounds, her clutch shooting seemingly keeping the Venom at arms-length for much of the night.</p>
+<p>Forward Casey Samuels, who played for the hometown Ballarat Miners during the 2026 NBL1 season, was also prominent with 10 points and nine boards, while Olivia Pollerd provided some spark off the bench with 12 points and three rebounds.</p>
+<p>Punctuating a poor final quarter, the Spirit conceded 13 offensive rebounds to the Venom, who bounced back from a 77-68 loss to the Caps on Saturday, to move to 2-2.</p>
+<p>The Spirit regained five-time championship star Marianna Tolo (12 points, four rebounds) from an Achilles injury, but the co-captain was restricted to just over 20 minutes due to load management.</p>
+<p>Her absence late in the game cruelled the team’s chances, according to Bendigo coach Kennedy Kereama, with Kelsey Rees also sidelined with an ankle injury.</p>
+<figure id="attachment_118931" aria-describedby="caption-attachment-118931" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class=" wp-image-118931" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/875115217_2003850943_62487.png" alt="" width="600" height="752" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/875115217_2003850943_62487.png 1314w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/875115217_2003850943_62487-239x300.png 239w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/875115217_2003850943_62487-817x1024.png 817w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/875115217_2003850943_62487-768x962.png 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/875115217_2003850943_62487-1226x1536.png 1226w" sizes="auto, (max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-118931" class="wp-caption-text">Marianna Tolo returned to the line-up for the Spirit in Ballarat, but was load managed following her Achilles injury. Photo: Bendigo Spirit.</figcaption></figure>
+<div class="mceTemp"></div>
+<p>&nbsp;</p>
+<p>“For a good part of that (game), I was really happy with how we applied ourselves and applied our game plan,” he said.</p>
+<p>“I’m certainly not making excuses, but there were some real challenges around a bit of (load) management as the game went on.</p>
+<p>&#8220;We would have liked to have had Tolo out in the last few minutes of that game, just for her size against Han, as Han was really effective, particularly in the fourth quarter.</p>
+<p>&#8220;We were fatigued and losing a bit of defensive shape, unfortunately, just due to load management and foul trouble early in the game.</p>
+<p>“We had to play (Tolo) a lot early, so we spent quite a few tickets very early in the first half and had to use her to the best of our ability with the minutes we were able to utilise her for.”</p>
+<p>Among the positives, Kereama highlighted the efforts of Samuels, who stepped into the starting five and led the way on the boards.</p>
+<p>“I’ve asked her to play a very different role to the role she has played in previous seasons for the Spirit,” he said.</p>
+<p>“I think a lot of this is going to be some growing pains with us trying to figure this stuff out whilst we’re looking to add (players) and then we’ve got some subtraction going on at the same time.</p>
+<p>“The way Casey applied herself; she was our leading rebounder with nine. I thought she played great defence and she shot the ball when she was open.</p>
+<p>“She’s a very capable player and for us it’s just about finding consistency.</p>
+<p>“For the first time this season I thought we were pretty consistent in applying ourselves to the game plan, but let ourselves down in a number of areas.”</p>
+<p>The loss snapped a three-game winning streak at Selkirk Stadium over two seasons for the Spirit.</p>
+<p>Two of those wins – one apiece in 2024-25 and 2025-26 – were against Southside Melbourne Flyers, who will be the Spirit’s opponent again in their second Ballarat home game this season on Sunday 25 January.</p>
+<p>In a welcome sign for the Spirit, Kereama confirmed Borlase would soon be available now her WNBA commitments were complete.</p>
+<p>Next up is a home showdown against Canberra at Red Energy Arena tomorrow night (7 November).</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/kereama-flags-growing-pains-as-spirit-slip-to-0-3/">Kereama flags &#8216;growing pains&#8217; as Spirit slip to 0-3</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Maccas the new naming rights sponsor of BFNL under-18s</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/sport/maccas-the-new-naming-rights-sponsor-of-bfnl-under-18s/</link>
+		
+		<dc:creator><![CDATA[Kieran Iles]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[Sport]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118775</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/north-Images-281026-4-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="BFNL Under-18s Sponsorship" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/north-Images-281026-4-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/north-Images-281026-4-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/north-Images-281026-4-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/north-Images-281026-4.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>FOOTBALL A new partnership between the Bendigo Football Netball League and McDonald&#8217;s Bendigo will see the local business become the naming rights partner of the league&#8217;s under-18s football competition. From next season, the competition will be known as the McDonald&#8217;s Bendigo Under-18s. McDonald&#8217;s Bendigo will also feature on a panel of the BFNL&#8217;s official match [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/sport/maccas-the-new-naming-rights-sponsor-of-bfnl-under-18s/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/maccas-the-new-naming-rights-sponsor-of-bfnl-under-18s/">Maccas the new naming rights sponsor of BFNL under-18s</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/north-Images-281026-4-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="BFNL Under-18s Sponsorship" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/north-Images-281026-4-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/north-Images-281026-4-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/north-Images-281026-4-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/north-Images-281026-4.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p><strong>FOOTBALL</strong></p>
+<p>A new partnership between the Bendigo Football Netball League and McDonald&#8217;s Bendigo will see the local business become the naming rights partner of the league&#8217;s under-18s football competition.</p>
+<p>From next season, the competition will be known as the McDonald&#8217;s Bendigo Under-18s.</p>
+<p>McDonald&#8217;s Bendigo will also feature on a panel of the BFNL&#8217;s official match footballs.</p>
+<p>BFNL league manager Tom King said the league was delighted to welcome McDonald&#8217;s Bendigo to its family of partners.</p>
+<p>&#8220;Our under-18s competition is where the next generation of footballers is developed, so to have a business with the standing of McDonald&#8217;s Bendigo put its name to it is a terrific result for the league,&#8221; he said.</p>
+<p>&#8220;McDonald&#8217;s Bendigo is a local business with a strong record of backing young people in our region.</p>
+<p>&#8220;This partnership helps the league to continue to invest in its junior pathway and we&#8217;re looking forward to seeing the McDonald&#8217;s Bendigo name on our footballs every weekend.</p>
+<p>&#8220;On behalf of the BFNL and our clubs, I&#8217;d like to thank Ben and his team for their support.&#8221;</p>
+<p>McDonald&#8217;s Bendigo licensee Ben Duncan praised the partnership as &#8216;a natural fit&#8217;.</p>
+<p>&#8220;Local football and netball clubs sit at the heart of our community and we&#8217;re proud to support the BFNL and the young players coming through its undfer-18s competition,&#8221; he said.</p>
+<p>&#8220;Bring on the 2027 McDonald&#8217;s Bendigo under-18s football competition.&#8221;</p>
+<p>McDonald&#8217;s serves as a major and naming-rights sponsor for several regional and country football and netball leagues across Victoria, including the Ballarat and Maryborough-Castlemaine leagues.</p>
+<p>The 2027 McDonald&#8217;s Bendigo Under-18s competition will feature league newcomers Marong for the first time and will kick-off with Sandhurst as reigning premiers following its 41-point grand final victory over Strathfieldsaye.</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/maccas-the-new-naming-rights-sponsor-of-bfnl-under-18s/">Maccas the new naming rights sponsor of BFNL under-18s</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>More preschool kids to go bush</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/news/more-preschool-kids-to-go-bush/</link>
+		
+		<dc:creator><![CDATA[Adam Carswell]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118777</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-28-oct-43-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bush Kinder Grants" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-28-oct-43-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-28-oct-43-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-28-oct-43-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-28-oct-43.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>Two local kindergartens, North Bendigo&#8217;s Lightning Reef YMCA Early Learning Centre and Goodstart Early Learning Strathfieldsaye, will soon be moving a proportion of their classes into the great outdoors after receiving $6000 Bush Kinder grants from the state government. The Bush Kinder initiative was pioneered in Australia in 2011 by Westgarth Kinder&#8217;s Doug Fargher. Closer [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/news/more-preschool-kids-to-go-bush/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/more-preschool-kids-to-go-bush/">More preschool kids to go bush</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-28-oct-43-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bush Kinder Grants" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-28-oct-43-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-28-oct-43-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-28-oct-43-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-28-oct-43.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>Two local kindergartens, North Bendigo&#8217;s Lightning Reef YMCA Early Learning Centre and Goodstart Early Learning Strathfieldsaye, will soon be moving a proportion of their classes into the great outdoors after receiving $6000 Bush Kinder grants from the state government.</p>
+<p>The Bush Kinder initiative was pioneered in Australia in 2011 by Westgarth Kinder&#8217;s Doug Fargher.</p>
+<p>Closer to home, it began as a pilot at Spring Gully Kindergarten in 2013, making it one of the first in Central Victoria.</p>
+<p>The program was designed to take learning beyond the classroom and into nearby parks, bushland and beaches, with the grants to assist in purchasing the equipment required to facilitate guided activities and nature play.</p>
+<p>The local pair of preschools are among 150 across Victoria to share in $900,000 from the 2026 round of funding.</p>
+<p>Of those, 88 will use their grants to start new programs, while the other 62 will further develop their existing ones.</p>
+<p>According to the government, more time outdoors boosts children&#8217;s physical health and wellbeing, improves endurance and co-ordination and builds hands-on knowledge of science, technology, engineering and mathematics.</p>
+<p>&#8220;Every child deserves the chance to learn in nature, to climb, explore and discover,&#8221; Children&#8217;s minister Lizzie Blandthorn said.</p>
+<p>&#8220;Bush Kinder builds confidence, curiosity and a life-long love of the outdoors &#8211; and we&#8217;re proud to help 150 more kinders get outside.&#8221;</p>
+<p>The program has so far allocated 600 Bush Kinder grants over the past four years, totalling $3.6m.</p>
+<p>More information is available at <a href="http://vic.gov.au/bush-kinder-grants-program" target="_blank" rel="noopener">vic.gov.au/bush-kinder-grants-program</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/more-preschool-kids-to-go-bush/">More preschool kids to go bush</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>‘Hopefully he can do Bendigo proud’: Fitzsimmons living his Melbourne Cup dream</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/news/hopefully-he-can-do-bendigo-proud-fitzsimmons-living-his-melbourne-cup-dream/</link>
+		
+		<dc:creator><![CDATA[Kieran Iles]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2026 02:40:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118817</guid>
+
+					<description><![CDATA[<img width="640" height="427" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/DSC_0041_04530-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/DSC_0041_04530-1024x683.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/DSC_0041_04530-300x200.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/DSC_0041_04530-768x512.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/DSC_0041_04530-272x182.jpg 272w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/DSC_0041_04530.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>Tim Fitzsimmons remembers the exact moment the horse racing and, in particular, the Melbourne Cup bug first bit. It was in 1988, when as a seven-year-old, he watched on with unbridled excitement as the Laurie Laxon-trained Empire Rose charged to a popular victory in ‘the race that stops a nation’. On Tuesday, the Bendigo-based trainer [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/news/hopefully-he-can-do-bendigo-proud-fitzsimmons-living-his-melbourne-cup-dream/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/hopefully-he-can-do-bendigo-proud-fitzsimmons-living-his-melbourne-cup-dream/">‘Hopefully he can do Bendigo proud’: Fitzsimmons living his Melbourne Cup dream</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="427" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/DSC_0041_04530-1024x683.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/DSC_0041_04530-1024x683.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/DSC_0041_04530-300x200.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/DSC_0041_04530-768x512.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/DSC_0041_04530-272x182.jpg 272w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/DSC_0041_04530.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>Tim Fitzsimmons remembers the exact moment the horse racing and, in particular, the Melbourne Cup bug first bit.</p>
+<p>It was in 1988, when as a seven-year-old, he watched on with unbridled excitement as the Laurie Laxon-trained Empire Rose charged to a popular victory in ‘the race that stops a nation’.</p>
+<p>On Tuesday, the Bendigo-based trainer will get his shot at emulating his late, great mentor and friend when he saddles up Onesmoothoperator in the 166th running of the iconic Group 1 feature, now carrying prizemoney of $10 million.</p>
+<p>While the imported nine-year-old gelding is an undeniable long shot at 100-1, the thoughts and will of punters and bookmakers will not dim the excitement and anticipation for the former Singapore trainer’s premiership winner, who has been based in Bendigo for a little over 18 months following the demise of racing in that country.</p>
+<p>His first Melbourne Cup runner is the culmination of an almost lifelong dream, first conceived in the north-west suburbs of Melbourne back in the late 80s.</p>
+<figure id="attachment_30038-6" aria-describedby="caption-attachment-30038-6" style="width: 590px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-30038" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/DSC_0016_06051.jpg" alt="" width="590" height="393" /><figcaption id="caption-attachment-30038-6" class="wp-caption-text">Tim Fitzsimmons gives his Group 1 Melbourne Cup contender Onesmoothoperator a hose down following some light work on Sunday. Photo: Kieran Iles</figcaption></figure>
+<p>&nbsp;</p>
+<p>“It’s probably the only race I ever dreamed about winning as a little kid,” said Fitzsimmons, Bendigo’s leading trainer the last two racing seasons.</p>
+<p>“Whilst Cox Plates are great, there’s only the one Melbourne Cup.</p>
+<p>“Laurie Laxon’s horse in 1988, Empire Rose is probably my first racing memory.</p>
+<p>“I was fortunate to become friends with Laurie in Singapore. He won about nine (trainer’s) premierships, I managed to win one.</p>
+<p>“And now I get to have my own runner in the Melbourne Cup. It’s awesome.”</p>
+<p>Fitzsimmons can draw further inspiration from Laxon.</p>
+<p>Considered one of the most beloved thoroughbreds to have raced in Australia and New Zealand, Empire Rose – by champion sire Sir Tristram – claimed the Cup at his third attempt, after finishing fifth behind At Talaq in 1986 (remember that date) and second to Kensei a year later.</p>
+<p>Tuesday’s race will be Onesmoothoperator’s third tilt, but his first under Fitzsimmons’ training.</p>
+<figure id="attachment_30038-7" aria-describedby="caption-attachment-30038-7" style="width: 611px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-30038" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/Smoothie_10472.jpg" alt="" width="611" height="458" /><figcaption id="caption-attachment-30038-7" class="wp-caption-text">Onesmoothoperator is diving into the deep end, contesting his third consecutive Group 1 Melbourne Cup, but his first with Bendigo&#8217;s Tim Fitzsimmons as trainer. Photo: Kieran Iles.</figcaption></figure>
+<p>&nbsp;</p>
+<p>Originally trained by Brian Ellison in the United Kingdom, the son of American stallion Dialed In finished 12th in 2024 behind Knight’s Choice (again in the field on Tuesday) and 16th in the wet in last year’s race won by Half Yours.</p>
+<p>Having brought him over from the UK the last two years, Ellison and connections elected to leave Onesmoothoperator behind permanently in Australia after last year&#8217;s Cup, handing over the training reins to Fitzsimmons.</p>
+<p>He reflects on the opportunity as a classic ‘right place, right time’ scenario.</p>
+<p>But we know how often that can work out favourably in racing.</p>
+<p>“No doubt about it, I have benefited from getting this horse, but everyone needs a bit of luck,” he said.</p>
+<p>“Most trainers in the race have inherited the horse off someone, but you still have to get them there.</p>
+<p>“It’s not even two years yet in Bendigo – just over 18 months since we started training here.</p>
+<p>“If you had said to me that I would have a Melbourne Cup runner back then, I probably would have said you were crazy.</p>
+<p>“I’ve just got to enjoy it – enjoy the day.</p>
+<p>“The family is all very excited – my brothers and mum.</p>
+<p>“The old man (dad Martin) would have been pretty chuffed if he was still here. I like to think he will be looking down from heaven.</p>
+<p>“And the staff here have done a great job of getting him to the line.</p>
+<p>“It’s not easy with these older horses.</p>
+<p>“I have had a lot of people reach out that I haven’t spoken to for a long time … just nice messages.”</p>
+<p>Onesmoothoperator will become the first Bendigo-trained stayer to contest the Melbourne Cup in 40 years.</p>
+<p>The last was Fordyce, trained by the late George Symons, in the year of At Talaq’s win.</p>
+<p>Fitzsimmons is amazed by the long gap.</p>
+<p>“Hopefully he can do Bendigo proud,” he said.</p>
+<p>While his lead-up form has not been as strong this time around, Fitzsimmons is willing to overlook Onesmoothoperator’s disappointing 11th behind Tuesday’s favourite Point Of Law in the Group 3 Geelong Cup (2400m).</p>
+<p>It was a race he won en route to the Melbourne Cup in 2024, while last year’s preparation was highlighted by a Group 3 Moonee Valley Cup win.</p>
+<p>“I’m sure he’ll run a lot better; I obviously wasn’t overly happy with his last run. He was a bit flat,” Fitzsimmons said.</p>
+<p>“I’ve changed a few things up and I’m much happier with him going into this run.</p>
+<p>“Obviously it’s a really difficult race – he’s 100-1 – but I do think he will run really well.</p>
+<p>“His run before the Geelong Cup (in the Group 2 Herbert Power) was really positive.</p>
+<p>“I’ve put the blinkers on him and his work has been great. I expect him to run well.”</p>
+<p>Fitzsimmons said the three-time Melbourne Cup starter gave every impression he was looking for the 3200m.</p>
+<p>“I really do. Hopefully the rain stays away; he doesn’t like wet tracks.</p>
+<p>“The forecast looked a little shabby last week, but it’s starting to look a lot better.</p>
+<p>“He copped a bad one last year. It rained 30 minutes before the race and it ruined his hopes.</p>
+<p>“As long as we get the rain on Monday and not much or none Tuesday, he should be okay.”</p>
+<p>Perhaps most of all, Fitzsimmons, who scaled the heights of Group 1 success while overseas with Golden Monkey in the Singapore Derby, is satisfied to see a plan that’s been a full 12-months in the making come to fruition.</p>
+<p>“There’s no doubt it’s taken time to get to get to know him and to really settle into Australia,” said Fitzsimmons, who could easily have racked up a few more Group 1s in Singapore were in not for a horse called Lim&#8217;s Kosciuszko, who relegated multiple of his horses into second place at the top level almost a dozen times.</p>
+<p>“It hasn’t been easy – it’s been a bit of a challenge.</p>
+<p>“But I’m probably happier with him in the last week than I have been in the last 12 months, so that’s a positive going into the biggest race of the year.</p>
+<p>“He’s a nine-year-old, so he’s not getting any younger, but he’s still full of beans … bright and well.</p>
+<p>“Hopefully we get to Tuesday and he can run the race of his life.”</p>
+<p>Veteran Bendigo trainer Rod Symons, whose late father George trained Fordyce into 19th place in the 1986 Cup, couldn’t be happier to see the Bendigo-trained Melbourne Cup starter drought end.</p>
+<p>“I’m not a young fellow anymore when you’re talking 40 years,” said Symons, who was the stable foreman back in 1986.</p>
+<p>“My younger brother was on strapping duties.</p>
+<p>“But it’s good for Bendigo to finally have another cup runner.</p>
+<p>“We were hoping Josh Julius might have got there with Super Girl a few years ago, but it didn’t happen.</p>
+<p>“Hopefully Onesmoothoperator can run well and do a lot better than us.”</p>
+<p>Super Girl, a city winner for Julius and placed in the Listed Andrew Ramsden (2800m) at Flemington, a race in which the winner is given a ‘golden ticket’ into the Melbourne Cup, was humanely euthanised after breaking down in the 2020 Bendigo Cup, while attempting to qualify for the Melbourne Cup.</p>
+<figure id="attachment_30038-8" aria-describedby="caption-attachment-30038-8" style="width: 608px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-30038" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/DSC_0037_11725.jpg" alt="" width="608" height="405" /><figcaption id="caption-attachment-30038-8" class="wp-caption-text">Tim Fitzsimmons and Onesmoothoperator. Photo: Kieran Iles.</figcaption></figure>
+<p>&nbsp;</p>
+<p>“It was a totally different race back then (in ’86); you could get in with a locally bred horse, Symons said.</p>
+<p>“Fordyce was bred out here at Lockwood. (Trainer) Geoff Murphy came up and had a look at him as a yearling and said I’ll give you $80,000. We paid $20,000 for the mare in foal.</p>
+<p>“She was in foal with a new stallion called Sir Tristram.</p>
+<p>“At the time we were taking punt on a cheapie, but I’m so glad we didn’t sell him.</p>
+<p>“We had a lot of fun with him. We won the Creswick Stakes, which was then over 2000m, as a three-year-old, which qualified him for the Melbourne Cup run.</p>
+<p>“It takes a lot more than that to get into a Melbourne Cup these days, but very happy for Tim to be there.”</p>
+<p>Symons, now 64 and with a handful of horses in work, hailed Fitzsimmons as a breath of fresh air.</p>
+<p>“He has done a great job and it’s great he’s based himself in Bendigo,” he said.</p>
+<p>“He’s happy with the facilities here, has a great team around him and has got some nice horses.</p>
+<p>“Onesmoothoperator does all of his gallops on the course proper, so he’s been given every opportunity here.</p>
+<p>“We’re all hoping to see him do well on Tuesday.”</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/hopefully-he-can-do-bendigo-proud-fitzsimmons-living-his-melbourne-cup-dream/">‘Hopefully he can do Bendigo proud’: Fitzsimmons living his Melbourne Cup dream</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Last chance to enrol ahead of state election</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/news/last-chance-to-enrol-ahead-of-state-election/</link>
+		
+		<dc:creator><![CDATA[James Taylor]]></dc:creator>
+		<pubDate>Sun, 01 Nov 2026 21:26:47 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/news/last-chance-to-enrol-ahead-of-state-election/</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/sven-b-cropped-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/sven-b-cropped-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/sven-b-cropped-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/sven-b-cropped-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/sven-b-cropped.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>Victorians who have not yet enrolled to vote have until Tuesday to register ahead of this month&#8217;s state election. The Victorian Electoral Commission (VEC) will close the electoral roll at 8pm on Tuesday 3 November and is urging voters to check their details online before then. Enrolment and voting are compulsory for all Victorians who [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/news/last-chance-to-enrol-ahead-of-state-election/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/last-chance-to-enrol-ahead-of-state-election/">Last chance to enrol ahead of state election</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/sven-b-cropped-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/sven-b-cropped-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/sven-b-cropped-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/sven-b-cropped-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/sven-b-cropped.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>Victorians who have not yet enrolled to vote have until Tuesday to register ahead of this month&#8217;s <a href="https://timesnewsgroup.com.au/surfcoasttimes/news/vec-recruiting-workers-ahead-of-state-election/">state election</a>.</p>
+<p>The Victorian Electoral Commission (VEC) will close the electoral roll at 8pm on Tuesday 3 November and is urging voters to check their details online before then.</p>
+<p><a href="https://timesnewsgroup.com.au/surfcoasttimes/news/vec-seeks-explanation-from-non-voters/">Enrolment and voting are compulsor</a>y for all Victorians who are Australian citizens aged 18 and over.</p>
+<p>First-time voters turning 18 on or before election day, Saturday 28 November, should also check whether they need to enrol, as this may not have happened automatically.</p>
+<p>The VEC is also urging people who have recently moved to check their enrolment details to ensure they are registered at the correct address.</p>
+<figure id="attachment_199497" aria-describedby="caption-attachment-199497" style="width: 640px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="size-large wp-image-199497" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/2/2026/11/Earlyvotingcentre_92902-1024x683.jpg" alt="" width="640" height="427" /><figcaption id="caption-attachment-199497" class="wp-caption-text">Victorians have until 8pm on 3 November to be enrolled to be eligible to vote. Photo: supplied.</figcaption></figure>
+<p>&nbsp;</p>
+<p>“If you&#8217;ve moved recently or are voting for the first time, check your enrolment is up to date before the electoral roll closes,” electoral commissioner Sven Bluemmel said.</p>
+<p>“Every vote counts, so it&#8217;s important that everyone is ready to play their part at this year&#8217;s state election.”</p>
+<p>Voters can cast their ballot on election day or at an early voting centre from Wednesday 18 November. Postal voting, telephone-assisted voting and braille voting will also be available to eligible voters.</p>
+<p>Mobile voting services will also be available at selected locations, including aged care facilities, hospitals and prisons, while low-sensory voting options will be offered across all 88 Victorian districts.</p>
+<p>The VEC will mail an EasyVote guide to more than 3 million Victorian households, containing key information about the election and available voting options.</p>
+<figure id="attachment_199498" aria-describedby="caption-attachment-199498" style="width: 640px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="size-large wp-image-199498" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/2/2026/11/Electionday16_49024-1024x683.jpg" alt="" width="640" height="427" /><figcaption id="caption-attachment-199498" class="wp-caption-text">Voters can cast their ballot on election day or at an early voting centre from Wednesday 18 November. Photo: supplied.</figcaption></figure>
+<p>&nbsp;</p>
+<p>The commission will also work to counter <a href="https://timesnewsgroup.com.au/surfcoasttimes/news/as-election-nears-vec-warns-about-disinformation/">false and misleading information</a> about election processes, reminding voters that while Victoria has no laws regulating truth in political advertising, election material must be authorised.</p>
+<p>Voters can sign up to the free VoterAlert service to receive election reminders by SMS and email.</p>
+<p>For more information, head to<a href="http://vec.vic.gov.au"> vec.vic.gov.au</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/last-chance-to-enrol-ahead-of-state-election/">Last chance to enrol ahead of state election</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
