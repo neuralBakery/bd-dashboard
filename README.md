@@ -61,3 +61,9 @@ A weekly GitHub Actions workflow and a manual **Run workflow** button are prepar
 See [the plain-language GitHub instructions](docs/github-quick-start.md). Once uploaded to `main`, the two UTC schedule slots target Monday 07:00 Melbourne time with daylight-saving selection. GitHub can delay execution. A workflow stores research history in the repository and provides a downloadable dashboard artifact; downloaded copies do not update themselves. Live execution on GitHub and notification delivery remain untested. Keep private notes and confidential commercial information out of this public repository.
 
 The 16 local tests pass, including workflow script parsing and summer/winter plus daylight-saving transition checks. These checks do not establish that a GitHub-hosted runner can collect all configured sources.
+
+## Current repair status
+
+The application and workflow have now been uploaded. The first GitHub run exposed collection bugs that have been corrected: RSS whitespace parsing, false captcha detection, navigation contamination, company-specific attribution and government publication metadata. Sources that complete can supply **separately labelled partial findings**, while the original accepted dataset and full-success timestamp remain intact. Full coverage failures still produce a red GitHub run and a visible warning.
+
+A subsequent live cloud collection and source-snapshot reprocessing produced 14 partial findings, with high-priority source-backed signals for Bentrol, Hazeldenes, Grape Co Australia and GV Link. This does not establish complete regional coverage or GitHub access to every source. The earlier descriptions of zero source-checked findings describe the initial failed run. 22 tests now pass. Download a new dashboard after updates; previously downloaded files do not refresh automatically.

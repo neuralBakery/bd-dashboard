@@ -16,14 +16,14 @@ CATEGORIES = [
  ('Closure & restructuring', r'clos(?:ure|ing|ed)|redundan|restructur|receivership|administration'),
  ('Competitor activity', r'labour hire|recruitment agency|staffing agency'),
  ('Ownership & M&A', r'acquisit|merger|acquir|ownership'),
- ('Hiring & workforce', r'vacanc|recruit|hiring|seasonal|workforce shortage'),
+ ('Hiring & workforce', r'vacanc|recruit|hiring|seasonal|workforce shortage|positions? available|looking for'),
  ('Expansion & investment', r'expan|invest|new facilit|production capacity|new factory'),
  ('Tenders & contracts', r'tender|contract award|procurement'),
  ('Infrastructure & construction', r'construction|infrastructure|industrial precinct|enterprise park'),
  ('Market trends', r'employment|unemployment|economic|labour market'),
 ]
 RELEVANT = re.compile('|'.join(p for _, p in CATEGORIES), re.I)
-INDUSTRIAL = re.compile(r'manufactur|process|factory|warehouse|logistics|agricultur|harvest|production|industrial|construction|food|transport|trade', re.I)
+INDUSTRIAL = re.compile(r'manufactur|processing|process workers?|factory|warehouse|logistics|agricultur|harvest|production|industrial|construction|food|transport|trade', re.I)
 
 def now():
     return datetime.now(timezone.utc).isoformat(timespec='microseconds')
@@ -139,12 +139,14 @@ def candidate(article, source, config, legacy):
     text = title + '\n' + '\n'.join(meaningful)
     if not RELEVANT.search(text):
         return []
+    if not INDUSTRIAL.search(text) and not re.search(r'labour market|unemployment|labour hire|recruitment agency', text, re.I):
+        return []
     places = geography(text, config)
     if not places:
         return []
     category = next((c for c, pattern in CATEGORIES if re.search(pattern, title, re.I)), None)
     category = category or next(c for c, pattern in CATEGORIES if re.search(pattern, text, re.I))
-    quotes = [p for p in meaningful if RELEVANT.search(p) or INDUSTRIAL.search(p)][:4]
+    quotes = ([p for p in meaningful if RELEVANT.search(p)] or [p for p in meaningful if INDUSTRIAL.search(p)])[:4]
     if not quotes:
         return []
     organisations = {}
@@ -163,11 +165,15 @@ def candidate(article, source, config, legacy):
         branch, town = next((p for p in places if p[0] == old.get('region')), places[0])
         url = canonical(article['url'])
         identity = digest([url, company.casefold()])[:20]
-        company_quotes = [p for p in quotes if company.lower() in p.lower()]
+        company_quotes = [p for p in meaningful if company.lower() in p.lower() and (RELEVANT.search(p) or INDUSTRIAL.search(p))][:4]
         # Do not attach another company's workforce numbers to this business.
         selected_quotes = company_quotes or (quotes if company.lower() in title.lower() or company == 'Organisation unverified' else [])
         if not selected_quotes:
             continue
+        specific_places = geography(title + '\n' + '\n'.join(selected_quotes), config)
+        if not specific_places:
+            continue
+        branch, town = next((p for p in specific_places if p[0] == old.get('region')), specific_places[0])
         summary = '\n\n'.join(selected_quotes)
         r = dict(id='A' + identity, company=company, region=branch, town=town,
                  geographicMatches=[{'branch': b, 'town': t} for b, t in places],
@@ -177,9 +183,9 @@ def candidate(article, source, config, legacy):
                  contact='Operations / HR / procurement role — name unverified', contactUrl='',
                  relationship='Unverified', primarySource=source.get('primary', False),
                  verification='source checked', confidence='Source text checked; commercial relevance is inference',
-                 firstDiscovered=now(), lastChecked=now(), change='New', history=[],
+                 firstDiscovered=article.get('retrievedAt') or now(), lastChecked=article.get('retrievedAt') or now(), change='New', history=[],
                  evidence=[{'url': url, 'publisher': source['name'], 'publicationDate': article.get('date'),
-                            'retrievedAt': now(), 'sha256': article['sha256'], 'snapshot': article['snapshot'],
+                            'retrievedAt': article.get('retrievedAt') or now(), 'sha256': article['sha256'], 'snapshot': article['snapshot'],
                             'quotes': selected_quotes}],
                  angle='Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.')
         r['assessment'] = assess(r)

@@ -30,25 +30,32 @@ class Page(HTMLParser):
         self.structured = []
         self.organisations = []
         self.restricted = False
+        self._main = 0
+        self._body_finished = False
 
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
-        if tag in ('script', 'style', 'nav', 'footer'):
+        if tag in ('main', 'article'):
+            self._main += 1
+            self._body_finished = False
+        if tag in ('script', 'style', 'nav', 'footer', 'header'):
             if tag == 'script' and a.get('type', '').lower() == 'application/ld+json':
                 self._json = True
                 self._jsonbuf = []
             self._skip += 1
         if tag == 'meta':
             key = a.get('property', a.get('name', '')).lower()
-            if key in ('article:published_time', 'datepublished', 'date', 'dc.date.issued'):
+            if key in ('article:published_time', 'datepublished', 'date', 'dc.date.issued', 'dcterms.issued'):
                 self.date = parse_date(a.get('content')) or self.date
             if key in ('robots', 'regionalbdresearch') and any(x in a.get('content', '').lower() for x in ('noarchive', 'nosnippet', 'noai')):
                 self.restricted = True
         if tag == 'time' and not self.date:
             self.date = parse_date(a.get('datetime'))
+        if tag == 'h1' and not self._skip:
+            self.paragraphs = []
         if tag == 'a' and a.get('href'):
             self.links.append(a['href'])
-        if not self._skip and tag in ('h1', 'title', 'p', 'li') and self._capture is None:
+        if not self._skip and not self._body_finished and (tag in ('h1', 'title', 'p') or (tag == 'li' and self._main)) and self._capture is None:
             self._capture = tag
             self._buffer = []
 
@@ -59,13 +66,16 @@ class Page(HTMLParser):
             self._buffer.append(data)
 
     def handle_endtag(self, tag):
+        if tag in ('main', 'article'):
+            self._main = max(0, self._main - 1)
+            self._body_finished = not self._main
         if tag == 'script' and self._json:
             try:
                 self.structured.append(json.loads(''.join(self._jsonbuf)))
             except (ValueError, TypeError):
                 pass
             self._json = False
-        if tag in ('script', 'style', 'nav', 'footer'):
+        if tag in ('script', 'style', 'nav', 'footer', 'header'):
             self._skip = max(0, self._skip - 1)
         if tag == self._capture:
             value = re.sub(r'\s+', ' ', ''.join(self._buffer)).strip()
@@ -145,7 +155,11 @@ class Collector:
             raise ValueError('Robots disallows this URL')
         raw, enc = self._request(url, parser.crawl_delay(AGENT) or 0)
         text = raw.decode(enc, errors='replace')
-        if re.search(r'checking your browser|verify you are human|captcha|just a moment\.\.\.', text, re.I):
+        visible = Page()
+        visible.feed(text)
+        visible.finish()
+        challenge_text = visible.title + '\n' + '\n'.join(visible.paragraphs)
+        if re.search(r'checking your browser|verify you are human|complete the captcha|just a moment\.\.\.', challenge_text, re.I):
             raise ValueError('Access protection encountered; not bypassed')
         sha = hashlib.sha256(raw).hexdigest()
         rel = f'data/evidence/{sha}.txt'
@@ -177,7 +191,7 @@ class Collector:
             raise ValueError('Publisher restricts source reuse')
         links = []
         try:
-            doc = ET.fromstring(text)
+            doc = ET.fromstring(text.lstrip())
             for item in list(doc.findall('.//item')) + list(doc.findall('.//{http://www.w3.org/2005/Atom}entry')):
                 for el in item:
                     if el.tag.split('}')[-1] == 'link':
@@ -192,7 +206,7 @@ class Collector:
             except ValueError:
                 continue
             parts = urllib.parse.urlsplit(u)
-            if (parts.hostname == host and u != canonical(source['url']) and
+            if (not parts.query and parts.hostname == host and u != canonical(source['url']) and
                 any(parts.path.startswith(prefix) for prefix in source['paths']) and
                 not re.search(r'\.(?:jpg|png|pdf|zip)$|/page/|/tag/|/category/', parts.path, re.I) and u not in selected):
                 selected.append(u)

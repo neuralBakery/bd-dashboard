@@ -13,7 +13,8 @@ def briefing(state):
     lines = ['REGIONAL VICTORIA — WEEKLY INTELLIGENCE', 'Generated: ' + local_date(),
              'Last successful bounded research run: ' + (state['lastSuccessfulRun'] or 'None'),
              'Latest run: ' + (state['runs'][-1]['status'] if state['runs'] else 'Not run'),
-             'Direct employer hiring does not confirm external provider demand.', '']
+             'Direct employer hiring does not confirm external provider demand.',
+             'Coverage: incomplete-source findings are withheld. Separately labelled findings from completed sources may be available despite incomplete overall coverage.', '']
     if not recent:
         lines.append('No verified recent new or materially updated findings available. This does not establish that no developments occurred.')
     for r in recent[:5]:
@@ -28,13 +29,17 @@ def briefing(state):
 
 def render(state, root=ROOT):
     state = json.loads(json.dumps(state))
+    backup_state = json.loads(json.dumps(state))
+    displayed = {(r['url'].rstrip('/'), r['company'].casefold()): r for r in state['records']}
+    displayed.update({(r['url'].rstrip('/'), r['company'].casefold()): r for r in state.get('partialRecords', [])})
+    state['records'] = list(displayed.values())
     for r in state['records']:
         r['assessment'] = assess(r)
         r['priority'] = r['assessment']['priority']
     template = (root / 'assets/dashboard-template.html').read_text()
     css = re.search(r'<style>(.*?)</style>', template, re.S)[1]
     css += '\n.filters{display:flex;flex-wrap:wrap}.filters>*{max-width:100%;min-width:140px;flex:1 1 140px}.filters #search{flex:1 1 100%;width:100%;min-width:200px}.notice.failed{background:#fff1e8;border-color:#db9b78}.notice{margin-bottom:16px}.detailsection pre{white-space:pre-wrap}.navlink{cursor:pointer}.signal{cursor:pointer}.risk{background:#fff0e8}.small{overflow-wrap:anywhere}button:focus-visible,a:focus-visible{outline:3px solid #579426}.stale{color:#a44b00}#detail{max-width:900px}textarea{width:100%;min-height:100px}.metric-num{font-size:30px}\n'
-    payload = json.dumps({'state': state, 'brief': briefing(state)}, ensure_ascii=False).replace('<', '\\u003c').replace('>', '\\u003e').replace('&', '\\u0026')
+    payload = json.dumps({'state': state, 'backupState': backup_state, 'brief': briefing(state)}, ensure_ascii=False).replace('<', '\\u003c').replace('>', '\\u003e').replace('&', '\\u0026')
     body = (root / 'assets/app.html').read_text()
     js = (root / 'assets/app.js').read_text()
     document = '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Regional Market Intelligence</title><style>' + css + '</style></head><body>' + body + '<script id="payload" type="application/json">' + payload + '</script><script>' + js + '</script></body></html>'

@@ -28,8 +28,10 @@ def refresh(root=ROOT, collector_type=Collector):
         started = now()
         report = {'startedAt': started, 'finishedAt': None, 'sources': [], 'added': 0, 'updated': 0}
         candidates = []
+        completed_candidates = []
         for source in config['sources']:
             outcome = {'name': source['name'], 'url': source['url']}
+            print('Checking ' + source['name'] + '...', flush=True)
             # Revisit imported evidence only on explicitly configured source hosts.
             from urllib.parse import urlsplit
             extra = sorted({r['url'] for r in state['records'] if urlsplit(r['url']).hostname == urlsplit(source['url']).hostname})
@@ -40,19 +42,39 @@ def refresh(root=ROOT, collector_type=Collector):
                                    error=f'{len(errors)} article checks failed')
                 else:
                     outcome.update(status='success', coverage=coverage)
+                source_candidates = []
                 for article in articles:
-                    candidates.extend(candidate(article, source, config, state['records']))
+                    source_candidates.extend(candidate(article, source, config, state['records']))
+                candidates.extend(source_candidates)
+                if not errors:
+                    completed_candidates.extend(source_candidates)
             except Exception as exc:
                 outcome.update(status='failed', error=safe_error(exc))
             report['sources'].append(outcome)
+            print(source['name'] + ': ' + outcome['status'], flush=True)
         failed = any(s['status'] != 'success' for s in report['sources'])
         # Atomic promotion: do not silently publish partial research as a valid weekly update.
         if not config['sources'] or failed:
             report['status'] = 'failed' if all(s['status'] == 'failed' for s in report['sources']) else 'incomplete'
             quarantine = root / 'data/staging' / (started.replace(':', '-') + '.json')
+            partial, count, changed = merge(state.get('partialRecords', []), completed_candidates)
+            state['partialRecords'] = partial
+            original_by_key = {(canonical(r['url']), r['company'].casefold()): r for r in state['records']}
+            for r in state['partialRecords']:
+                r['coverageStatus'] = 'Partial coverage — completed source only'
+                previous = original_by_key.get((canonical(r['url']), r['company'].casefold()))
+                if previous:
+                    r['id'] = previous['id']
+                    if not r.get('history'):
+                        r['history'] = [copy.deepcopy(previous)]
+            report['partialAdded'], report['partialUpdated'] = count, changed
+            if count or changed:
+                state['lastPartialUpdate'] = now()
             atomic_json(quarantine, {'candidates': candidates, 'audit': collector.audit, 'report': report})
         else:
-            state['records'], report['added'], report['updated'] = merge(state['records'], candidates)
+            combined, _, _ = merge(state['records'], state.get('partialRecords', []))
+            state['records'], report['added'], report['updated'] = merge(combined, candidates)
+            state['partialRecords'] = []
             for record in state['records']:
                 record['assessment'] = assess(record)
                 record['priority'] = record['assessment']['priority']
@@ -112,7 +134,7 @@ def main():
             print(json.dumps({'lastSuccessfulRun': state['lastSuccessfulRun'], 'lastRun': state['runs'][-1] if state['runs'] else None}, indent=2))
         else:
             render(state)
-            print('Built dashboard.html. ' + str(len(state['records'])) + ' records; ' + str(sum(r['verification'] == 'source checked' for r in state['records'])) + ' source checked.')
+            print('Built dashboard.html. ' + str(len(state['records'])) + ' accepted records; ' + str(len(state.get('partialRecords', []))) + ' separately labelled partial findings.')
     return 0
 
 if __name__ == '__main__':

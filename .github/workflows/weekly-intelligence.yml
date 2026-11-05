@@ -89,7 +89,7 @@ jobs:
               lines.append('Last successful research: ' + str(s.get('lastSuccessfulRun') or 'Not yet successful'))
               if s.get('runs'):
                   r = s['runs'][-1]
-                  lines.extend(['', 'Latest recorded run: **' + r['status'] + '**', f"New: {r['added']}; updated: {r['updated']}"])
+                  lines.extend(['', 'Latest recorded run: **' + r['status'] + '**', f"Accepted new: {r['added']}; updated: {r['updated']}; separately labelled partial findings added: {r.get('partialAdded', 0)}"])
                   for source in r['sources']:
                       lines.append('- ' + source['name'] + ': ' + source['status'] + ' ' + source.get('error', ''))
           lines.extend(['', 'A failed or incomplete run preserves previously accepted findings. Browser notes are not stored by this workflow.', '', 'GitHub schedules can be delayed. The downloaded file is a snapshot; download a fresh copy after each update.'])

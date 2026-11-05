@@ -61,9 +61,9 @@
     },
     {
       "name": "Mildura Rural City Council",
-      "url": "https://www.mildura.vic.gov.au/Latest-News",
+      "url": "https://www.mildura.vic.gov.au/Contact-us/News-and-media/Media-Releases",
       "paths": [
-        "/Latest-News/"
+        "/Contact-us/News-and-media/Media-Releases/"
       ],
       "primary": true
     },

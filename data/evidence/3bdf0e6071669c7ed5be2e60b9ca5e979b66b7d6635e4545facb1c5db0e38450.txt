@@ -1,0 +1,1493 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+<head>
+  <meta charset="utf-8" />
+<meta name="description" content="The new $3.86M pavilion at North Bendigo Recreation Reserve was officially opened on Friday October 23." />
+<link rel="canonical" href="https://www.bendigo.vic.gov.au/about-us/news-and-media/new-pavilion-north-bendigo-rec-reserve-officially-opened" />
+<link rel="image_src" href="/sites/default/files/2023-09/city-logo-stacked-blue.png" />
+<meta property="og:image" content="https://www.bendigo.vic.gov.au/sites/default/files/2023-09/city-logo-stacked-blue.png" />
+<meta name="silktide-cms" content="1qRmmARe5K5bPUPNtF27wD+gcXp2I11Vhyp1CZOcSdShwpxDEgfFUTcGEFVbBTrXClYvHrRq+bsP700FmI4bxBp/ebT1e2GE9PnEunWUS2cFPzpN4iTfPngaRIlTx56WtN+2AF0P2lersk2DjMBP0526L5UJWUFA5sh6JhxFNjM=" />
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #0779bf} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<link rel="icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>New Pavilion at North Bendigo Rec Reserve officially opened | City of Greater Bendigo</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_rfTPMBgN2x6hG1g-qzdLvOgJXH57dyyV4JT3r9qtQgw.css?delta=0&amp;language=en&amp;theme=white_label&amp;include=eJx1k-2O7CAIhm-o1h_nggwqbc2oNIL7dfXr2Mzs2M5JmorPSxAB3UaMWftSd4iz67vpWEwMVh_m7JgnF4H5W1tgfNgJmWHFp5bJN40KPgL6AJHWA2UqCWL4wQmrcUS3gG1JewyQHep30HhcoEaZdiiwFtg3fkT-I3PNe7Ux8IZ-4n_GVRZKpqWs_8yJEYrbDOzBQBXqZ6Cg_g-fmFzL3SRsV2iVyDfWVzTLhqn5frNgOiojtjmskDBX3dX5hUwfAT9Z9_-cyNeI0-cWBE0Ei1HbAtmHvJ4ggnelJjtgJyrkhQbmgTdLUPyJCioJaTxroSyqkCWhEyfB8gYpC-6mhNq3n-SSLkAtAaNXQ00vPiG3Mr7h3bxixohOrlzwS_pxg7RGsjBGWUsYfbZW2tNlg6PMI-lZqt7AV34H6hgK9aZqXRarns1_Fe8vRd3nQKW7tdQ4Zrq3Z9V6JqcBeU79QI8Zbv0ZE-hj9gtDRIDC" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_21zqzJ4rqkeFKXwInM9vtj_Yifse7CF-42x0K8-a7WQ.css?delta=2&amp;language=en&amp;theme=white_label&amp;include=eJx1k-2O7CAIhm-o1h_nggwqbc2oNIL7dfXr2Mzs2M5JmorPSxAB3UaMWftSd4iz67vpWEwMVh_m7JgnF4H5W1tgfNgJmWHFp5bJN40KPgL6AJHWA2UqCWL4wQmrcUS3gG1JewyQHep30HhcoEaZdiiwFtg3fkT-I3PNe7Ux8IZ-4n_GVRZKpqWs_8yJEYrbDOzBQBXqZ6Cg_g-fmFzL3SRsV2iVyDfWVzTLhqn5frNgOiojtjmskDBX3dX5hUwfAT9Z9_-cyNeI0-cWBE0Ei1HbAtmHvJ4ggnelJjtgJyrkhQbmgTdLUPyJCioJaTxroSyqkCWhEyfB8gYpC-6mhNq3n-SSLkAtAaNXQ00vPiG3Mr7h3bxixohOrlzwS_pxg7RGsjBGWUsYfbZW2tNlg6PMI-lZqt7AV34H6hgK9aZqXRarns1_Fe8vRd3nQKW7tdQ4Zrq3Z9V6JqcBeU79QI8Zbv0ZE-hj9gtDRIDC" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_kEOQWCEbt5JjUCyJ5H3P77nSRyPlaBoASCFfRwdfM3o.css?delta=3&amp;language=en&amp;theme=white_label&amp;include=eJx1k-2O7CAIhm-o1h_nggwqbc2oNIL7dfXr2Mzs2M5JmorPSxAB3UaMWftSd4iz67vpWEwMVh_m7JgnF4H5W1tgfNgJmWHFp5bJN40KPgL6AJHWA2UqCWL4wQmrcUS3gG1JewyQHep30HhcoEaZdiiwFtg3fkT-I3PNe7Ux8IZ-4n_GVRZKpqWs_8yJEYrbDOzBQBXqZ6Cg_g-fmFzL3SRsV2iVyDfWVzTLhqn5frNgOiojtjmskDBX3dX5hUwfAT9Z9_-cyNeI0-cWBE0Ei1HbAtmHvJ4ggnelJjtgJyrkhQbmgTdLUPyJCioJaTxroSyqkCWhEyfB8gYpC-6mhNq3n-SSLkAtAaNXQ00vPiG3Mr7h3bxixohOrlzwS_pxg7RGsjBGWUsYfbZW2tNlg6PMI-lZqt7AV34H6hgK9aZqXRarns1_Fe8vRd3nQKW7tdQ4Zrq3Z9V6JqcBeU79QI8Zbv0ZE-hj9gtDRIDC" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&amp;display=swap" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_OyVNURzVKM62Avaojf-V3g67cmYTjyKuXGzKrX4L7tI.css?delta=5&amp;language=en&amp;theme=white_label&amp;include=eJx1k-2O7CAIhm-o1h_nggwqbc2oNIL7dfXr2Mzs2M5JmorPSxAB3UaMWftSd4iz67vpWEwMVh_m7JgnF4H5W1tgfNgJmWHFp5bJN40KPgL6AJHWA2UqCWL4wQmrcUS3gG1JewyQHep30HhcoEaZdiiwFtg3fkT-I3PNe7Ux8IZ-4n_GVRZKpqWs_8yJEYrbDOzBQBXqZ6Cg_g-fmFzL3SRsV2iVyDfWVzTLhqn5frNgOiojtjmskDBX3dX5hUwfAT9Z9_-cyNeI0-cWBE0Ei1HbAtmHvJ4ggnelJjtgJyrkhQbmgTdLUPyJCioJaTxroSyqkCWhEyfB8gYpC-6mhNq3n-SSLkAtAaNXQ00vPiG3Mr7h3bxixohOrlzwS_pxg7RGsjBGWUsYfbZW2tNlg6PMI-lZqt7AV34H6hgK9aZqXRarns1_Fe8vRd3nQKW7tdQ4Zrq3Z9V6JqcBeU79QI8Zbv0ZE-hj9gtDRIDC" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_4ItTrcoo8sfpxRAp--Fca-k75olWaqk78zCp0zNJuOs.css?delta=6&amp;language=en&amp;theme=white_label&amp;include=eJx1k-2O7CAIhm-o1h_nggwqbc2oNIL7dfXr2Mzs2M5JmorPSxAB3UaMWftSd4iz67vpWEwMVh_m7JgnF4H5W1tgfNgJmWHFp5bJN40KPgL6AJHWA2UqCWL4wQmrcUS3gG1JewyQHep30HhcoEaZdiiwFtg3fkT-I3PNe7Ux8IZ-4n_GVRZKpqWs_8yJEYrbDOzBQBXqZ6Cg_g-fmFzL3SRsV2iVyDfWVzTLhqn5frNgOiojtjmskDBX3dX5hUwfAT9Z9_-cyNeI0-cWBE0Ei1HbAtmHvJ4ggnelJjtgJyrkhQbmgTdLUPyJCioJaTxroSyqkCWhEyfB8gYpC-6mhNq3n-SSLkAtAaNXQ00vPiG3Mr7h3bxixohOrlzwS_pxg7RGsjBGWUsYfbZW2tNlg6PMI-lZqt7AV34H6hgK9aZqXRarns1_Fe8vRd3nQKW7tdQ4Zrq3Z9V6JqcBeU79QI8Zbv0ZE-hj9gtDRIDC" />
+
+      <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/2566","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJyNlGGS2yAMhS9k4EcPxAiQbTaAXCSSzZ6-xE52YyftdMZjxPc0BvRk_EyMxfh10A7HYQtNqG2BpLfZHdoU3SPVMw8-AfPVOGB8xBmZYcJvrVC4aRGLcAxoz5BiAIlU7MfvhvVq_FlvkY7jf6fetZ5PFfsiNXfwhQM264lOEfuQlxSheDTvoA04QksyjFQELsiU0TzFms_TvzTNc8zDRDQltAKTmfrrONfwAZ97mIcFKkwVlpkfNf4hupWluRR5xjDwL-sbC2Xba21-woERqp8tLNFCE1oPhYLmL3xg8hGSzRgidAvLic0r0jJj7rlXFsybpeJ6wgQZSzOrqp_IcI54YbO-dabQEg4XdGO3wtxH3T-eaBoucxS0CRwm4yqUEMsRIgRfW3Z73ESo8I55UbGMtGMBeHYENRyooJLYz_RMbzaqSo6EDpwE6xukHPiTEurPcpBrfgFqjJiC2pX_JSeWXvE3fA1fMWNCL69c8FPW5XbSlMjB_itTjfucuZf7cNjoj5XedqlWr5_5Daitf9Sbqq2yOPXdJ8_iehscgbr1kMq3aGxpv_Wl3yXdREl4wPc_Zke3_u-G7XfES40HG9au_QObYu8q","theme":"white_label","theme_token":null},"ajaxTrustedUrl":{"\/search\/content":true},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"","blocklist_classes":"","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-5JBW3F4"]},"clientside_validation_jquery":{"validate_all_ajax_forms":1,"force_validate_on_blur":false,"force_html5_validation":false,"messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"webform":{"dialog":{"options":{"narrow":{"title":"Narrow","width":600},"normal":{"title":"Normal","width":800},"wide":{"title":"Wide","width":1000}},"entity_type":"node","entity_id":"2566"}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":false,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":false,"use_mobile_message":false,"mobile_popup_html_info":false,"mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/privacy-policy","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":false,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true,"unverified_scripts":[]},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"field-pad field-strong","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"TBMegaMenu":{"TBElementsCounter":{"column":7},"theme":"white_label"},"chosen":{"selector":".config-split-edit-form select:visible","minimum_single":20,"minimum_multiple":20,"minimum_width":0,"use_relative_width":false,"options":{"disable_search":false,"disable_search_threshold":0,"allow_single_deselect":false,"allow_mobile":false,"add_helper_buttons":false,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","max_shown_results":null,"inherit_select_classes":true}},"search_api_autocomplete":{"solr_search":{"auto_submit":true}},"user":{"uid":0,"permissionsHash":"5193d8c0e8f8918e67de9c02dfa5527b6975e83900d76ea94456e24f110dfd54"}}</script>
+<script src="/sites/default/files/js/js_m5SQMVMYXA7X_DqVGwvBRlZmWsuL_ZLtvnjORxqQT4k.js?scope=header&amp;delta=0&amp;language=en&amp;theme=white_label&amp;include=eJyNjgFuwyAMRS9E4EjIgANuAWfgJNvtR5tKS6ZtmoT43-8bbJ-4YzX-KdrhrA5rQlsXyPqolM-EVToFtBtkCiDE1d7eVmwfxm_6cJpm_G_rK0OFq_XMd8IhZckE1aP5CaqZq8COnQuak9d9i39luicqKjLHjFYgmjiu77WGG7xfYVEdoflkYSELq_BzFRQ0v3AlzhaMULCuRhKO8SeidnQzt2JeqgNB5qj2RII2g8NsAvTkGFq40JlZsE0O_H0SHme5xI_PJ3HT16BTeKw63rYrXtooPgEI2Ma-"></script>
+<script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" defer crossorigin="anonymous"></script>
+<script src="https://use.fontawesome.com/releases/v6.1.0/js/v4-shims.js" defer crossorigin="anonymous"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?tn9son"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?tn9son"></script>
+
+        </head>
+<body class="path-node page-node-type-ct-3-news-topical-content">
+<a href="#main-content" class="visually-hidden focusable skip-link">
+  Skip to main content
+</a>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5JBW3F4"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+
+
+
+
+
+
+
+
+  <a id="page-top"></a>
+
+      
+    
+  
+  
+  
+<header  class="header" data-header-type="default">  
+  <div  class="header__inner">
+            <div class="region region-header-left">
+    
+
+
+
+
+  <a href="/" rel="home" class="logo__link">
+    <img src="/sites/default/files/bendigo/bendigo-logo.svg" alt="Home" />
+  </a>
+
+  </div>
+
+              <div class="region region-header-right">
+    
+
+  <div class="header-toggle-search">    
+    <input type="checkbox" id="header-search-toggle">    
+    <div>
+      <form action="/search/content" method="get" id="views-exposed-form-solr-search-page-1" accept-charset="UTF-8">
+  
+
+
+
+<div class="form--inline clearfix">
+  
+<div class="js-form-item form-item js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-csq form-item-csq form-no-label">
+      
+
+
+<label for="edit-csq" class="visually-hidden form-item__label">Search this site</label>
+    
+      
+
+
+  
+<input placeholder="How can we help?" data-drupal-selector="edit-csq" data-search-api-autocomplete-search="solr_search" class="form-autocomplete form-text form-item__textfield" data-autocomplete-path="/search_api_autocomplete/solr_search?display=page_1&amp;&amp;filter=csq" data-msg-maxlength="This field has a maximum length of 128." type="text" id="edit-csq" name="csq" value="" maxlength="128" />
+
+        </div>
+
+<div class="js-form-item form-item js-form-type-select form-type-select js-form-item-items-per-page form-item-items-per-page">
+      
+
+
+<label for="edit-items-per-page" class="form-item__label">Items per page</label>
+    
+      
+<div class="form-item__dropdown"><select data-drupal-selector="edit-items-per-page" id="edit-items-per-page" name="items_per_page" class="form-select form-item__select"><option value="10" selected="selected">10</option><option value="25">25</option><option value="50">50</option></select></div>
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+  
+<input data-drupal-selector="edit-submit-solr-search" type="submit" id="edit-submit-solr-search" value="Apply" class="button js-form-submit form-submit" />
+
+</div>
+
+</div>
+
+</form>
+
+    </div>
+    <label for="header-search-toggle">Search</label>
+  </div>
+
+
+<div id="block-white-label-account-menu" class="block block-system block-system-menu-blockaccount">
+      
+        
+        
+
+
+
+
+
+
+<div class="inline-menu" data-menu-style="default">
+      
+
+
+    
+                          
+    
+<ul  class="menu">
+              
+<li  class="menu__item">
+                <a href="/contact-us" class="menu__link" data-drupal-link-system-path="node/130">Contact</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="/requests-and-payments" title="Requests and payments" class="menu__link" data-drupal-link-system-path="node/1529">Requests and payments</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="/emergency" class="menu__link" data-drupal-link-system-path="node/2207">Emergency dashboard</a>
+          </li>
+      </ul>
+  
+  </div>
+
+  </div>
+
+  </div>
+
+    </div>
+</header>
+
+                      <div class="region region-primary-menu">
+    
+  
+
+<div id="block-megamenu" class="block block-tb-megamenu block-tb-megamenu-menu-blockmega-menu">
+      
+        
+        <div  class="tb-megamenu tb-megamenu-mega-menu" role="navigation" aria-label="Main navigation">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button" value="Menu Button">    
+      <i class="fa fa-reorder"></i>
+      <span>Menu</span>
+    </button>
+    <div class="nav-collapse ">
+    <ul  class="tb-megamenu-nav nav level-0 items-8" role="list" >
+        <li  class="tb-megamenu-item level-1 mega columns-from-rows dropdown" data-id="menu_link_content:ceeef135-510e-4fc2-a81d-f8722f7010bb" data-level="1" data-type="menu_item" data-class="columns-from-rows" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/residents"  class="dropdown-toggle" aria-label="Open main submenu" aria-expanded="false">
+          Residents
+          <span class="caret"></span>
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  data-showblocktitle="1" class="tb-megamenu-column span mega-col-nav" data-class="" data-width="" data-hidewcol="" id="tb-megamenu-column-1">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                 <div  class="tb-block tb-megamenu-block" data-type="block" data-block="views_block__landing_page_top_tasks_block_3">
+    <div class="block-inner">
+      
+
+<div id="block-views-blocklanding-page-top-tasks-block-3" class="block block-views block-views-blocklanding-page-top-tasks-block-3">
+      
+          <h2 class="block-title">Residents</h2>
+        
+        <div class="views-element-container">
+
+
+
+
+<div class="view view-landing-page-top-tasks view-id-landing_page_top_tasks view-display-id-block_3 js-view-dom-id-a8b914ae4273a3e024651394dc9c4b7b77cca13893baf554bbc8da4e39e0ba67">
+      
+        
+            
+          <div class="view-content">
+            <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-tower-broadcast" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="/emergency">Emergency dashboard</a></div></div></div>
+    <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="far fa-file-lines" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="/requests-and-payments">Requests</a></div></div></div>
+    <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-dollar-sign" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="/requests-and-payments/view-all-payments">Online payments</a></div></div></div>
+
+      </div>
+    
+                      </div>
+</div>
+
+  </div>
+
+    </div>
+  </div>
+
+      </div>
+</div>
+
+  </div>
+
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-2">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-7" role="list">
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:b4218dbf-93ab-48ba-ae49-4917b405a879" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/residents/fire-floods-and-emergencies" >
+          Fire, floods and emergencies
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:74898a28-8306-4002-90cd-91f4233668c9" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/residents/general-waste-recycling-and-organics" >
+          General waste, recycling and organics
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:11e431df-259f-4c95-bb65-c23bde1a3763" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/residents/pets-and-animals" >
+          Pets and animals
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:45ca0854-667b-442e-b197-094baec19590" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/residents/rates" >
+          Rates
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:552d1341-38d5-40dd-8f14-3cd4f2656ea0" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/residents/roads-and-drainage" >
+          Roads and drainage
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:1973d983-ba9d-4bef-a7d9-8ec024d47407" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/residents/swimming-pool-and-spa-registration" >
+          Swimming pool and spa registration
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:b953fcde-d8e8-4286-a8f0-faef70b226d6" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/residents/trees-and-nature-strips" >
+          Trees and nature strips
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-1 mega columns-from-rows dropdown" data-id="menu_link_content:201867b2-ad0b-4ea3-a33e-a84d13c0fd9a" data-level="1" data-type="menu_item" data-class="columns-from-rows" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/community-services"  class="dropdown-toggle" aria-label="Open main submenu" aria-expanded="false">
+          Community services
+          <span class="caret"></span>
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  data-showblocktitle="1" class="tb-megamenu-column span mega-col-nav" data-class="" data-width="" data-hidewcol="" id="tb-megamenu-column-3">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                 <div  class="tb-block tb-megamenu-block" data-type="block" data-block="views_block__landing_page_top_tasks_block_2_2">
+    <div class="block-inner">
+      
+
+<div id="block-views-blocklanding-page-top-tasks-block-2" class="block block-views block-views-blocklanding-page-top-tasks-block-2">
+      
+          <h2 class="block-title">Community services</h2>
+        
+        <div class="views-element-container">
+
+
+
+
+<div class="view view-landing-page-top-tasks view-id-landing_page_top_tasks view-display-id-block_2 js-view-dom-id-a763323d240440a4c64be0140f8cd86b1f745f5346e0e061ed0a40ce3dd0448b">
+      
+        
+            
+          <div class="view-content">
+            <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-coins" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="/community-services/grants-events-and-volunteers/community-grants">Community grants</a></div></div></div>
+    <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-square-parking" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="/community-services/parking/accessible-parking-permits">Accessible Parking Permit</a></div></div></div>
+    <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-hand-holding-medical" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="/community-services/children-and-families/immunisation">Immunisation </a></div></div></div>
+
+      </div>
+    
+                      </div>
+</div>
+
+  </div>
+
+    </div>
+  </div>
+
+      </div>
+</div>
+
+  </div>
+
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-4">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-10" role="list">
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:141b3d28-0a92-407f-8684-9fd1aef361f3" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/community-services/community-planning" >
+          Community planning 
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:1dc776ac-d166-4e0d-8ea1-15660fcb242c" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/community-services/arts-and-creative-industries" >
+          Arts and creative industries
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:f97d52c6-d6c9-4884-9ce4-10f3803aa6d3" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/community-services/children-and-families" >
+          Children and families
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:89c5391d-659e-432c-90f0-264054e7b572" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/community-services/community-and-care" >
+          Community and care
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:78c33fb1-ae1f-4476-9303-c6d0a1615f48" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/community-services/environment" >
+          Environment
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:c29d6f98-79ea-4100-a092-f890909f1ef0" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/community-services/grants-events-and-volunteers" >
+          Grants, events and volunteers
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:17d0311a-1dc4-40f4-aa6b-d1359a5e2f70" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/community-services/local-laws" >
+          Local laws
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:2b6ac6af-55c8-4352-b889-5601544e2dad" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/community-services/parking" >
+          Parking
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:f2d3d42f-777a-44fa-bcaf-b71070f89297" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/community-services/public-health" >
+          Public health
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:656b2929-5d3a-4204-9e4d-a0a22cdf9315" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/community-services/sport-and-leisure" >
+          Sport and leisure
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-1 mega columns-from-rows dropdown" data-id="menu_link_content:60051937-0128-4d6e-8e1e-d27bc5d6165f" data-level="1" data-type="menu_item" data-class="columns-from-rows" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/building-and-business"  class="dropdown-toggle" aria-label="Open main submenu" title="Building, planning and business information" aria-expanded="false">
+          Building and business
+          <span class="caret"></span>
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  data-showblocktitle="1" class="tb-megamenu-column span mega-col-nav" data-class="" data-width="" data-hidewcol="" id="tb-megamenu-column-5">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                 <div  class="tb-block tb-megamenu-block" data-type="block" data-block="views_block__landing_page_top_tasks_block_4">
+    <div class="block-inner">
+      
+
+<div id="block-views-blocklanding-page-top-tasks-block-4" class="block block-views block-views-blocklanding-page-top-tasks-block-4">
+      
+          <h2 class="block-title">Building and business</h2>
+        
+        <div class="views-element-container">
+
+
+
+
+<div class="view view-landing-page-top-tasks view-id-landing_page_top_tasks view-display-id-block_4 js-view-dom-id-2c785329797f047a67f9f500ca1f1a2c96a75b98fe3068eb7cb2d7d1fc497915">
+      
+        
+            
+          <div class="view-content">
+            <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-table-list" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="https://bendigoprd-pwy-epw01.cloud.infor.com/ePathway/Production/Web/GeneralEnquiry/ExternalRequestBroker.aspx?Module=EGELAP&amp;Class=P&amp;Type=PLNADV">Planning applications on public notice</a></div></div></div>
+    <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-file-contract" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="/building-and-business/doing-business-us">Tenders</a></div></div></div>
+    <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-xmarks-lines" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="/building-and-business/building/building-fences">Building fences</a></div></div></div>
+
+      </div>
+    
+                      </div>
+</div>
+
+  </div>
+
+    </div>
+  </div>
+
+      </div>
+</div>
+
+  </div>
+
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-6">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-8" role="list">
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:0bfe5b5d-be44-44dd-b777-5009ba96ece0" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/building-and-business/bendigo-airport" >
+          Bendigo Airport
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:f55e27ce-90ef-4d88-a013-d786b36e11a2" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/building-and-business/building" >
+          Building
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:15d99d80-10e1-468e-b10c-2619bc04c60f" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/building-and-business/business" >
+          Business
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:c7ce0cf5-259c-4cc6-9a9e-81a548308c4a" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/building-and-business/commercial-bin-services" >
+          Business bin services
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:8ba5ebb5-97f0-4176-9186-7382248c1140" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/building-and-business/doing-business-us" >
+          Doing business with us
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:166ab9db-b9d1-4996-96b6-1bdcb8b24388" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/building-and-business/heritage" >
+          Heritage
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:a5908bba-3555-40d7-a158-f5b2d649985a" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/building-and-business/bendigo-livestock-exchange" >
+          Livestock Exchange
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:24fa1b44-2955-40ef-abaf-f9c5fe9c663a" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="1" data-label="" aria-level="2" >
+      <a href="/building-and-business/planning" >
+          Planning
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-1 mega columns-from-rows dropdown" data-id="menu_link_content:d2fa079e-b739-4961-a192-07fde363acdf" data-level="1" data-type="menu_item" data-class="columns-from-rows" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/things-do"  class="dropdown-toggle" aria-label="Open main submenu" aria-expanded="false">
+          Things to do
+          <span class="caret"></span>
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  data-showblocktitle="1" class="tb-megamenu-column span mega-col-nav" data-class="" data-width="" data-hidewcol="" id="tb-megamenu-column-7">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                 <div  class="tb-block tb-megamenu-block" data-type="block" data-block="views_block__landing_page_top_tasks_block_5">
+    <div class="block-inner">
+      
+
+<div id="block-views-blocklanding-page-top-tasks-block-5" class="block block-views block-views-blocklanding-page-top-tasks-block-5">
+      
+          <h2 class="block-title">Things to do</h2>
+        
+        <div class="views-element-container">
+
+
+
+
+<div class="view view-landing-page-top-tasks view-id-landing_page_top_tasks view-display-id-block_5 js-view-dom-id-e95f56b47b6eafb20e4db116d8117ee1ec75987f4430cf927fbab10efb484c2d">
+      
+        
+            
+          <div class="view-content">
+            <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-leaf" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="/things-do/gardens-and-natural-reserves/bendigo-botanic-gardens">Bendigo Botanic Gardens</a></div></div></div>
+    <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-person-swimming" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="/things-do/pools-playgrounds-and-parks/pools">Swimming pools</a></div></div></div>
+    <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-water" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="/things-do/pools-playgrounds-and-parks/pools/long-gully-splash-park">Long Gully Splash Park</a></div></div></div>
+
+      </div>
+    
+                      </div>
+</div>
+
+  </div>
+
+    </div>
+  </div>
+
+      </div>
+</div>
+
+  </div>
+
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-8">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-10" role="list">
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:008c4791-aa38-4a8d-a656-b4c65b2a3301" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/things-do/bookings" >
+          Bookings
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:1e64affd-41f6-4d84-beb3-de6bff9b9bd1" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/things-do/community-halls" >
+          Community halls
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:bc9ee3eb-1bd0-4319-bb8f-0e41d3268aa1" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/things-do/events-and-arts" >
+          Events and arts
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:9d63b950-2b7e-424b-b529-11fa0a22df47" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/things-do/explore-our-history-and-heritage" >
+          Explore our history and heritage
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:81dcf835-4d7c-4817-8b7f-0cb2e6a48438" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/things-do/gardens-and-natural-reserves" >
+          Gardens and natural reserves
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:d1b6636a-8ad9-4b7f-b829-fe5a8175e489" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/things-do/pools-playgrounds-and-parks" >
+          Pools, playgrounds and parks
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:be0c9278-ff32-42c7-8bf9-f85d7b0771eb" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/things-do/sports-venues" >
+          Sports venues
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:526b9661-e744-4c82-a663-05bff4e89fdf" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/things-do/visit-library" >
+          Visit a library
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:b206a437-0a42-4417-a0b2-8b96224bb2a4" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/things-do/visitor-information-centres" >
+          Visitor information centres
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:63f8ac8f-f798-478c-b832-a90e583b17ce" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/things-do/walk-or-ride" >
+          Walk or ride
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-1 mega columns-from-rows dropdown" data-id="menu_link_content:a756ad52-6215-490b-ba3c-3e70cf2d55c8" data-level="1" data-type="menu_item" data-class="columns-from-rows" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/about-us"  class="dropdown-toggle" aria-label="Open main submenu" aria-expanded="false">
+          About us
+          <span class="caret"></span>
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  data-showblocktitle="1" class="tb-megamenu-column span mega-col-nav" data-class="" data-width="" data-hidewcol="" id="tb-megamenu-column-9">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+                 <div  class="tb-block tb-megamenu-block" data-type="block" data-block="views_block__landing_page_top_tasks_block_6">
+    <div class="block-inner">
+      
+
+<div id="block-views-blocklanding-page-top-tasks-block-6" class="block block-views block-views-blocklanding-page-top-tasks-block-6">
+      
+          <h2 class="block-title">About us</h2>
+        
+        <div class="views-element-container">
+
+
+
+
+<div class="view view-landing-page-top-tasks view-id-landing_page_top_tasks view-display-id-block_6 js-view-dom-id-a83a8debd38e569682ee6de92993bfcadfa7566eca22c4b5617df7b423148505">
+      
+        
+            
+          <div class="view-content">
+            <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-phone" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="/contact-us">Contact us</a></div></div></div>
+    <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-video" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="/about-us/council/council-meetings">Council meetings</a></div></div></div>
+    <div><div class="views-field views-field-field-fa-icon"><div class="field-content"><div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-magnifying-glass" data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+</div></div><div class="views-field views-field-field-link"><div class="field-content"><a href="/about-us/working-city">Find a job</a></div></div></div>
+
+      </div>
+    
+                      </div>
+</div>
+
+  </div>
+
+    </div>
+  </div>
+
+      </div>
+</div>
+
+  </div>
+
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-10">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-9" role="list">
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:7ab330ff-46fb-4330-8534-61fbda626736" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/about-us/bendigo-snapshot" >
+          Bendigo snapshot
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:60b1453e-9d0e-4e02-9f4c-1e8744381674" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/about-us/civic-events" >
+          Civic events
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:71d7b247-cf29-423e-84c0-77d9624a820c" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="1" data-label="" aria-level="2" >
+      <a href="/about-us/council" >
+          Council
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:1fe6d11f-bb31-4776-93a1-e6765c01bff8" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/about-us/council-land-and-facilities" >
+          Council land and facilities
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:67dae159-2eb6-49a1-962f-7c9557c672c5" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="1" data-label="" aria-level="2" >
+      <a href="/about-us/news-and-media" >
+          News and media
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:b5f13050-a6ee-402a-bcca-7e9128e7c1df" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="1" data-label="" aria-level="2" >
+      <a href="/about-us/our-organisation" >
+          Our organisation
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:3ab25cb7-c429-4069-b3bb-051015038a1a" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="1" data-label="" aria-level="2" >
+      <a href="/about-us/plans-strategies-and-documents" >
+          Plans, strategies and documents
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:e9732cbf-4e98-485c-a7fa-c439262e9d8f" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="1" data-label="" aria-level="2" >
+      <a href="/about-us/projects" >
+          Projects and advocacy
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:d098643f-b3aa-46f3-9f26-0eab2fbd3b2c" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="1" data-label="" aria-level="2" >
+      <a href="/about-us/working-city"  title="Jobs, Careers, Positions Vacant">
+          Working at the City
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-1 mega" data-id="menu_link_content:83b84e89-f515-4a0a-a85b-3638a06bab3a" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/requests-and-payments"  class="mobile-only">
+          Online payments
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-1 mega" data-id="menu_link_content:d5a25781-db89-4dd1-be3b-24a0417597e3" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/emergency"  class="mobile-only">
+          Emergency dashboard
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-1 mega" data-id="menu_link_content:3ffcd97d-dc4a-4e81-a5d2-48aec6f87ee5" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/contact-us"  class="mobile-only">
+          Contact
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+  </div>
+
+  </div>
+
+  </div>
+
+            
+
+      <div class="region region-content-top">
+    
+
+<div id="block-pagetitle" class="block block-core block-page-title-block">
+      
+        
+        
+
+
+
+
+<div class="layout-container">
+                    
+
+<h1  class="page-title">
+      <span class="field field--name-title field--type-string field--label-hidden">New Pavilion at North Bendigo Rec Reserve officially opened</span>
+
+  </h1>
+            </div>
+
+
+  </div>
+<div data-drupal-messages-fallback class="hidden"></div>
+
+
+<div id="block-white-label-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+      
+        
+        
+
+  <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li>
+                  <a href="/">Home</a>
+              </li>
+          <li>
+                  <a href="/about-us">About Us</a>
+              </li>
+          <li>
+                  <a href="/about-us/news-and-media">News and Media</a>
+              </li>
+          <li>
+                  New Pavilion At North Bendigo Rec Reserve Officially Opened
+              </li>
+        </ol>
+  </nav>
+
+  </div>
+
+  </div>
+
+            
+
+  
+<div  class="layout-container-not">
+  <a id="main-content" tabindex="-1"></a>
+  <div  class="main">
+                <main role="main"  class="main-content">
+                              <div class="region region-content">
+    
+
+<div id="block-white-label-content" class="block block-system block-system-main-block">
+      
+        
+          
+  
+     
+  
+  <article data-history-node-id="2566" class="node node--type-ct-3-news-topical-content node--view-mode-full">
+    
+    
+        
+
+    
+    <div class="node__content">      
+                
+                
+          
+
+
+      <div class="field field--name-field-category field--type-entity-reference field--label-hidden ct-info ct-info-type-tags field__items layout-container">
+                                                <div class="field__item ct-info__item">            <span class="plain">Media release</span>
+          </div>
+          </div>
+  
+<div  class="field-pad field-strong">
+    
+<div class="field field--name-field-release-date field--type-datetime field--label-hidden layout-container date-time-container">
+  
+
+<div class="date-time">
+                <time datetime="2026-10-22T21:15:38Z" class="datetime"><span class="time__day">October</span><span class="time__month">23,</span><span class="time__year">2026</span></time>
+
+          </div>
+</div>
+
+  </div>
+      <div class="field field--name-field-body field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+
+
+
+
+
+
+<div  class="paragraph" data-debug-bundle="pt1_basic_text">
+  <div class="layout-container">
+    <div class="paragraph-inner paragraph-basic-text">
+          
+          
+
+            <div class="text-long"><p>The new $3.86M pavilion at North Bendigo Recreation Reserve was officially opened today by Mayor Cr Thomas Prince, Federal Member for Bendigo Lisa Chesters MP and Member for Bendigo West Maree Edwards MP.</p><p>The new pavilion is located off Anderson Street and features three distinct zones comprising:</p><ul><li>Entrance foyer</li><li>A social/multipurpose area complete with bar, canteen/ kitchen, toilet facilities and office/meeting room and storage areas</li><li>Four changerooms with two toilets and three showers in each</li><li>Match officials’ room with fully serviced private ensuite complete with changing spaces, toilet, and shower facilities</li><li>Undercover spectator viewing area</li><li>Landscaping and facility car parking including disability parking bays and connecting paths</li></ul><p>City of Greater Bendigo Mayor Cr Thomas Prince said the opening of the new pavilion marks the completion of stage one of an exciting multi-stage redevelopment of the North Bendigo Recreation Reserve.</p><p>“This fantastic new pavilion meets today’s service standards and expectations for accessibility, gender equity, sustainability, player safety and functionality and it will serve more than 750 sporting and community participants who regularly use the North Bendigo Recreation Reserve,” Cr Prince said.</p><p>“The new pavilion addresses a significant service gap in the provision of quality and accessible sporting and community facilities for the North Bendigo community.</p><p>“It also delivers on key strategic priorities identified by Senior Sporting Associations such as the Football Federation Victoria, AFL Central Victoria, and Cricket Victoria by providing new and improved facilities that support participation growth and provide quality, female friendly and accessible facilities that increase social, health and wellbeing outcomes.</p><p>“For many years, the City of Greater Bendigo has been delivering improvements via the North Bendigo Recreation Reserve Masterplan 2012 to support sporting participants and members of the local and wider community and it’s exciting to see the new pavilion is now completed.”</p><p>Seasonal users of the new pavilion will include Golden City Football Club (all grades), Bendigo Cricket Club (junior and women), North Bendigo Football/Netball Club (juniors training) and the wider community.</p><p>The new $3.86M pavilion was funded with $1M from the Australian Government’s Investing in Our Communities program, $1M from the Victorian Government’s Regional Community Sports Infrastructure Fund, $1.79M from the City of Greater Bendigo, $37,500 from Bendigo Cricket Club and $37,500 from Golden City Football Club.</p></div>
+      
+          </div>
+  </div>
+</div>
+</div>
+          </div>
+  
+<div  class="layout-container">
+    
+<div  class="max-content-width">
+  <strong>Locations:</strong>
+    
+
+
+      <div class="field field--name-field-town-1 field--type-entity-reference field--label-hidden ct-info ct-info-type-location field__items layout-container">
+                                                <div class="field__item ct-info__item">            <span class="plain">North Bendigo</span>
+          </div>
+          </div>
+  
+  </div>
+  </div>      
+          
+          </div>
+  </article>
+
+  </div>
+
+  </div>
+
+            
+      </main>
+  </div>
+</div>
+
+    
+  
+
+
+  
+
+<footer  class="footer">
+  <div  class="footer__inner">
+    <div class="footer__top grid grid--3-col">
+            <div class="region region-footer-column-1">
+    
+
+<div id="block-google-translate" class="block block-gtranslate block-gtranslate-block">
+      
+          <h2 class="block-title">Translate</h2>
+        
+        
+<div class="gtranslate_wrapper"></div><script>window.gtranslateSettings = {"switcher_horizontal_position":"right","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline","float_switcher_open_direction":"left","switcher_open_direction":"top","default_language":"en","native_language_names":0,"detect_browser_language":0,"add_new_line":0,"select_language_label":"","flag_size":16,"flag_style":"2d","globe_size":20,"alt_flags":[],"wrapper_selector":".gtranslate_wrapper","url_structure":"none","custom_domains":null,"languages":["en","ar","zh-CN","zh-TW","fr","de","el","hi","it","pt","es","sv","id","vi","th","tr","fa","ms","sw","ur","bn","la","so"],"custom_css":""};</script><script>(function(){var js = document.createElement('script');js.setAttribute('src', 'https://cdn.gtranslate.net/widgets/latest/dropdown.js');js.setAttribute('data-gt-orig-url', '/about-us/news-and-media/new-pavilion-north-bendigo-rec-reserve-officially-opened');js.setAttribute('data-gt-orig-domain', 'www.bendigo.vic.gov.au');document.body.appendChild(js);})();</script>
+  </div>
+
+<nav role="navigation" aria-labelledby="block-popular-menu" id="block-popular" class="block block-menu navigation menu--popular">
+      
+  <h2 id="block-popular-menu">Popular</h2>
+  
+
+        
+
+
+    
+                          
+    
+<ul  class="menu">
+              
+<li  class="menu__item">
+                <a href="/requests-and-payments" title="Requests and payments" class="menu__link" data-drupal-link-system-path="node/1529">Requests and payments</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="/community-languages" title="Information translated in other community languages" class="menu__link" data-drupal-link-system-path="node/1607">Translated information </a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="/residents/general-waste-recycling-and-organics/bin-night" class="menu__link" data-drupal-link-system-path="node/697">Find your bin day</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="/residents/pets-and-animals/pet-registration" class="menu__link" data-drupal-link-system-path="node/134">Register your pet</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="/about-us/working-city" class="menu__link" data-drupal-link-system-path="node/21">View current jobs</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="/community-services/parking" class="menu__link" data-drupal-link-system-path="node/597">Parking</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="/events" class="menu__link" data-drupal-link-system-path="node/1046">Events</a>
+          </li>
+      </ul>
+  
+
+  </nav>
+
+  </div>
+
+      <div class="region region-footer-column-2">
+    
+<nav role="navigation" aria-labelledby="block-oursites-menu" id="block-oursites" class="block block-menu navigation menu--our-sites">
+      
+  <h2 id="block-oursites-menu">Our sites</h2>
+  
+
+        
+
+
+    
+                          
+    
+<ul  class="menu">
+              
+<li  class="menu__item">
+                <a href="https://www.bendigoanimalreliefcentre.com.au/" title="Bendigo Animal Relief Centre" class="menu__link">Bendigo Animal Relief Centre</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="https://www.bendigoregion.com.au/bendigo-art-gallery" class="menu__link">Bendigo Art Gallery</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="https://bendigogastronomy.com.au/" class="menu__link">Bendigo Gastronomy</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="https://www.bendigoregion.com.au/arts-culture-theatres" class="menu__link">Bendigo Venues &amp; Events</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="https://www.connectgreaterbendigo.com.au/" class="menu__link">CONNECT Greater Bendigo</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="https://bendigo.pozi.com/" class="menu__link">Community Compass</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="https://www.bendigoregion.com.au/explore-bendigo" class="menu__link">Explore Bendigo</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="https://letstalkgreaterbendigo.com.au/" class="menu__link">Let&#039;s Talk Greater Bendigo</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="https://www.yobendigo.com.au/" class="menu__link">YO Bendigo</a>
+          </li>
+      </ul>
+  
+
+  </nav>
+
+  </div>
+
+      <div class="region region-footer-column-3">
+    
+
+<div id="block-contactblockinfooter" class="block block-block-content block-block-content2209fa21-7622-4fa1-bd2b-fafe70a1e84c">
+      
+          <h2 class="block-title">Contact</h2>
+        
+        
+
+            <div class="text-long"><p><img alt="City of Greater Bendigo logo" src="/sites/default/files/bendigo/bendigo-logo.svg" /></p>
+
+<p><a href="/cdn-cgi/l/email-protection#ff8d9a8e8a9a8c8b8cbf9d9a919b969890d189969cd1989089d19e8a"><span class="__cf_email__" data-cfemail="3341564246564047407351565d575a545c1d455a501d545c451d5246">[email&#160;protected]</span></a></p>
+
+<p><a href="tel:1300002642">1300 002 642</a></p>
+</div>
+      
+  </div>
+
+
+<div id="block-white-label-socialmedialinks" class="block-social-media-links block block-social-media-links-block">
+      
+        
+        
+
+
+            
+
+
+<ul  class="social-footer">
+            <li>
+      
+<a
+   class="link"
+      alt="Facebook"
+      title="Facebook"
+    href="https://www.facebook.com/CityofGreaterBendigo"
+>
+      <span></span>
+        
+
+
+<svg  class="icon"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/white_label/dist/icons.svg#facebook"></use>
+</svg>
+  </a>
+      </li>
+          <li>
+      
+<a
+   class="link"
+      alt="Youtube"
+      title="Youtube"
+    href="https://www.youtube.com/@CityOfGreaterBendigo"
+>
+      <span></span>
+        
+
+
+<svg  class="icon"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/white_label/dist/icons.svg#youtube"></use>
+</svg>
+  </a>
+      </li>
+          <li>
+      
+<a
+   class="link"
+      alt="LinkedIn"
+      title="LinkedIn"
+    href="https://www.linkedin.com/company/city-of-greater-bendigo"
+>
+      <span></span>
+        
+
+
+<svg  class="icon"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/white_label/dist/icons.svg#linkedin"></use>
+</svg>
+  </a>
+      </li>
+      </ul>
+
+
+  </div>
+
+
+<div id="block-contactblockinfootertext" class="block block-block-content block-block-contentfea7a3a9-8116-4657-8181-8930d1b90f86">
+      
+        
+        
+
+            <div class="text-long"><div data-nosnippet><p>If you're deaf, or have a hearing impairment or speech impairment, contact us via the National Relay Service.</p>
+
+<p>Phone 133 677 then ask for 1300 002 642.</p></div>
+
+<p>Bendigo:<br />
+189-229 Lyttleton Terrace, Bendigo</p>
+
+<p>Heathcote:<br />
+125 High Street, Heathcote</p>
+
+<p>PO Box 733 Bendigo VIC 3552</p>
+</div>
+      
+  </div>
+
+  </div>
+
+      <div class="region region-footer-column-4">
+    
+
+<div id="block-infoblockinbottomfooter" class="block block-block-content block-block-contentccc932a2-ecc1-4960-bcad-b1d6cd0b2561">
+      
+        
+        
+
+            <div class="text-long"><p>The City of Greater Bendigo acknowledges that we are on Dja Dja Wurrung and Taungurung Country</p>
+
+<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="ec153afc-5b36-4442-a4f4-795f9f87f352" href="/acknowledgement-country" title="Acknowledgement of Country">Read our Acknowledgment of Country</a></p></div>
+      
+  </div>
+
+  </div>
+
+      </div>
+  </div>  
+  <div  class="footer-bottom">
+    <div  class="footer__inner">
+      <div class="footer__bottom">
+              
+<nav role="navigation" aria-labelledby="block-white-label-footer-3-menu" id="block-white-label-footer-3" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-white-label-footer-3-menu">Footer</h2>
+  
+
+        
+
+
+<div class="inline-menu-inverse">
+      
+
+
+    
+                          
+    
+<ul  class="menu">
+              
+<li  class="menu__item">
+                <a href="/disclaimer-and-copyright" class="menu__link" data-drupal-link-system-path="node/996">Disclaimer and copyright notice</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="/website-accessibility" class="menu__link" data-drupal-link-system-path="node/997">Website accessibility</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="/privacy-statement" class="menu__link" data-drupal-link-system-path="node/995">Privacy</a>
+          </li>
+            
+<li  class="menu__item">
+                <a href="/about-us/news-and-media/feed" class="menu__link" data-drupal-link-system-path="about-us/news-and-media/feed">RSS</a>
+          </li>
+      </ul>
+  
+  </div>
+
+  </nav>
+
+
+<div id="block-copyright" class="block block-block-content block-block-contente3a761c1-da8d-4783-8938-b9d20ceab033">
+      
+        
+        
+
+            <div class="text-long"><p class="copyright">City of Greater Bendigo © 2026</p></div>
+      
+  </div>
+
+
+<div id="block-white-label-livechatscript" class="block block-block-content block-block-content68528e21-6e85-4cea-9d4d-bb97715711b0">
+      
+        
+        
+
+            <div class="text-long"><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" charset="utf-8">
+  (function () {
+    // console.log('💬', 'Checking if webchat should be enabled...');
+    const START_MINUTES = 9 * 60 + 0;   // 9:00 AM
+    const END_MINUTES = 16 * 60 + 30;  // 4:30 PM
+    const ALLOWED_DAYS = ["Mon", "Tue", "Wed", "Thu", "Fri"];
+    // MM-YY
+    const RECURRING_EXCLUSIONS = [
+      "01-01", // New Years Day
+      "01-26", // Australia Day
+      "04-25", // Anzac Day
+      "12-25", // Christmas
+      "12-26",  // Boxing Day
+      "12-27",  // Boxing Day
+      "12-28",  // Shutdown Period
+      "12-29",  // Shutdown Period
+      "12-30",  // Shutdown Period
+      "12-31"  // Shutdown Period
+    ];
+    // YYYY-MM-DD
+    const ONE_OFF_EXCLUSIONS = [
+      "2026-02-13",
+    ]
+    function getDateInfo(now = new Date()) {
+      const fmt = new Intl.DateTimeFormat("en-AU", {
+        timeZone: "Australia/Melbourne",
+        weekday: "short",
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit",
+        hour12: false
+      });
+      const parts = Object.fromEntries(fmt.formatToParts(now).map(p => [p.type, p.value]));
+      return {
+        dayName: parts.weekday,
+        year: parts.year,
+        month: parts.month,
+        day: parts.day,
+        hour: Number(parts.hour),
+        minute: Number(parts.minute)
+      };
+    }
+    function enableWebchat() {
+      // console.log('🧑‍💻', 'enabling webchat...');
+      // Genesys Snippet Starts
+      (function (g, e, n, es, ys) {
+        g['_genesysJs'] = e;
+        g[e] = g[e] || function () {
+          (g[e].q = g[e].q || []).push(arguments)
+        };
+        g[e].t = 1 * new Date();
+        g[e].c = es;
+        ys = document.createElement('script'); ys.async = 1; ys.src = n; ys.charset = 'utf-8'; document.head.appendChild(ys);
+      })(window, 'Genesys', 'https://apps.mypurecloud.com.au/genesys-bootstrap/genesys.min.js', {
+        environment: 'prod-apse2',
+        deploymentId: '2c22e5cf-8625-48f5-88fa-cbee4fab9a90'
+      });
+      // Genesys Snippet Ends
+      // console.log('✅', 'Webchat enabled');
+    }
+    const { dayName, year, month, day, hour, minute } = getDateInfo();
+    const minutesSinceMidnight = hour * 60 + minute;
+    const todayFull = `${year}-${month}-${day}`; // YYYY-MM-DD
+    const todayMonthDay = `${month}-${day}`;     // MM-DD
+    // console.log('🌐', 'Date info', { dayName, year, month, day, hour, minute, minutesSinceMidnight });
+    const isAllowedDay = ALLOWED_DAYS.includes(dayName);
+    const inBusinessHours = minutesSinceMidnight >= START_MINUTES && minutesSinceMidnight <= END_MINUTES;
+    // Check if today is in either holiday list
+    const isExcludedDate = RECURRING_EXCLUSIONS.includes(todayMonthDay) || ONE_OFF_EXCLUSIONS.includes(todayFull);
+    // console.log('📅', 'Is this a workday?', isAllowedDay);
+    // console.log('🕒', 'Is this in business hours?', inBusinessHours);
+    // console.log('🚫', 'Is this an excluded date?', isExcludedDate);
+    if (isAllowedDay && inBusinessHours && !isExcludedDate) {
+      enableWebchat();
+    } else {
+      // console.log('❌', 'Webchat not enabled - outside business hours or excluded date');
+    }
+  })();
+</script></div>
+      
+  </div>
+
+
+        </div>
+    </div>
+  </div>
+      <a href="#page-top" class="footer-back-to-top">Back to top</a>
+  </footer>
+  </div>
+
+
+<script src="/sites/default/files/js/js__3Bw0_v9tB9abEbBnd3Lwiz_EVbeZXGYfuvvhlarOQo.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=white_label&amp;include=eJyNjgFuwyAMRS9E4EjIgANuAWfgJNvtR5tKS6ZtmoT43-8bbJ-4YzX-KdrhrA5rQlsXyPqolM-EVToFtBtkCiDE1d7eVmwfxm_6cJpm_G_rK0OFq_XMd8IhZckE1aP5CaqZq8COnQuak9d9i39luicqKjLHjFYgmjiu77WGG7xfYVEdoflkYSELq_BzFRQ0v3AlzhaMULCuRhKO8SeidnQzt2JeqgNB5qj2RII2g8NsAvTkGFq40JlZsE0O_H0SHme5xI_PJ3HT16BTeKw63rYrXtooPgEI2Ma-"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.min.js"></script>
+<script src="/sites/default/files/js/js_S1IgHlc1MQoVrdq7Ln6PhffZYkx_5gbRIyzlPGCaBJ4.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=white_label&amp;include=eJyNjgFuwyAMRS9E4EjIgANuAWfgJNvtR5tKS6ZtmoT43-8bbJ-4YzX-KdrhrA5rQlsXyPqolM-EVToFtBtkCiDE1d7eVmwfxm_6cJpm_G_rK0OFq_XMd8IhZckE1aP5CaqZq8COnQuak9d9i39luicqKjLHjFYgmjiu77WGG7xfYVEdoflkYSELq_BzFRQ0v3AlzhaMULCuRhKO8SeidnQzt2JeqgNB5qj2RII2g8NsAvTkGFq40JlZsE0O_H0SHme5xI_PJ3HT16BTeKw63rYrXtooPgEI2Ma-"></script>
+<script src="/themes/custom/white_label/components/01-atoms/images/icons/svgxuse.min.js?tn9son" defer></script>
+
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"d6073d9c308e4155bea1956082449279","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

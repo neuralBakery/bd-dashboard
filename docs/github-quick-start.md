@@ -40,3 +40,7 @@ Private notes remain in your browser. Use **Export backup + notes** before repla
 ## If the workflow is missing
 
 The files may not have been uploaded yet, or Actions may be disabled under **Settings → Actions → General**. A linked GitHub account by itself does not upload this workspace or activate a schedule.
+
+## Current behavior after collection repair
+
+The files are now uploaded and the schedule is active. A red research run means coverage is incomplete, not necessarily that every source failed. The downloadable dashboard can display separately labelled findings from completed sources while retaining the previous accepted dataset. Check the coverage warning and last-checked dates before acting. Earlier "not installed" instructions above describe the preparation stage.

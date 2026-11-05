@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-VSW8PR7MNF"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          
+          gtag('config', 'G-VSW8PR7MNF');
+        </script>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+<!-- RDV-Metadata-Standard //-->
+
+<!-- General - RDV //-->
+<meta name="keywords" content="RDV; Regional Development Victoria" />
+<meta name="description" content="Regional Development Victoria" />
+<meta name="DCTERMS.map-description" content="" />
+<meta name="DCTERMS.description" content="Regional Development Victoria" />
+<meta name="DCTERMS.subject" content="RDV; Regional Development Victoria" />
+<meta name="DCTERMS.language" content="en" />
+<meta name="DCTERMS.type" content="text" scheme="DCTERMS.DCMIType" />
+<meta name="DCTERMS.title" content="​​Trunk infrastructure to support regional businesses​  | Regional Development Victoria" />
+<meta name="DCTERMS.creator" content="Regional Development Victoria" />
+<meta name="DCTERMS.date" content="2013-01-01" />
+<meta name="DCTERMS.created" content="2026-10-16" />
+<meta name="DCTERMS.issued" content="2026-10-19" />
+<meta name="DCTERMS.modified" content="2026-10-19" />
+<meta name="DCTERMS.identifier" content="https://www.rdv.vic.gov.au/news/trunk-infrastructure-to-support-regional-businesses" />
+<meta name="DCTERMS.publisher" content="Regional Development Victoria" />
+<meta name="DCTERMS.rights" content="https://www.rdv.vic.gov.au/copyright" />
+<meta name="DCTERMS.rightsHolder" content="Regional Development Victoria" />
+<meta name="DCTERMS.coverage" content="Victoria" />
+
+<!-- RDV-Robots //-->
+<meta name="robots" content="index, follow" />
+
+<!-- Social //-->
+<meta property="og:site_name" content="Regional Development Victoria" /> 
+<meta property="og:title" content="​​Trunk infrastructure to support regional businesses​ "> 
+<meta property="og:type" content="website" /> 
+<meta property="og:url" content="https://www.rdv.vic.gov.au/news/trunk-infrastructure-to-support-regional-businesses" /> 
+<meta property="og:image:alt" content="Regional Development Victoria" />
+<meta property="og:description" content="Regional Development Victoria" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="" />
+<meta property="og:image" content="https://www.rdv.vic.gov.au/_designs/images/rdv-thumb.png" />
+
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        
+        <title>​​Trunk infrastructure to support regional businesses​  - Regional Development Victoria</title>
+                <link rel="shortcut icon" href="https://www.rdv.vic.gov.au/__data/assets/file/0011/1316945/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="https://www.rdv.vic.gov.au/__data/assets/image/0003/1316946/favicon-16x16.png" sizes="16x16" type="image/png">
+        <link rel="icon" href="https://www.rdv.vic.gov.au/__data/assets/image/0004/1316947/favicon-32x32.png" sizes="32x32" type="image/png">
+        <link rel="icon" href="https://www.rdv.vic.gov.au/__data/assets/image/0011/1316972/favicon-96x96.png" sizes="96x96" type="image/png">
+        <link rel="apple-touch-icon-precomposed" href="https://www.rdv.vic.gov.au/__data/assets/image/0010/1316944/apple-icon-precomposed.png">
+        <link rel="apple-touch-icon" sizes="57x57" href="https://www.rdv.vic.gov.au/__data/assets/image/0010/1316935/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="https://www.rdv.vic.gov.au/__data/assets/image/0011/1316936/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="https://www.rdv.vic.gov.au/__data/assets/image/0003/1316937/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://www.rdv.vic.gov.au/__data/assets/image/0004/1316938/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="https://www.rdv.vic.gov.au/__data/assets/image/0005/1316939/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://www.rdv.vic.gov.au/__data/assets/image/0006/1316940/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="https://www.rdv.vic.gov.au/__data/assets/image/0007/1316941/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://www.rdv.vic.gov.au/__data/assets/image/0008/1316942/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.rdv.vic.gov.au/__data/assets/image/0009/1316943/apple-icon-180x180.png">
+        <link rel="apple-touch-icon" sizes="192x192" href="https://www.rdv.vic.gov.au/__data/assets/image/0003/1316982/apple-icon-192x192.png">
+        <link rel="icon" type="image/png" href="https://www.rdv.vic.gov.au/__data/assets/image/0011/1316927/android-icon-36x36.png" sizes="36x36">
+        <link rel="icon" type="image/png" href="https://www.rdv.vic.gov.au/__data/assets/image/0003/1316928/android-icon-48x48.png" sizes="48x48">
+        <link rel="icon" type="image/png" href="https://www.rdv.vic.gov.au/__data/assets/image/0004/1316929/android-icon-72x72.png" sizes="72x72">
+        <link rel="icon" type="image/png" href="https://www.rdv.vic.gov.au/__data/assets/image/0005/1316930/android-icon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="https://www.rdv.vic.gov.au/__data/assets/image/0007/1316932/android-icon-144x144.png" sizes="144x144">
+        <link rel="icon" type="image/png" href="https://www.rdv.vic.gov.au/__data/assets/image/0008/1316933/android-icon-192x192.png" sizes="192x192">
+        <!--[if IE]>
+        <browserconfig>
+          <msapplication>
+            <tile>
+              <square70x70logo src="https://www.rdv.vic.gov.au/__data/assets/image/0003/1316973/ms-icon-70x70.png"/>
+              <square144x144logo src="https://www.rdv.vic.gov.au/__data/assets/image/0004/1316974/ms-icon-144x144.png"/>
+              <square150x150logo src="https://www.rdv.vic.gov.au/__data/assets/image/0005/1316975/ms-icon-150x150.png"/>
+              <wide310x310logo src="https://www.rdv.vic.gov.au/__data/assets/image/0006/1316976/ms-icon-310x310.png"/>
+              <TileColor>#da532c</TileColor>
+            </tile>
+          </msapplication>
+        </browserconfig>
+        <![endif]-->
+        <!-- Bootstrap -->
+        <link href="https://www.rdv.vic.gov.au/_designs/css/bootstrap_min_css_df.css" rel="stylesheet">
+        <link href="https://www.rdv.vic.gov.au/_designs/css/main.css" rel="stylesheet">
+        <link href="https://www.rdv.vic.gov.au/_designs/css/wayne.css" rel="stylesheet">
+        
+        <!-- Slick Slider -->
+        <link href="https://www.rdv.vic.gov.au/__data/assets/css_file/0006/1451949/slickcss.css" rel="stylesheet">
+        <link href="https://www.rdv.vic.gov.au/__data/assets/css_file/0011/1451954/slick-themecss.css" rel="stylesheet">
+        <link href="https://www.rdv.vic.gov.au/__data/assets/css_file/0003/1451955/slick-style-configcsscss.css" rel="stylesheet"> 
+
+        <!-- Squiz Enhancements CSS -->
+        <link href="https://www.rdv.vic.gov.au/_designs/css/squiz.css" rel="stylesheet">
+        
+        <!-- For testing only -->
+        <!-- <link href="https://www.rdv.vic.gov.au/_designs/css/testing-only.css" rel="stylesheet"> -->
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <!-- Hotjar Tracking Code for www.rdv.vic.gov.au -->
+    <script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1547685,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '260480296192004');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=260480296192004&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+        <!-- monsido tracking code for rdv.vic.gov.au 22 July 2020 - updated 22 Aug 2025 -->
+        
+<script type="text/javascript">
+    window._monsido = window._monsido || {
+        token: "dWu72WzRNnV19aM9JkGceQ",
+        statistics: {
+            enabled: true,
+            cookieLessTracking: true,
+            documentTracking: {
+                enabled: false,
+                documentCls: "monsido_download",
+                documentIgnoreCls: "monsido_ignore_download",
+                documentExt: [],
+            },
+        },
+        heatmap: {
+            enabled: true,
+        },
+    };
+</script>
+<script type="text/javascript" async src="https://app-script.monsido.com/v2/monsido-script.js"></script>
+        
+<!-- Google Tag Manager 18 August 2025-->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KF3XCPD5');</script>
+<!-- End Google Tag Manager -->
+
+    
+
+
+</head>
+    <body class="">
+
+    
+    <!--Skip To-->
+<div id="skip-to-content">
+  <a class="skip-link" href="https://www.rdv.vic.gov.au/news/trunk-infrastructure-to-support-regional-businesses#content">
+    Skip to main content
+  </a>
+
+  <a class="skip-link" href="https://www.rdv.vic.gov.au/news/trunk-infrastructure-to-support-regional-businesses#navbar">
+    Skip to navigation
+  </a>
+</div>
+<div id="component_2445480">
+<style>
+a.skip-link {
+    position: absolute;
+    top: auto;
+    left: -10000px; /* Moves element off-screen */
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
+a.skip-link:focus, 
+a.skip-link:active {
+    color: #ffffff;
+    background-color: #201547;
+    
+    /* Positioning to make it visible */
+    left: auto;
+    top: auto;
+    position: absolute;
+    z-index: 9999;
+    
+    /* Appearance and centering */
+    width: 30%;
+    height: auto;
+    overflow: auto;
+    margin: 10px 35%;
+    padding: 5px;
+    border-radius: 15px;
+    border: 4px solid #ffffff;
+    
+    /* Text styling */
+    text-align: center;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+a.skip-link:hover {
+    text-decoration: underline;
+}
+</style>
+</div>
+        
+        
+    <!-- Google Tag Manager (noscript) 18 August 2025-->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KF3XCPD5"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+        <!--noindex-->
+        <div id="panel" class="wrapper" style="min-height: auto;">
+            <header>
+                <div class="container ">
+                    <div class="row">
+                        <!-- Hamburger Menu  -->
+                        <div class="col-xs-3 col-sm-2 hamburger-menu">
+                            <button type="button" class="btn-menu">
+                                <span class="visuallyhidden">menu</span>
+                                <span class="glyphicon glyphicon-menu-hamburger"></span>
+                            </button>
+                        </div>
+                        <!-- Logo image -->
+
+                        <div class="col-xs-6  col-sm-8 col-md-8 logo-img">
+                            <a href="https://www.rdv.vic.gov.au"><img class="img-responsive" src="https://www.rdv.vic.gov.au/__data/assets/image/0004/1325047/rdv-logov2.png?v=0.2.2" alt="Regional Development Victoria"></a>
+                           <!--<img class="img-responsive mobile-hidden" src="https://www.rdv.vic.gov.au/__data/assets/image/0010/1869013/DRRV_white_rgb.png?v=0.1.4" alt="Delivering for Rural and Regional Victoria logo">-->
+                        </div>
+                        
+                        <!-- Desktop Search -->
+                        <div class="col-xs-3 col-sm-2 col-md-4 rdv-search">
+                            <form action="https://www.rdv.vic.gov.au/search" method="get" class="form-inline pull-right" role="search">
+                                <label class="visuallyhidden" for="q">Site search</label>
+                                <!--<input type="hidden" value="004286227392849826370:d85gbahwofa" name="cx">-->
+                                <!--<input type="hidden" value="FORID:10" name="cof">-->
+                                <input type="hidden" value="djsir~sp-rdv" name="collection">
+                                <input type="hidden" value="_default" name="profile">
+                                <!--<input type="hidden" value="UTF-8" name="ie">-->
+                                <div class="input-group hide-xs">
+                                    <input type="text" name="query" id="q" class="form-control head-search" placeholder="Search">
+                                    <span class="input-group-btn">
+                                      <button type="submit" class="btn btn-default btn-search">
+                                        <span class="visuallyhidden">Search</span>
+                                        <span class="glyphicon glyphicon-search"></span>
+                                    </button>
+                                    </span>
+                                </div>
+                            </form>
+                            <!-- Mobile Search -->
+                            <button type="button" class="btn-mobile-search hide-md">
+                                <span class="visuallyhidden">Submit</span>
+                                <span class="glyphicon glyphicon-search hide-md"></span>
+                                <span class="glyphicon glyphicon-remove hide-md"></span>
+                            </button>
+                        </div>
+                        <div class="mobile-search">
+                            <form action="https://www.rdv.vic.gov.au/search?collection=djsir~sp-rdv&profile=_default" method="get" class="form-inline pull-right" role="search">
+                                <label class="visuallyhidden" for="site-query">Site search</label>
+                                <!--<input type="hidden" value="004286227392849826370:d85gbahwofa" name="cx">-->
+                                <!--<input type="hidden" value="FORID:10" name="cof">-->
+                                <input type="hidden" value="djsir~sp-rdv" name="collection">
+                                <input type="hidden" value="_default" name="profile">
+                                <!-- <input type="hidden" value="UTF-8" name="ie"> -->
+                                <div class="input-group col-xs-12">
+                                    <input type="text" name="query" id="site-query" class="form-control head-search" placeholder="Search">
+                                    <span class="input-group-btn">
+                                        <button type="submit" class="btn btn-default btn-search">
+                                        <span class="visuallyhidden">Submit</span>
+                                        <span class="glyphicon glyphicon-search"></span>
+                                    </button>
+                                    </span>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <!-- Navigation Bar test -->
+            <nav id="navbar" class="navbar navbar-default">
+                <div class="container">
+                    <div class="navbar-collapse col-xs-12" id="rdv-navbar">
+                        														                            <ul class="nav navbar-nav">
+                                <li class="navbar-item">
+                                    <button type="button" class="btn-menu-close">
+                                        <span class="visuallyhidden">close button</span>
+                                        <span class="glyphicon glyphicon-remove"></span>
+                                    </button>
+                                </li>
+                                                            <li class="navbar-item clearfix">
+                                    <a href="https://www.rdv.vic.gov.au/grants">Grants and programs</a>
+                                    														  
+                                        <ul class="navbar-sub">
+                                            <li>
+                                                <a class="js-go-back" href="#">
+                                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                                    Grants and programs                                                </a>
+                                            </li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/grants/grants-and-programs-search">Grant search</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/grants/success-stories">Success stories</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/grants/funded-projects">Funded Projects</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/grants/our-town-fund">Our Town Fund</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/grants/trunk-infrastructure-fund">Trunk Infrastructure Fund</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/grants/victorian-investment-fund">Victorian Investment Fund</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/grants/tiny-towns-fund">Tiny Towns Fund</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/grants/portland-diversification-fund">Portland Diversification Fund</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/grants/regional-worker-accommodation-fund">Regional Worker Accommodation Fund</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/grants/council-support-package">Council Support Package</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/grants/regional-jobs-fund">Regional Jobs Fund</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/grants/regional-infrastructure-fund">Regional Infrastructure Fund</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/grants/living-local-regional-fund">Living Local Regional Fund</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/grants/investment-fast-track-fund">Investment Fast-Track Fund</a></li>
+                                                                                    </ul>
+                                    				                                </li>
+                                                            <li class="navbar-item clearfix">
+                                    <a href="https://www.rdv.vic.gov.au/priorities">Priorities</a>
+                                    														  
+                                        <ul class="navbar-sub">
+                                            <li>
+                                                <a class="js-go-back" href="#">
+                                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                                    Priorities                                                </a>
+                                            </li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/priorities/investment">Investing in regional Victoria</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/priorities/regional-economic-transition">Regional Economic Transition</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/priorities/reds">Regional Economic Development Strategies (REDS)</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/priorities/geelong-city-deal">Geelong City Deal</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/priorities/twelve-apostles-precinct-redevelopment">Twelve Apostles Precinct Redevelopment</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/priorities/regional-car-parks-fund">Regional Car Parks Fund</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/priorities/bendigo-art-gallery">Bendigo Art Gallery</a></li>
+                                                                                    </ul>
+                                    				                                </li>
+                                                            <li class="navbar-item clearfix">
+                                    <a href="https://www.rdv.vic.gov.au/victorias-regions">Victoria&#039;s regions</a>
+                                    														  
+                                        <ul class="navbar-sub">
+                                            <li>
+                                                <a class="js-go-back" href="#">
+                                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                                    Victoria&#039;s regions                                                </a>
+                                            </li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/victorias-regions/barwon-south-west">Barwon South West</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/victorias-regions/gippsland">Gippsland</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/victorias-regions/grampians">Grampians</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/victorias-regions/hume">Hume</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/victorias-regions/loddon-mallee">Loddon Mallee</a></li>
+                                                                                    </ul>
+                                    				                                </li>
+                                                            <li class="navbar-item clearfix">
+                                    <a href="https://www.rdv.vic.gov.au/regional-partnerships">Regional Partnerships</a>
+                                    														  
+                                        <ul class="navbar-sub">
+                                            <li>
+                                                <a class="js-go-back" href="#">
+                                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                                    Regional Partnerships                                                </a>
+                                            </li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-partnerships/partnerships">About Regional Partnerships</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-partnerships/barwon">Barwon</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-partnerships/central-highlands">Central Highlands</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-partnerships/gippsland">Gippsland</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-partnerships/goulburn">Goulburn</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-partnerships/great-south-coast">Great South Coast</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-partnerships/loddon-campaspe">Loddon Campaspe</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-partnerships/mallee">Mallee</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-partnerships/ovens-murray">Ovens Murray</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-partnerships/wimmera-southern-mallee">Wimmera Southern Mallee</a></li>
+                                                                                    </ul>
+                                    				                                </li>
+                                                            <li class="navbar-item clearfix">
+                                    <a href="https://www.rdv.vic.gov.au/regional-development-australia">RDA</a>
+                                    														  
+                                        <ul class="navbar-sub">
+                                            <li>
+                                                <a class="js-go-back" href="#">
+                                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                                    Regional Development Australia                                                </a>
+                                            </li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-development-australia/about">About RDA in Victoria </a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-development-australia/barwon-south-west">RDA Barwon South West</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-development-australia/gippsland">RDA Gippsland</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-development-australia/grampians">RDA Grampians </a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-development-australia/hume">RDA Hume</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-development-australia/loddon-mallee">RDA Loddon Mallee</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-development-australia/melbourne">RDA Melbourne</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/regional-development-australia/contact-your-local-rda">Contact your local RDA</a></li>
+                                                                                    </ul>
+                                    				                                </li>
+                                                            <li class="navbar-item clearfix">
+                                    <a href="https://www.rdv.vic.gov.au/news">News</a>
+                                    																		                                </li>
+                                                            <li class="navbar-item clearfix">
+                                    <a href="https://www.rdv.vic.gov.au/about-us">About us</a>
+                                    														  
+                                        <ul class="navbar-sub">
+                                            <li>
+                                                <a class="js-go-back" href="#">
+                                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                                    About us                                                </a>
+                                            </li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/about-us/what-we-do">What we do</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/about-us/cross-border-commissioner">Cross Border Commissioner</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/about-us/regional-development-advisory-committee">Regional Development Advisory Committee</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/about-us/annual-report">Annual reports</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/about-us/branding">Branding and signage guidelines</a></li>
+                                                                                        <li><a href="https://www.rdv.vic.gov.au/about-us/contacts-and-assistance">Contacts and Assistance</a></li>
+                                                                                    </ul>
+                                    				                                </li>
+                                                        </ul>
+                        				 
+                    </div>
+                </div>
+            </nav>
+        </div>
+                        <!-- breadcrumb wl00 21 oct 2016 -->
+                      <ol class="breadcrumb hidden-sm hidden-xs container">
+                          <li>
+                              <a href="https://www.rdv.vic.gov.au">
+                                  Home
+                              </a>
+                          </li>
+                          
+                              
+                              
+                              
+                              
+                              
+                                                                <li>
+                                      <a href="https://www.rdv.vic.gov.au/news">
+                                          News                                      </a>
+                                  </li>
+                                                        
+                          
+                          <li class="active">​​Trunk infrastructure to support regional businesses​ </li>
+                      </ol>
+            <!-- end breadcrumb -->
+            
+             
+            <main class='container '>
+            <!--endnoindex-->
+                 <div id="new_div_1446951_1446951">
+<div class="row contents-page-content news-listing-item col-xs-12 col-md-12">
+<h1>​​Trunk infrastructure to support regional businesses​ </h1>
+19/10/2026
+<br /><br />
+<p>10 new projects are set to deliver the essential infrastructure regional businesses and industries need to grow and create jobs thanks to the <a href="https://www.rdv.vic.gov.au/grants/trunk-infrastructure-fund">Trunk Infrastructure Fund,</a> with an additional $12.5 million to support even more projects.</p><p>From Parwan to Portarlington, the Trunk Infrastructure Fund is backing these initiatives that will attract investment and generate economic activity in our regions.</p><p>At the Parwan Industrial Precinct near Bacchus Marsh it&rsquo;s a stronger water supply.</p><p>By upgrading an existing pipeline, the project will improve servicing for up to 190 hectares of land and support industries including food processing, manufacturing, logistics and agribusiness.</p><p>In Halls Gap, a sewer pipeline will be extended to provide the capacity needed for existing businesses to grow and new visitor experiences to be developed.</p><p>Three growing business precincts in the northeast will gain the essential services needed to attract new investment. Water, power and gas connections will support development at GV Link Enterprise Park in Mooroopna, the Mansfield Enterprise Park, and the Alpine Commercial Estate in Wangaratta.</p><p>The Trunk Infrastructure Fund will also support better connections at two Gippsland sites. The Icon Industrial Precinct in Morwell will gain improved road and transport access, while a new sewer connection at Campbells Acres in Bairnsdale will make more industrial land ready for development.</p><p>In Bendigo, essential services and site improvements will help the Howard Street Industrial Precinct accommodate business growth. New roads and service connections will also prepare more land for industry at the Gibbins Drive Industrial Estate in Cohuna.</p><p>New recycled water infrastructure will be installed by Barwon Water to improve food production, viticulture and tourism related businesses around Portarlington and the Northern Bellarine.</p><p>Works completed at Avalon Airport show how the fund is helping regional sites get ready for new opportunities. A water main for the control tower and upgraded roads supported the airport&rsquo;s preparations for international flights to return.</p><p>The Trunk Infrastructure Fund has grown from $15 million to $27.5 million, creating more opportunities to develop and expand local industries through grants between $500,000 and $2 million.</p><p>The Trunk Infrastructure Fund is part of the Victorian Government&rsquo;s Economic Growth Statement. It supports infrastructure that establishes or expands industrial sites and drives jobs and economic growth across regional Victoria.</p>  
+<br /><br />
+</div>
+</div>
+
+                
+            <!--noindex-->
+              
+          										
+        <!-- end left nav -->
+
+<!-- wl00 28 nov 2016 social share links -->
+            <!-- 
+<div class="row">
+  <div id='social-share' class="col-xs-12 col-md-12">
+    <ul>
+      <li id='share-text'>Share this page: </li>
+      <li>
+        <a href="http://twitter.com/share"><img src="https://www.rdv.vic.gov.au/__data/assets/image/0006/1408209/twitter_share.png" alt="twitter share button"></a>
+      </li>
+      <li>
+        <a href="http://facebook.com/sharer/sharer.php?u=https://www.rdv.vic.gov.au/news/trunk-infrastructure-to-support-regional-businesses" title="Facebook share"><img src="https://www.rdv.vic.gov.au/__data/assets/image/0017/1408211/facebook_share.png" alt="facebook share button" /></a>
+      </li>
+    </ul>
+  </div>
+</div>
+-->             
+            </main>
+            <!--endnoindex-->
+<!-- wl00 23 nov 2016 -->
+            
+<!--noindex-->
+            <footer>
+                <div class="acknowledgements">
+  <div class="container"> 
+    
+    <div class="row country">
+          <img class="flag" src="/?a=2175683" alt="Aboriginal flag" height="50" /> <img class="flag" src="/?a=2175684" alt="Torres Strait Islander flag" height="50px" /> <img class="flag" src="/?a=2175685" alt="Pride flag inclusion" height="50px" />
+    </div>
+    
+    
+    <div class="row pride">
+        <p>We acknowledge the Traditional Aboriginal Owners of Country throughout Victoria and pay our respects to them, their connections to land, sea, and community. We pay our respects to their Elders past and present and future Traditional Owners.</p>
+        <p>We respect and welcome people of all backgrounds, genders, sexualities, abilities and cultures.</p>
+    </div>
+  </div>
+</div>
+<style>
+    .acknowledgements .country {
+      margin-bottom: 0;
+    }
+</style>
+
+                <div class="footer-content">
+    <div class="container">
+        
+        <div class="row">
+            <div class="col-lg-9 col-md-6">
+               <div class="row">
+                   <div class="col-lg-4 footer-links">
+                     <ul>
+                        <li><a href="https://www.rdv.vic.gov.au/about-us/what-we-do">About us</a></li>
+                        <li><a href="https://www.rdv.vic.gov.au/about-us/contacts-and-assistance">Contact us</a></li>
+                        <li><a href="https://www.rdv.vic.gov.au/news">News</a></li>
+                    </ul>
+                   </div>
+                   <div class="col-lg-8 footer-links">
+                     <ul>
+                        <li><a href="https://www.rdv.vic.gov.au/victorias-regions">Victoria’s regions</a></li>
+                        <li><a href="https://www.rdv.vic.gov.au/grants">Grants and programs</a></li>
+                        <li><a href="https://www.rdv.vic.gov.au/regional-partnerships">Regional Partnerships</a></li>
+                    </ul>
+                   </div>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6 social-links">
+                <p>Connect with us</p>
+                <a href="https://www.facebook.com/RegionalDevelopmentVictoria"><img src="https://www.rdv.vic.gov.au/__data/assets/file/0005/2175710/facebook.svg" alt="Facebook" width="32px" height="32px" /></a>  <a href="https://www.youtube.com/@VicGovDJSIR_YT"><img src="https://www.rdv.vic.gov.au/__data/assets/file/0007/2175712/youtube.svg" alt="Youtube" width="32px" height="32px" /></a> <a href="https://www.linkedin.com/company/department-of-jobs-skills-industry-and-regions"><img src="https://www.rdv.vic.gov.au/__data/assets/file/0006/2175711/linkedin.svg" alt="LinkedIn" width="32px" height="32px" /></a>
+                
+            </div>
+        </div>
+        
+        
+        <div class="row">
+            <div class="col-lg-9">
+                <p>Last Updated: 19 October 2026</p>
+                <p>&copy; 2026 Copyright Department of Jobs, Skills, Industry and Regions</p>
+                <div class="legal-links">
+                    <ul>
+                        <li><a href="https://www.rdv.vic.gov.au/privacy">Privacy</a></li>
+                        <li><a href="https://www.rdv.vic.gov.au/disclaimer">Disclaimer</a></li>
+                        <li><a href="https://www.rdv.vic.gov.au/copyright">Copyright</a></li>
+                        <li><a href="https://www.rdv.vic.gov.au/freedom-of-information">Freedom of information</a></li>
+                        <li><a href="https://www.rdv.vic.gov.au/accessibility">Accessibility</a></li>
+                        <li><a href="https://www.rdv.vic.gov.au/sitemap">Site map</a></li>
+                    </ul>
+                </div>                
+            </div>
+            <div class="col-lg-3">
+                <a href="https://djsir.vic.gov.au/"><img class="img-responsive" alt="Department of Jobs, Skills, Industry and Regions" src="https://www.rdv.vic.gov.au/__data/assets/file/0004/2134075/logo-djsir-white.svg" width="212" height="64"></a>
+            </div>
+        </div>
+        
+    </div>
+</div>
+                
+            </footer>
+        <!--  jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://www.rdv.vic.gov.au/__data/assets/js_file/0006/1325058/jquery-1.12.3.min.js"></script>
+<!--  Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://www.rdv.vic.gov.au/__data/assets/js_file/0005/1325057/bootstrap.min.js"></script> <!-- bootstrap-min -->
+<script src="https://www.rdv.vic.gov.au/__data/assets/js_file/0011/1374734/plugins.js"></script> <!-- plugins -->
+<script src="https://www.rdv.vic.gov.au/__data/assets/js_file/0006/1772457/accordion.js"></script> <!-- accordion -->
+<!-- Jira RDV-26 data-victrgions used for a fix -->
+<script data-vicregions='https://www.rdv.vic.gov.au/victorias-regions' src="https://www.rdv.vic.gov.au/__data/assets/js_file/0003/1374348/scripts.js"></script> <!-- main -->
+<script src="https://www.rdv.vic.gov.au/__data/assets/js_file/0009/1875915/analytics-include-rdv.js" type="text/javascript"></script> <!-- GA -->
+<script src="https://www.rdv.vic.gov.au/__data/assets/js_file/0009/1691433/slickminjs.js"></script> <!-- slick slider slick-min.js -->
+<script src="https://www.rdv.vic.gov.au/__data/assets/js_file/0010/1691434/slick-configjsjs.js"></script> <!-- slick slider slick-configjs.js -->
+<script src="https://www.rdv.vic.gov.au/__data/assets/js_file/0011/1653662/squiz.js"></script> <!-- Squiz Enhancements JS -->
+<script src="https://www.rdv.vic.gov.au/__data/assets/js_file/0003/2060760/images.js"></script> <!-- Image figures -->
+<script src="https://www.rdv.vic.gov.au/__data/assets/js_file/0005/2400962/jquery.dataTables.min.js"></script> <!-- jquery.dataTables.min.js -->
+
+<script>
+
+    /*$("div.pnl-featured .col-md-6, .no-padding-left, .pnl-contfeatured, .contfeatured").click(function(){
+      window.location=$(this).find("a").attr("href"); return false;
+    });
+*/
+    $(document).ready(function () {
+        $('#myTable:not([data-table="funded-projects"])').DataTable({
+            "paging": true,
+            "columnDefs": [{
+                "orderable": false,
+                "targets": [0, 2, 4]
+            }]
+        });
+        $('[data-table="funded-projects"]').DataTable({
+            "paging": true,
+            "columnDefs": [{
+                "orderable": false,
+                "targets": [0, 2, 4]
+            }],
+            order: [[3, 'desc'], [0, 'asc']]
+        });
+        $('#mySubTable').DataTable({
+            "paging": true,
+            "columnDefs": [{
+                "orderable": false,
+                "targets": [1, 3]
+            }]
+        });
+    });
+</script>
+
+<!-- Alert Banner JS -->
+<script src="https://web5.economicdevelopment.vic.gov.au/alert-banner.js" defer="true"></script>
+        
+        <!--<script type="text/javascript" src="https://apps.squiz.systems/cdn/shared/bootstrap.js" async></script>-->    
+
+</body>
+</html>

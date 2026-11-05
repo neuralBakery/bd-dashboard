@@ -78,6 +78,10 @@ class IntelligenceTests(unittest.TestCase):
         bentrol=next(r for r in rows if r['company']=='Bentrol')
         self.assertNotIn('140',bentrol['summary'])
         self.assertNotIn('Hazeldenes',bentrol['summary'])
+    def test_official_issued_date_and_article_list_evidence(self):
+        p=Page();p.feed('<meta name="DCTERMS.issued" content="2026-11-02"><main><h1>Investment</h1><ul><li>Grape Co Australia is investing in production jobs at Merbein South.</li></ul></main><p>Unrelated footer investment</p>');p.finish()
+        self.assertEqual(p.date,'2026-11-02')
+        self.assertEqual(p.paragraphs,['Grape Co Australia is investing in production jobs at Merbein South.'])
     def test_parser_dates_scripts_restrictions(self):
         p=Page();p.feed('<title>Title</title><h1>Actual title</h1><script>invented content</script><p>A genuine company source paragraph.</p><meta property="article:published_time" content="2026-11-03T07:00:00+11:00">');p.finish()
         self.assertEqual(p.title,'Actual title');self.assertEqual(p.date,'2026-11-03')
@@ -122,6 +126,44 @@ class IntelligenceTests(unittest.TestCase):
         failed=json.loads((self.root/'data/state.json').read_text())
         self.assertEqual(failed['records'],good['records'])
         self.assertEqual(failed['lastSuccessfulRun'],good['lastSuccessfulRun'])
+    def test_partial_completed_source_visible_without_replacing_accepted_records(self):
+        article=self.article
+        original=initialise(self.root)['records']
+        class Mixed:
+            def __init__(self,*args):self.audit=[]
+            def source(self,source,*args):
+                if source['name']!='Regional Development Victoria':raise ValueError('Unavailable')
+                return [article],[],{'checkedPages':1}
+        with patch('builtins.print'):
+            self.assertEqual(refresh(self.root,Mixed),2)
+        state=json.loads((self.root/'data/state.json').read_text())
+        self.assertEqual(state['records'],original)
+        self.assertIsNone(state['lastSuccessfulRun'])
+        self.assertEqual(len(state['partialRecords']),1)
+        self.assertEqual(state['runs'][-1]['partialAdded'],1)
+        self.assertIn('Partial coverage',state['partialRecords'][0]['coverageStatus'])
+        self.assertIn('Bentrol expands Bendigo factory',(self.root/'dashboard.html').read_text())
+    def test_whitespace_rss_discovers_articles(self):
+        c=Collector(self.root,self.config)
+        xml='  \n<?xml version="1.0"?><rss><channel><item><link>https://www.rdv.vic.gov.au/news/test</link></item></channel></rss>'
+        with patch.object(c,'fetch',return_value=(xml,'sha','snapshot')),patch.object(c,'article',return_value=self.article):
+            articles,errors,coverage=c.source(self.source)
+        self.assertEqual(coverage['discoveredLinks'],1)
+        self.assertEqual(len(articles),1)
+        self.assertEqual(errors,[])
+    def test_script_captcha_reference_is_not_an_access_challenge(self):
+        c=Collector(self.root,self.config)
+        raw=b'<html><title>Company jobs</title><script src="recaptcha.js"></script><h1>Jobs</h1><p>We are recruiting industrial electricians in Echuca.</p></html>'
+        with patch.object(c,'_request',side_effect=[(b'User-agent: *\nAllow: /','utf-8'),(raw,'utf-8')]):
+            self.assertIn('Company jobs',c.fetch('https://example.com/jobs')[0])
+    def test_visible_challenge_is_still_blocked(self):
+        c=Collector(self.root,self.config)
+        raw=b'<title>Just a moment...</title><p>Verify you are human</p>'
+        with patch.object(c,'_request',side_effect=[(b'User-agent: *\nAllow: /','utf-8'),(raw,'utf-8')]):
+            with self.assertRaisesRegex(ValueError,'Access protection'):c.fetch('https://example.com/jobs')
+    def test_navigation_paragraphs_before_heading_are_excluded(self):
+        p=Page();p.feed('<p>Navigation includes tenders and construction services.</p><h1>Company investment</h1><p>Real body investment details here.</p>');p.finish()
+        self.assertEqual(p.paragraphs,['Real body investment details here.'])
     def test_script_injection_cannot_escape_payload(self):
         s=initialise(self.root);s['records'][0]['summary']='</script><script>alert(1)</script>'
         render(s,self.root)

@@ -1,0 +1,356 @@
+{
+  "startedAt": "2026-11-05T03:31:12.773691+00:00",
+  "finishedAt": "2026-11-05T03:34:10.343281+00:00",
+  "sources": [
+    {
+      "name": "Regional Development Victoria",
+      "url": "https://www.rdv.vic.gov.au/news",
+      "status": "success",
+      "coverage": {
+        "discoveredLinks": 10,
+        "checkedPages": 10,
+        "windowLimit": 12,
+        "boundedCoverage": false
+      }
+    },
+    {
+      "name": "City of Greater Bendigo",
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media",
+      "status": "success",
+      "coverage": {
+        "discoveredLinks": 14,
+        "checkedPages": 14,
+        "windowLimit": 12,
+        "boundedCoverage": true
+      }
+    },
+    {
+      "name": "Greater Shepparton Council",
+      "url": "https://greatershepparton.vic.gov.au/whats-happening/news",
+      "status": "failed",
+      "error": "Robots access failed (503); collection stopped"
+    },
+    {
+      "name": "Mildura Rural City Council",
+      "url": "https://www.mildura.vic.gov.au/Contact-us/News-and-media/Media-Releases",
+      "status": "failed",
+      "error": "Discovery returned no article links; not evidence of no developments"
+    },
+    {
+      "name": "The Shepparton Adviser",
+      "url": "https://www.sheppadviser.com.au/feed/",
+      "status": "success",
+      "coverage": {
+        "discoveredLinks": 1,
+        "checkedPages": 3,
+        "windowLimit": 12,
+        "boundedCoverage": false
+      }
+    },
+    {
+      "name": "Bendigo Times",
+      "url": "https://timesnewsgroup.com.au/bendigotimes/feed/",
+      "status": "success",
+      "coverage": {
+        "discoveredLinks": 10,
+        "checkedPages": 11,
+        "windowLimit": 12,
+        "boundedCoverage": false
+      }
+    },
+    {
+      "name": "Foodmach Careers",
+      "url": "https://foodmach.com.au/jobs/",
+      "status": "success",
+      "coverage": {
+        "discoveredLinks": 0,
+        "checkedPages": 2,
+        "windowLimit": 12,
+        "boundedCoverage": false
+      }
+    }
+  ],
+  "added": 0,
+  "updated": 0,
+  "status": "incomplete",
+  "partialAdded": 21,
+  "partialUpdated": 0,
+  "audit": [
+    {
+      "url": "https://www.rdv.vic.gov.au/news",
+      "retrievedAt": "2026-11-05T03:31:15.196076+00:00",
+      "sha256": "88b9bf160dd04bbe820e6a5dae8449c12d99f26ccfa0313d195823b55419b928",
+      "snapshot": "data/evidence/88b9bf160dd04bbe820e6a5dae8449c12d99f26ccfa0313d195823b55419b928.txt"
+    },
+    {
+      "url": "https://www.rdv.vic.gov.au/news/investing-in-fast-growing-businesses-to-keep-succeeding",
+      "retrievedAt": "2026-11-05T03:31:16.957433+00:00",
+      "sha256": "de1e5dc9e67374002b63a4350f0a990114be377f3e7cff21c81cd6d3f742f2ea",
+      "snapshot": "data/evidence/de1e5dc9e67374002b63a4350f0a990114be377f3e7cff21c81cd6d3f742f2ea.txt"
+    },
+    {
+      "url": "https://www.rdv.vic.gov.au/news/regional-worker-housing-opens-its-doors",
+      "retrievedAt": "2026-11-05T03:31:18.908255+00:00",
+      "sha256": "324aeae4a4d18d816d23673a5cfa1f287fc9a7362b07ae432d13105a6e106563",
+      "snapshot": "data/evidence/324aeae4a4d18d816d23673a5cfa1f287fc9a7362b07ae432d13105a6e106563.txt"
+    },
+    {
+      "url": "https://www.rdv.vic.gov.au/news/unlocking-land-for-business-investment-near-seymour",
+      "retrievedAt": "2026-11-05T03:31:20.930132+00:00",
+      "sha256": "f4c06fe4c6a5acd5ee166cdfc12c1a70f396ad450bcd5263f293a2c3f5eec630",
+      "snapshot": "data/evidence/f4c06fe4c6a5acd5ee166cdfc12c1a70f396ad450bcd5263f293a2c3f5eec630.txt"
+    },
+    {
+      "url": "https://www.rdv.vic.gov.au/news/more-accommodation,-more-workers-for-wonthaggi",
+      "retrievedAt": "2026-11-05T03:31:22.979094+00:00",
+      "sha256": "5554c7b5fdd7804f2d2c145b4e0fe2bc6cf7bfbfd6449943126b993b135d424b",
+      "snapshot": "data/evidence/5554c7b5fdd7804f2d2c145b4e0fe2bc6cf7bfbfd6449943126b993b135d424b.txt"
+    },
+    {
+      "url": "https://www.rdv.vic.gov.au/news/housing-for-healthcare-workers-in-colac",
+      "retrievedAt": "2026-11-05T03:31:24.995566+00:00",
+      "sha256": "921b95d8397d3212f8d0d02bb834000c8984e6a0e169417df9a49f49e5479198",
+      "snapshot": "data/evidence/921b95d8397d3212f8d0d02bb834000c8984e6a0e169417df9a49f49e5479198.txt"
+    },
+    {
+      "url": "https://www.rdv.vic.gov.au/news/helping-workers-make-a-home-in-the-high-country",
+      "retrievedAt": "2026-11-05T03:31:27.096114+00:00",
+      "sha256": "f9c2056fb613ee008baeab5ba42cbe99cbcb9d3fd6ddd0019404d056112d73fe",
+      "snapshot": "data/evidence/f9c2056fb613ee008baeab5ba42cbe99cbcb9d3fd6ddd0019404d056112d73fe.txt"
+    },
+    {
+      "url": "https://www.rdv.vic.gov.au/news/bringing-to-life-the-best-of-ballan",
+      "retrievedAt": "2026-11-05T03:31:28.961515+00:00",
+      "sha256": "5a1e24a6d74367256ca5d64119aed23d2306f4501ad0c8295453f81523bf5ce7",
+      "snapshot": "data/evidence/5a1e24a6d74367256ca5d64119aed23d2306f4501ad0c8295453f81523bf5ce7.txt"
+    },
+    {
+      "url": "https://www.rdv.vic.gov.au/news/aussie-staple-arrives-at-gippsland-manufacturing-precinct",
+      "retrievedAt": "2026-11-05T03:31:30.938323+00:00",
+      "sha256": "680f93aa4fe949b7ca0da10c353860f4b1e28af97bd2a4da33c76af004986ce5",
+      "snapshot": "data/evidence/680f93aa4fe949b7ca0da10c353860f4b1e28af97bd2a4da33c76af004986ce5.txt"
+    },
+    {
+      "url": "https://www.rdv.vic.gov.au/news/trunk-infrastructure-to-support-regional-businesses",
+      "retrievedAt": "2026-11-05T03:31:33.696687+00:00",
+      "sha256": "f07367ae97ed3d56323dd998d9a21623aa4bfde64b0550e0a82ff3b4e28affd0",
+      "snapshot": "data/evidence/f07367ae97ed3d56323dd998d9a21623aa4bfde64b0550e0a82ff3b4e28affd0.txt"
+    },
+    {
+      "url": "https://www.rdv.vic.gov.au/news/more-cookies,-more-jobs-in-donald",
+      "retrievedAt": "2026-11-05T03:31:35.464462+00:00",
+      "sha256": "d2d88b7af0e7453ddf4f9084be2b4bcdc980eb83d1bae30d90775c605fa6ed47",
+      "snapshot": "data/evidence/d2d88b7af0e7453ddf4f9084be2b4bcdc980eb83d1bae30d90775c605fa6ed47.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media",
+      "retrievedAt": "2026-11-05T03:31:38.264595+00:00",
+      "sha256": "ad34e118eca92cfdc49d41c91d9390539561f3a00bd0e8da8ee5bfda2d2f3ce0",
+      "snapshot": "data/evidence/ad34e118eca92cfdc49d41c91d9390539561f3a00bd0e8da8ee5bfda2d2f3ce0.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/brep-site-reaches-important-rezoning-milestone",
+      "retrievedAt": "2026-11-05T03:31:40.257994+00:00",
+      "sha256": "34b9c173a26e614d19b684dd83e3809bbfaafdb8ec01352c61d6bcf79aebf3d9",
+      "snapshot": "data/evidence/34b9c173a26e614d19b684dd83e3809bbfaafdb8ec01352c61d6bcf79aebf3d9.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/building-and-business/doing-business-us/contracts-awarded",
+      "retrievedAt": "2026-11-05T03:31:42.845880+00:00",
+      "sha256": "3123c075b96ad9d02bcb4c6778c0c8b3218eae9672e9d48d0aace35aea79e185",
+      "snapshot": "data/evidence/3123c075b96ad9d02bcb4c6778c0c8b3218eae9672e9d48d0aace35aea79e185.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/gb-news-and-magazine",
+      "retrievedAt": "2026-11-05T03:31:44.240667+00:00",
+      "sha256": "c310d8236e6464f0065c677f1ea3971ebd0e4aabac7008a89d6e5929b30b449a",
+      "snapshot": "data/evidence/c310d8236e6464f0065c677f1ea3971ebd0e4aabac7008a89d6e5929b30b449a.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/follow-us-social-media",
+      "retrievedAt": "2026-11-05T03:31:46.570812+00:00",
+      "sha256": "68487cec5202db31cce1ed7a5e25c3e5ce6ae4c5e9fe4a622b11e96dd81bcdcb",
+      "snapshot": "data/evidence/68487cec5202db31cce1ed7a5e25c3e5ce6ae4c5e9fe4a622b11e96dd81bcdcb.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/media-enquiries",
+      "retrievedAt": "2026-11-05T03:31:48.614741+00:00",
+      "sha256": "f6fb07aca1f236b7dae69a150e6331cfb22d27a113c47d4592515c599e71631a",
+      "snapshot": "data/evidence/f6fb07aca1f236b7dae69a150e6331cfb22d27a113c47d4592515c599e71631a.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/newsletters",
+      "retrievedAt": "2026-11-05T03:31:50.222929+00:00",
+      "sha256": "6edd832758023a2d591d050692a458c53350bb8aea6de7e05eba93f5112715dc",
+      "snapshot": "data/evidence/6edd832758023a2d591d050692a458c53350bb8aea6de7e05eba93f5112715dc.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/community-invited-help-shape-eaglehawk-districts-future",
+      "retrievedAt": "2026-11-05T03:31:52.233903+00:00",
+      "sha256": "8419bbc6337a6e2b253abab3f748f7dc66606a40cb32ca3b60ec85a81a0bdfa4",
+      "snapshot": "data/evidence/8419bbc6337a6e2b253abab3f748f7dc66606a40cb32ca3b60ec85a81a0bdfa4.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/view-street-set-buzz-artist-market-and-live-music-returns-november-21",
+      "retrievedAt": "2026-11-05T03:31:54.217041+00:00",
+      "sha256": "bd0b64d744cfd206ddab26fa910d57dc5b231272d72ee9503cea461b158043a4",
+      "snapshot": "data/evidence/bd0b64d744cfd206ddab26fa910d57dc5b231272d72ee9503cea461b158043a4.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/hargreaves-street-mall-turns-volume-aus-music-month",
+      "retrievedAt": "2026-11-05T03:31:56.248811+00:00",
+      "sha256": "c5e0bb5e667db6ed1d87870c178c5c453e00040b66b6f2896fde8a910dac0b9b",
+      "snapshot": "data/evidence/c5e0bb5e667db6ed1d87870c178c5c453e00040b66b6f2896fde8a910dac0b9b.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/citys-grass-slashing-program-well-underway",
+      "retrievedAt": "2026-11-05T03:31:58.172024+00:00",
+      "sha256": "e68a62985a53bfb1c8363d66d614c42523a92659eca12f7ed7b6e4fb5e8f03ba",
+      "snapshot": "data/evidence/e68a62985a53bfb1c8363d66d614c42523a92659eca12f7ed7b6e4fb5e8f03ba.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/new-pavilion-north-bendigo-rec-reserve-officially-opened",
+      "retrievedAt": "2026-11-05T03:32:00.170329+00:00",
+      "sha256": "3bdf0e6071669c7ed5be2e60b9ca5e979b66b7d6635e4545facb1c5db0e38450",
+      "snapshot": "data/evidence/3bdf0e6071669c7ed5be2e60b9ca5e979b66b7d6635e4545facb1c5db0e38450.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/city-continue-investigate-safety-improvements-howard-street",
+      "retrievedAt": "2026-11-05T03:32:02.162041+00:00",
+      "sha256": "4cf30a6f518cd6f752e9bf0d2aef563cdb3a620ac9efd704127c476eb4474bd7",
+      "snapshot": "data/evidence/4cf30a6f518cd6f752e9bf0d2aef563cdb3a620ac9efd704127c476eb4474bd7.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/improvements-bendigo-librarys-public-toilet-and-parent-facilities-completed",
+      "retrievedAt": "2026-11-05T03:32:04.605083+00:00",
+      "sha256": "08acf660fa59c28f99da3fcacba56c6e5721eeb755a744d8216894b6cff5a093",
+      "snapshot": "data/evidence/08acf660fa59c28f99da3fcacba56c6e5721eeb755a744d8216894b6cff5a093.txt"
+    },
+    {
+      "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media/help-shape-greater-bendigos-budget-2027-2028",
+      "retrievedAt": "2026-11-05T03:32:06.632497+00:00",
+      "sha256": "73cc5482b41ffa8b07a16a36fe54f27039d8929589388dcd6c78afcd3bdfcced",
+      "snapshot": "data/evidence/73cc5482b41ffa8b07a16a36fe54f27039d8929589388dcd6c78afcd3bdfcced.txt"
+    },
+    {
+      "url": "https://www.mildura.vic.gov.au/Contact-us/News-and-media/Media-Releases",
+      "retrievedAt": "2026-11-05T03:32:16.313258+00:00",
+      "sha256": "be23c9597289bbf82b1d183276249c3e0218f725c50aaa6b615bb89af7c62ea6",
+      "snapshot": "data/evidence/be23c9597289bbf82b1d183276249c3e0218f725c50aaa6b615bb89af7c62ea6.txt"
+    },
+    {
+      "url": "https://www.sheppadviser.com.au/feed",
+      "retrievedAt": "2026-11-05T03:32:37.715442+00:00",
+      "sha256": "7adb19eb218405495eb5e6077ac090a394eeeba315b75562713a7ea256dba52d",
+      "snapshot": "data/evidence/7adb19eb218405495eb5e6077ac090a394eeeba315b75562713a7ea256dba52d.txt"
+    },
+    {
+      "url": "https://www.sheppadviser.com.au/2m-boost-to-unlock-next-stage-of-gv-link-enterprise-park",
+      "retrievedAt": "2026-11-05T03:32:58.334451+00:00",
+      "sha256": "2b5b1eb12dbaebab9f0fad8de543cef11ec7b49044cc6a9849845828213b27ab",
+      "snapshot": "data/evidence/2b5b1eb12dbaebab9f0fad8de543cef11ec7b49044cc6a9849845828213b27ab.txt"
+    },
+    {
+      "url": "https://www.sheppadviser.com.au/more-than-20-years-in-the-making-gv-link-enterprise-park-is-open",
+      "retrievedAt": "2026-11-05T03:33:18.434311+00:00",
+      "sha256": "bf32728e3084ecd0fc4a363880c65e057ad1e0363e443e1531584126a388f111",
+      "snapshot": "data/evidence/bf32728e3084ecd0fc4a363880c65e057ad1e0363e443e1531584126a388f111.txt"
+    },
+    {
+      "url": "https://www.sheppadviser.com.au/a-funding-story",
+      "retrievedAt": "2026-11-05T03:33:38.218045+00:00",
+      "sha256": "7968fabd1c9b690bf87cbfa535bc5927a4d3f1e32739d64f33a6fe8a5cda5cfb",
+      "snapshot": "data/evidence/7968fabd1c9b690bf87cbfa535bc5927a4d3f1e32739d64f33a6fe8a5cda5cfb.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/feed",
+      "retrievedAt": "2026-11-05T03:33:40.676751+00:00",
+      "sha256": "065860012c16b6acd75cc46261917b4432d3aab7e339219d74924f119222aa48",
+      "snapshot": "data/evidence/065860012c16b6acd75cc46261917b4432d3aab7e339219d74924f119222aa48.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/funding-supports-new-facility-for-manufacturer",
+      "retrievedAt": "2026-11-05T03:33:42.627491+00:00",
+      "sha256": "6ef5be243ebd20491366fb04b0a337ff6051f5c4aafb7842dfa33863196f5c76",
+      "snapshot": "data/evidence/6ef5be243ebd20491366fb04b0a337ff6051f5c4aafb7842dfa33863196f5c76.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/sport/locals-shine-at-the-cup-bendigos-big-day-launches-with-pair-of-hometown-wins",
+      "retrievedAt": "2026-11-05T03:33:45.077278+00:00",
+      "sha256": "55d63e653f2cfd59a154e426e17b5745dcc9b606880b5e3fa4f5e5f03bc5ee30",
+      "snapshot": "data/evidence/55d63e653f2cfd59a154e426e17b5745dcc9b606880b5e3fa4f5e5f03bc5ee30.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/woodhouse-trumps-contemporaries-to-take-out-title",
+      "retrievedAt": "2026-11-05T03:33:47.044892+00:00",
+      "sha256": "43ee91fc47389e80a363a8a366de94d58ec9c2142261e7ca14f112cba6284573",
+      "snapshot": "data/evidence/43ee91fc47389e80a363a8a366de94d58ec9c2142261e7ca14f112cba6284573.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/sport/cup-day-over-runneth-with-joy-crowd-rises-again",
+      "retrievedAt": "2026-11-05T03:33:49.057642+00:00",
+      "sha256": "12d3b708c01001748359302e4d83492f74e6d47101157431079e69fe05bef13e",
+      "snapshot": "data/evidence/12d3b708c01001748359302e4d83492f74e6d47101157431079e69fe05bef13e.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/sport/mias-spirited-debut-a-dream-come-true",
+      "retrievedAt": "2026-11-05T03:33:51.150451+00:00",
+      "sha256": "fafb69bed5c167dfbd94b5f027add02eae7ed119095633a6897784d190693eff",
+      "snapshot": "data/evidence/fafb69bed5c167dfbd94b5f027add02eae7ed119095633a6897784d190693eff.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/sport/bfnl-returns-to-self-administration-more-changes-to-womens-football",
+      "retrievedAt": "2026-11-05T03:33:53.025971+00:00",
+      "sha256": "969bfef2a0543e188f5d7ad6e663a6fe0c3893ab9ad27133473efc0e0c2693fc",
+      "snapshot": "data/evidence/969bfef2a0543e188f5d7ad6e663a6fe0c3893ab9ad27133473efc0e0c2693fc.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/sport/kereama-flags-growing-pains-as-spirit-slip-to-0-3",
+      "retrievedAt": "2026-11-05T03:33:55.099510+00:00",
+      "sha256": "5aaeb239b170e01974c5184056919d2db15f0444a9af4a04c5067250130ed4a5",
+      "snapshot": "data/evidence/5aaeb239b170e01974c5184056919d2db15f0444a9af4a04c5067250130ed4a5.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/sport/maccas-the-new-naming-rights-sponsor-of-bfnl-under-18s",
+      "retrievedAt": "2026-11-05T03:33:57.029254+00:00",
+      "sha256": "2ab01daea0804a4d3d251055c699231c02822974fa8e9c9fdbef2d4fbca8de2e",
+      "snapshot": "data/evidence/2ab01daea0804a4d3d251055c699231c02822974fa8e9c9fdbef2d4fbca8de2e.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/more-preschool-kids-to-go-bush",
+      "retrievedAt": "2026-11-05T03:33:58.935653+00:00",
+      "sha256": "0d4b0efc9630534401f31d45e7ad89745651fa2e83ea9812fa41ba252b3e92f9",
+      "snapshot": "data/evidence/0d4b0efc9630534401f31d45e7ad89745651fa2e83ea9812fa41ba252b3e92f9.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/hopefully-he-can-do-bendigo-proud-fitzsimmons-living-his-melbourne-cup-dream",
+      "retrievedAt": "2026-11-05T03:34:00.896277+00:00",
+      "sha256": "9e0a98cc13b9d1909b67d5be2eef3d66d0e15483dd176658591cc97d78bc0a8f",
+      "snapshot": "data/evidence/9e0a98cc13b9d1909b67d5be2eef3d66d0e15483dd176658591cc97d78bc0a8f.txt"
+    },
+    {
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/last-chance-to-enrol-ahead-of-state-election",
+      "retrievedAt": "2026-11-05T03:34:02.971224+00:00",
+      "sha256": "dab964a0d4eceb9fd98c0998854dceb82b3972604e42810abf39cbad2f47d332",
+      "snapshot": "data/evidence/dab964a0d4eceb9fd98c0998854dceb82b3972604e42810abf39cbad2f47d332.txt"
+    },
+    {
+      "url": "https://foodmach.com.au/jobs",
+      "retrievedAt": "2026-11-05T03:34:06.133791+00:00",
+      "sha256": "44f47d15341d178ac44b59b0852cbbfeb1b865d2099f48f46d2b5816d6fbcce4",
+      "snapshot": "data/evidence/44f47d15341d178ac44b59b0852cbbfeb1b865d2099f48f46d2b5816d6fbcce4.txt"
+    },
+    {
+      "url": "https://foodmach.com.au/jobs",
+      "retrievedAt": "2026-11-05T03:34:08.094342+00:00",
+      "sha256": "355eb21eee377bf99c3029973cc37c1d4d28d32f92dfdaa0576276febadc8260",
+      "snapshot": "data/evidence/355eb21eee377bf99c3029973cc37c1d4d28d32f92dfdaa0576276febadc8260.txt"
+    },
+    {
+      "url": "https://foodmach.com.au/jobs",
+      "retrievedAt": "2026-11-05T03:34:10.312128+00:00",
+      "sha256": "c8548f25c0c5d85f2cfcce3cf6a60442e5ab0da281f1d0f12d772cddb078795b",
+      "snapshot": "data/evidence/c8548f25c0c5d85f2cfcce3cf6a60442e5ab0da281f1d0f12d772cddb078795b.txt"
+    }
+  ]
+}
