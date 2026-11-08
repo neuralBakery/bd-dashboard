@@ -1,0 +1,449 @@
+	<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bendigo Times</title>
+	<atom:link href="https://timesnewsgroup.com.au/bendigotimes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://timesnewsgroup.com.au/bendigotimes/</link>
+	<description></description>
+	<lastBuildDate>Sat, 07 Nov 2026 17:00:00 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2021/02/favicon.png</url>
+	<title>Bendigo Times</title>
+	<link>https://timesnewsgroup.com.au/bendigotimes/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kids audio project marks C4C Bendigo&#8217;s 21st birthday</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/news/kids-audio-project-marks-c4c-bendigos-21st-birthday/</link>
+		
+		<dc:creator><![CDATA[Adam Carswell]]></dc:creator>
+		<pubDate>Sun, 08 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118904</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-12-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="C4C Bendigo 21st Birthday" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" fetchpriority="high" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-12-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-12-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-12-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-12.jpg 1200w" sizes="(max-width: 640px) 100vw, 640px" /><p>Twenty-one children from Lightning Reef Primary School&#8217;s holiday program have shared what makes them feel safe, seen and heard in an audio project marking Communities for Children (C4C) Bendigo&#8217;s 21st birthday. C4C is a federally funded initiative that aims to strengthen the health and wellbeing of children aged five to 12 and their families in [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/news/kids-audio-project-marks-c4c-bendigos-21st-birthday/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/kids-audio-project-marks-c4c-bendigos-21st-birthday/">Kids audio project marks C4C Bendigo&#8217;s 21st birthday</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-12-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="C4C Bendigo 21st Birthday" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-12-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-12-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-12-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-12.jpg 1200w" sizes="(max-width: 640px) 100vw, 640px" /><p>Twenty-one children from Lightning Reef Primary School&#8217;s holiday program have shared what makes them feel safe, seen and heard in an audio project marking Communities for Children (C4C) Bendigo&#8217;s 21st birthday.</p>
+<p>C4C is a federally funded initiative that aims to strengthen the health and wellbeing of children aged five to 12 and their families in areas of recognised disadvantage, with programs and resources to help them flourish and lead happy, healthy lives.</p>
+<p>Programs include free playgroups and community events, as well as resources to support workers in the early childhood sector.</p>
+<p>In partnership with The Y Bendigo, the local branch of the organisation managed by Anglicare Victoria worked with the kids to also record how they want to change the world.</p>
+<p>C4C Bendigo project manager Jude Di Manno said C4C&#8217;s own 21st birthday felt like a milestone worth celebrating through the recording.</p>
+<p>&#8220;We know one of the best ways to empower children is by listening to them, and our latest project was an opportunity for them to speak up about what they want and need from the world around them to thrive,&#8221; she said.</p>
+<p>Di Manno said one of the clearest messages was a gentle reminder for adults to put aside distractions and be fully present when talking with them.</p>
+<p>Asked how they knew a grown-up was really listening, they said it was when adults looked at them and were not on a phone, tablet or computer, playing a game or watching TV.</p>
+<p>&#8220;Because I can feel it in my heart, it feels like happiness,&#8221; one participant said.</p>
+<p>The full audio project is available for viewing on the C4C Bendigo YouTube channel.</p>
+<p>C4C Bendigo is delivered in partnership with Anglicare Victoria, Baptistcare, the Bendigo and District Aboriginal Co-operative, Noah&#8217;s Ark and Shine Bright.</p>
+<p>For more information, visit <a href="http://c4cbendigo.com.au" target="_blank" rel="noopener">c4cbendigo.com.au</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/kids-audio-project-marks-c4c-bendigos-21st-birthday/">Kids audio project marks C4C Bendigo&#8217;s 21st birthday</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Phoenix co-founder named on national broadcasting</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/news/phoenix-co-founder-named-on-national-broadcasting/</link>
+		
+		<dc:creator><![CDATA[Adam Carswell]]></dc:creator>
+		<pubDate>Sun, 08 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118914</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-13-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Anne Conway Phoenix FM" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-13-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-13-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-13-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-13.jpg 1200w" sizes="(max-width: 640px) 100vw, 640px" /><p>Phoenix FM founding member and volunteer Anne Conway OAM has been inducted into the Community Broadcasting Association of Australia&#8217;s Honour Roll. The register recognises those who have given more than 15 years&#8217; service to a community broadcaster, and Conway was one of nine people admitted at the association&#8217;s awards ceremony in Geelong. During the ceremony&#8217;s [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/news/phoenix-co-founder-named-on-national-broadcasting/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/phoenix-co-founder-named-on-national-broadcasting/">Phoenix co-founder named on national broadcasting</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-13-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Anne Conway Phoenix FM" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-13-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-13-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-13-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-13.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>Phoenix FM founding member and volunteer Anne Conway OAM has been inducted into the Community Broadcasting Association of Australia&#8217;s Honour Roll.</p>
+<p>The register recognises those who have given more than 15 years&#8217; service to a community broadcaster, and Conway was one of nine people admitted at the association&#8217;s awards ceremony in Geelong.</p>
+<p>During the ceremony&#8217;s opening address, Phoenix was also recognised for assisting in airing ABC coverage during January&#8217;s Harcourt and Mount Alexander fires, with departed station volunteers Bradley &#8220;Monkey&#8221; Hopgood and Richard Jones also remembered in a tribute to passed community radio identities.</p>
+<p>Conway said she was &#8220;still a little overwhelmed&#8221; and very grateful to have even been nominated in the first place, remarking that her work over the years had not been &#8220;entirely selfless&#8221;.</p>
+<p>&#8220;I get a lot back by helping other people,&#8221; she said.&#8221;I think it&#8217;s just something I was raised to do.&#8221;</p>
+<p>She went on to dedicate her latest honour to her fellow founding members.</p>
+<p>&#8220;Without them I wouldn&#8217;t have the award,&#8221; she said.</p>
+<p>The founding group first met in late 2006 and after much lobbying the station made its first transmission in January 2008.</p>
+<p>Obtaining its broadcasting licence was &#8220;very difficult&#8221; according to Conway, but the station had secured it in record time and subsequently established itself as a &#8220;true access&#8221; programmer with &#8220;something for absolutely everyone&#8221;.</p>
+<p>Phoenix FM also won two annual awards on the night &#8211; Excellence in Australian Music and Outstanding Presenter, the latter of which went to Brett Adie.</p>
+<p>Adie was praised for his work on programs including Live Music Bendigo, nationally syndicated Aussie Trove, and The Phatt, as well as for helping out with Phoenix&#8217;s intermittent external broadcasts.</p>
+<p>In terms of Phoenix&#8217;s Aussie music award, Conway &#8211; a former country music performer, songwriter, promoter and Tamworth regular &#8211; explained that under the Broadcasting Services Act 1992 (Part 5) the station was required to play 25 per cent Australian music, but had always &#8220;punched above that&#8221;.</p>
+<p>&#8220;Not so much now, but once upon a time it was very hard for Australian artists to get any airplay,&#8221; she said.</p>
+<p>&#8220;There was this opinion that the good music was English or American, so the Australian artists had to go overseas.</p>
+<p>&#8220;That&#8217;s what The Seekers did, then you had Olivia Newton-John.</p>
+<p>&#8220;That&#8217;s where community radio comes into its own.</p>
+<p>&#8220;Unlike commercial radio we choose our own playlists, who we want to play.</p>
+<p>&#8220;Even if no one&#8217;s ever heard of them, if we like them, local independent artists are now getting a fair go.&#8221;</p>
+<p>Conway also took the opportunity to urge local businesses to consider sponsoring the station as &#8220;a cost-effective way of getting your message out into the community&#8221;.</p>
+<p>Find Phoenix FM at 106.7 on the FM dial or online, with more than 20 programs available on demand at <a href="http://phoenixfm.org.au" target="_blank" rel="noopener">phoenixfm.org.au</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/phoenix-co-founder-named-on-national-broadcasting/">Phoenix co-founder named on national broadcasting</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Local artist profile: Steven Stanley</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/living/local-artist-profile-steven-stanley/</link>
+		
+		<dc:creator><![CDATA[Adam Carswell]]></dc:creator>
+		<pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[Living]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118958</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-32-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Steven Stanley abstract artist" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-32-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-32-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-32-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-32.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>This week we chat with local abstract realist painter Steven Stanley, who said being a regional artist can come with challenges, especially when it comes to access to galleries, exhibitions and networks. What motivated you to become a painter? I&#8217;ve been drawn to art for as long as I can remember. There&#8217;s always been something [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/living/local-artist-profile-steven-stanley/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/living/local-artist-profile-steven-stanley/">Local artist profile: Steven Stanley</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-32-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Steven Stanley abstract artist" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-32-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-32-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-32-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-32.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>This week we chat with local abstract realist painter Steven Stanley, who said being a regional artist can come with challenges, especially when it comes to access to galleries, exhibitions and networks.</p>
+<p><strong>What motivated you to become a painter?</strong></p>
+<p>I&#8217;ve been drawn to art for as long as I can remember.</p>
+<p>There&#8217;s always been something about creating that has made sense to me, even when other things haven&#8217;t.</p>
+<p><strong>How would you describe your painting style?</strong></p>
+<p>Abstract realism, with a strong focus on emotion, colour and the relationship between the two.</p>
+<p>I like combining recognisable subjects, particularly faces, birds and elements of nature, with more abstract, expressive marks.</p>
+<p>I use a combination of acrylics, oils, inks, pastels and collage, and I&#8217;m always looking for new ways to create depth and texture.</p>
+<p><strong>Which other painters inspire you?</strong></p>
+<p>I absolutely love the way Christian Hook paints.</p>
+<p>It’s a beautiful balance between realism and abstraction that feels so right.</p>
+<p>Tahlia Stanton’s work embodies a sense of playfulness and colour in such a beautiful way that I absolutely adore.</p>
+<p>As I was growing up, the impressionists were my absolute favourites.</p>
+<p>I also really love the pre-Raphaelites for their love of nature and beauty.</p>
+<p><strong>Have you had any mentors over your career?</strong></p>
+<p>I studied with Joy Tatt for 5 years.</p>
+<p>She was able to make me see colour in things that I hadn’t noticed before.</p>
+<p>I’ve also attended one of Alanah Ellen Brand’s portrait workshops, where she was able to teach me how to simplify the painting process.</p>
+<p><strong>What are some highlights from your time following your pursuits so far?</strong></p>
+<p>Attending art classes with Joy has proved to be more than just classes, more a great friendship and with other students too.</p>
+<p>I’ve had three solo exhibitions in the past two years and seeing people’s (reactions) has been priceless.</p>
+<p>More recently, I&#8217;ve started exploring ways to bring my art into people&#8217;s lives beyond the traditional painting on a wall.</p>
+<p>The biggest highlight, though, is the ongoing evolution.</p>
+<p><strong>How can people check out your work online?</strong></p>
+<p>My website is www.artbystevenstanley.com.au, where people can explore my artwork and find out more about what I do.</p>
+<p>I&#8217;m on Instagram at @artbystevenstanley.</p>
+<p><strong>What are you working on at the moment? </strong></p>
+<p>I&#8217;m continuing to develop my painting practice while exploring new ways to connect with people through creativity.</p>
+<p>I&#8217;m also developing ideas around painting workshops and an online mixed-media painting course.</p>
+<p>Alongside those projects, I&#8217;m continuing to make and share my own artwork, explore new techniques and build my career.</p>
+<p><strong>Where do you see yourself with your pursuits in a couple of years? What about in 10 years?</strong></p>
+<p>I&#8217;d love to have a more established presence as an artist.</p>
+<p>I&#8217;d also like to have my creative projects, workshops and online courses operating in a way that allows me to spend more time doing what I love: creating art and connecting with people.</p>
+<p>In ten years, I&#8217;d love to have built a sustainable creative career.</p>
+<p><strong>What would you say to young regional aspiring painters who are thinking of making a go of the creative life?</strong></p>
+<p>Give it a go, but understand that it&#8217;s a journey.</p>
+<p>Being a regional artist can come with challenges, especially when it comes to access to galleries, exhibitions and networks.</p>
+<p>But, you can also build connections online, develop your audience and find ways to get your work in front of people.</p>
+<p>Learn the business side of things too.</p>
+<p>Most importantly, make work that means something to you.</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/living/local-artist-profile-steven-stanley/">Local artist profile: Steven Stanley</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>From the office of ROLAND ROCCHICCIOLI</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/living/from-the-office-of-roland-rocchiccioli-35/</link>
+		
+		<dc:creator><![CDATA[Roland Rocchiccioli]]></dc:creator>
+		<pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[Living]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118962</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-22-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Victorian Political Advertising" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-22-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-22-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-22-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-22.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>There is a particular pattern of lying which does not require its author to invent a single word. It needs only a pair of scissors and the political resolve to mislead. Victorian Labor is running a television advertisement in which the Opposition Leader, Jess Wilson, is asked whether Americanising our healthcare system would be a [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/living/from-the-office-of-roland-rocchiccioli-35/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/living/from-the-office-of-roland-rocchiccioli-35/">From the office of ROLAND ROCCHICCIOLI</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-22-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Victorian Political Advertising" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-22-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-22-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-22-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/North-Images-041126-22.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>There is a particular pattern of lying which does not require its author to invent a single word. It needs only a pair of scissors and the political resolve to mislead.</p>
+<p>Victorian Labor is running a television advertisement in which the Opposition Leader, Jess Wilson, is asked whether Americanising our healthcare system would be a bad thing. She replies: &#8220;Not at all.&#8221; The words are hers. The interpretation is Labor’s.</p>
+<p>The Age asked the question: would Ms. Wilson’s proposed policy &#8220;Americanise&#8221; the state&#8217;s health system, and was that bad? The Liberal leader’s answer — “not at all” — was not an endorsement of an American style health system. It was the opposite — a complete and flat rejection: “This is happening in Queensland today. In fact, the Labor government has implemented it here in the past &#8230; We need to be partnering &#8230; our private hospitals with the public system to make sure that Victorians get surgery sooner.&#8221;</p>
+<p>Sensing voter approval, Labor strategists employed an infamous, grubby technique. They deliberately edited her words, knowing it to be agitprop — “agitation and propaganda” — a Soviet Union tactic for alarming the masses with messages unfettered by fact.</p>
+<p>The Coalition has promised $1.3 billion for 25,000 extra annual surgeries — admitting public patients into private hospitals at the state&#8217;s expense. One may debate the merits and costings; however, pretending a public patient having a hip replaced in a private hospital — without paying a cent — is the slippery slope to requiring patients produce a credit card before the health system will provide, is a premeditated, cynical lie.</p>
+<p>Constituents should not be subjected to a litany of lies and half truths by those asking us to entrust them with governing the state. The Labor Premier, Ben Carroll, espouses trust, fairness, and Victorian values. That is the shame.</p>
+<p>Health care is crucial. It is one of the Nation’s greatest concerns. In 2016 federal election, Labor ran the Mediscare campaign. This lie is the same old nag hauling a different cart. It was a shameful tactic which worked. Public health is the ultimate platform for misnomers and political duplicity; it frightens the elderly and the chronically ill — those most reliant on the system. It is premeditated malice — political sleight of hand masquerading as concern.</p>
+<p>Nor is this a policy dispute — it is intended scaremongering — created to instil fear in the vulnerable community. This lie is not the exception; nor is it a malaise confined to one party — or one election: it is the clutching of power by whatever the means, and a test of what the electors are prepared to accept in the lust for victory.</p>
+<p>Spring Street incumbents hold in their hands the threads of our fate. Their power is gifted in good faith. When it is won by deception, it is a wicked betrayal which warrants denunciation. Paradoxically, under the Crimes Act, section 82, financial advantage by deception is an offence. At law, a political party obtaining office by deception has committed no offence.</p>
+<p>South Australia and the ACT have introduced “truth in political advertising” laws. That Victoria lags is a measure of how far we have fallen. Once, a politician caught in a lie was shamed. Not so today. Shame requires a conscience, and the Nation’s collective scruples have been appropriated by political expediency. We shrug resignedly — &#8220;you know what politicians are like!&#8221; The mutual shrug is the strategists’ objective — and it is corrosive: every ignored lie becomes a prototype; consequently — ipso facto — every election becomes a little less palatable.</p>
+<p>It is “not at all” appropriate for any government to twist an opponent&#8217;s words to initiate alarm. It is shameful. Contact <a href="mailto:roland@rolandroc.com">roland@rolandroc.com</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/living/from-the-office-of-roland-rocchiccioli-35/">From the office of ROLAND ROCCHICCIOLI</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Funding stems flow at flood-hit sites</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/news/funding-stems-flow-at-flood-hit-sites/</link>
+		
+		<dc:creator><![CDATA[Adam Carswell]]></dc:creator>
+		<pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118964</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-34-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Flood Levee Funding" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-34-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-34-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-34-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-34.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>The federal government has committed over $6m towards Epsom&#8217;s $12.25m Racecourse Creek Flood Levee project via Round 4 of its Disaster Ready Fund. The project will see the construction of levees along Racecourse Creek to contain flood flows and prevent overbank flooding exacerbated by the existing limited channel capacity and railway constraints. It is hoped [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/news/funding-stems-flow-at-flood-hit-sites/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/funding-stems-flow-at-flood-hit-sites/">Funding stems flow at flood-hit sites</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-34-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Flood Levee Funding" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-34-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-34-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-34-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-34.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>The federal government has committed over $6m towards Epsom&#8217;s $12.25m Racecourse Creek Flood Levee project via Round 4 of its Disaster Ready Fund.</p>
+<p>The project will see the construction of levees along Racecourse Creek to contain flood flows and prevent overbank flooding exacerbated by the existing limited channel capacity and railway constraints.</p>
+<p>It is hoped that they will reduce flood risk to over 500 local homes and 60 businesses, improve emergency access and deliver a high-value, long-term mitigation solution aligned with regional flood strategies.</p>
+<p>Rochester Hospital will receive more than $1.7m towards its own $3.6m levee project through the fund.</p>
+<p>That levee&#8217;s purpose will be to protect the hospital from future catastrophic events such as the October 2022 floods, which forced its evacuation and caused millions of dollars in damage.</p>
+<p>Rochester and Elmore District Health Service (REDHS) welcomed the support.</p>
+<figure id="attachment_30038" aria-describedby="caption-attachment-30038" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-30038" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/FRF1_26992.jpeg" alt="" width="600" height="800" /><figcaption id="caption-attachment-30038" class="wp-caption-text">ABOVE: Rochester Hospital will receive more than $1.7m through the Disaster Ready Fund. RIGHT: Bendigo MP Lisa Chesters said Epsom is a fast-growing area and the $12.25m levee project will help to give its residents better peace of mind into the future. Photos: Lisa Chesters MP&#8217;s office.</figcaption></figure>
+<p>&nbsp;</p>
+<p>&#8220;This important investment will strengthen the resilience of our health service and help ensure local people can continue to access healthcare close to home during future emergencies,&#8221; a statement read.</p>
+<p>The hospital did not recommence full operations until it received its official Certificate of Occupancy in January 2025, making way for the return of patients, aged care residents and health services to the Pascoe Street campus.</p>
+<p>&#8220;I know how devastating the Epsom and Huntly floods in October 2022 were for our local community,&#8221; Bendigo MP Lisa Chesters said.</p>
+<p>&#8220;Many homes and local businesses were impacted as a result.</p>
+<p>&#8220;This is a fast-growing area of our community, and this project will help to give these residents better piece of mind and help future proof the area.&#8221;</p>
+<p>Chesters said the REDHS project was a vital one at the top of her priority list for the town.</p>
+<p>&#8220;Rochester and Elmore District Health Service has flooded twice in recent years and the rebuild has required tens of millions of dollars to repair it and get it back to an operational standard,&#8221; she said.</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/funding-stems-flow-at-flood-hit-sites/">Funding stems flow at flood-hit sites</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Spirit help TAC drive important road safety message</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/sport/spirit-help-tac-drive-important-road-safety-message/</link>
+		
+		<dc:creator><![CDATA[Kieran Iles]]></dc:creator>
+		<pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[Sport]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118970</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-35-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bendigo Spirit TAC Partnership" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-35-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-35-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-35-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-35.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>BASKETBALL WNBL club Bendigo Spirit and the Transport Accident Commission (TAC) have extended their partnership for the 2026/27 WNBL season, again joining forces to promote road safety and bring elite women&#8217;s basketball to communities across regional Victoria. As the official road safety partner of Spirit, the TAC will once again back the club&#8217;s Country Roads [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/sport/spirit-help-tac-drive-important-road-safety-message/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/spirit-help-tac-drive-important-road-safety-message/">Spirit help TAC drive important road safety message</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-35-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bendigo Spirit TAC Partnership" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-35-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-35-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-35-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/tng-04-nov-35.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>BASKETBALL</p>
+<p>WNBL club Bendigo Spirit and the Transport Accident Commission (TAC) have extended their partnership for the 2026/27 WNBL season, again joining forces to promote road safety and bring elite women&#8217;s basketball to communities across regional Victoria.</p>
+<p>As the official road safety partner of Spirit, the TAC will once again back the club&#8217;s Country Roads Series, featuring four WNBL games across Ballarat and Traralgon throughout the season.</p>
+<p>The first was played in Ballarat on Tuesday night against Geelong Venom, with a second to follow at Selkirk Stadioum against Southside Melbourne Flyers on 25 January.</p>
+<p>Under the agreement, the Spirit will use its platform to reinforce the importance of safe driving, particularly on regional roads, while connecting with basketball fans and communities across Victoria.</p>
+<p>This season, the Spirit&#8217;s specially designed Country Roads jersey will feature the number 291, representing the lives lost on Victorian roads last year, serving as a powerful reminder of the collective responsibility to keep our roads safe.</p>
+<p>A highlight of the partnership will be the dedicated TAC Road Safety Round, taking place in Traralgon on Sunday 31 January, as the Spirit&#8217;s final home game of the regular season.</p>
+<p>The clash will provide an opportunity to engage fans and the wider community in important road safety conversations.</p>
+<p>The initiative aims to encourage players and supporters to reflect on the devastating impact of road trauma and the importance of making safe choices every time they get behind the wheel.</p>
+<p>As part of the partnership, Bendigo Spirit will also introduce a new safe driving policy, reinforcing the club&#8217;s commitment to road safety both on and off the court.</p>
+<p>Bendigo Spirit general manager Dan Jackson said the partnership was an important opportunity for the club to make a meaningful difference beyond basketball.</p>
+<p>&#8220;We&#8217;re incredibly proud to continue our partnership with the TAC and use the platform of Bendigo Spirit to promote such an important message across regional Victoria,&#8221; he said.</p>
+<p>&#8220;Many of our players, staff and supporters spend a significant amount of time travelling on country roads, so road safety is something that resonates strongly with our club and our community.</p>
+<p>&#8220;Featuring last year&#8217;s road toll on our Country Roads jersey is a powerful reminder that every life lost on our roads is one too many, and we all have a role to play in keeping each other safe.</p>
+<p>&#8220;We&#8217;re also proud to be introducing a safe driving policy within our club, ensuring we&#8217;re not just sharing the message, but demonstrating our commitment to road safety through our own actions.</p>
+<p>&#8220;The Country Roads Series is a fantastic opportunity to bring WNBL basketball to communities across regional Victoria, while working alongside the TAC to deliver a message that could ultimately save lives.&#8221;</p>
+<p>TAC head of community Fin Bird said the partnership provided an important opportunity to encourage safer driving behaviours across regional Victoria.</p>
+<p>&#8220;Every life lost on Victorian roads is one too many, and partnerships like this play an important role in keeping road safety front of mind in our communities.</p>
+<p>&#8220;Through our partnership with Bendigo Spirit, we&#8217;re able to reach players, families and supporters across regional Victoria, encouraging everyone to make safe choices whenever they get behind the wheel.</p>
+<p>Remaning road safety games:</p>
+<p>ROUND 10: Bendigo Spirit v Sydney Flames, GRISS, Traralgon (Friday 18 November, 7pm).</p>
+<p>ROUND 15: Bendigo Spirit v Southside Melbourne Flyers, Selkirk Stadium, Ballarat (Monday 25 January, 5.30pm).</p>
+<p>ROUND 16: Bendigo Spirit v Tasmania Jewels, GRISS, Traralgon (Sunday 21 January, 7pm).</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/spirit-help-tac-drive-important-road-safety-message/">Spirit help TAC drive important road safety message</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ticking (and scoring) goals: Davis-Tope a leader on and off the ice</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/sport/ticking-and-scoring-goals-davis-tope-a-leader-on-and-off-the-ice/</link>
+		
+		<dc:creator><![CDATA[Kieran Iles]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[Sport]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118861</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Melbourne Ice Hockey" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>For Emily Davis-Tope, nothing beats a good old fashioned hometown rivalry to get the competitive juices flowing for another exciting Australian Women&#8217;s Ice Hockey League (AWIHL) campaign with Melbourne Ice. A season of redemption for the Toronto-born but Bendigo-raised forward and her Ice teammates will swing into action against Melbourne Ducks tonight (6 November) at [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/sport/ticking-and-scoring-goals-davis-tope-a-leader-on-and-off-the-ice/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/ticking-and-scoring-goals-davis-tope-a-leader-on-and-off-the-ice/">Ticking (and scoring) goals: Davis-Tope a leader on and off the ice</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Melbourne Ice Hockey" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>For Emily Davis-Tope, nothing beats a good old fashioned hometown rivalry to get the competitive juices flowing for another exciting Australian Women&#8217;s Ice Hockey League (AWIHL) campaign with Melbourne Ice.</p>
+<p>A season of redemption for the Toronto-born but Bendigo-raised forward and her Ice teammates will swing into action against Melbourne Ducks tonight (6 November) at iceHQ in Reservoir.</p>
+<p>It&#8217;s almost rare territory for the Ice, who – after years of dominating the championship picture – had to settle for third place last season.</p>
+<p>That has only served to light a fire in the belly of the Ice as they prepare for battle against the evolving Ducks.</p>
+<figure id="attachment_30038-2" aria-describedby="caption-attachment-30038-2" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-30038 " src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/IMG_7721_11209.jpg" alt="" width="600" height="399" /><figcaption id="caption-attachment-30038-2" class="wp-caption-text">Emily Davis-Tope has long been a member of the Australian women’s national team and has represented her country in more than 10 countries. Photo: Ice Hockey Australia.</figcaption></figure>
+<p>&nbsp;</p>
+<p>The 26-27 season will be 25-year-old Davis-Tope&#8217;s fifth in the AWIHL, spread across just over 10 years.</p>
+<p>Her first two as a 14 and 15-year-old preceded a return to her native Canada for seven years, where she completed her studies, including a degree in kinesiology/human movement, while continuing to hone her ice hockey craft.</p>
+<p>Back in Australia, she rejoined the Ice two seasons ago, culminating in a championship victory.</p>
+<p>Needless to say, last year&#8217;s third-place finish did not sit well with her and the Ice, who are nine-time national champions.</p>
+<p>&#8220;It was the first year in a while we haven&#8217;t have made the final game,&#8221; said Davis-Tope, a long-time member of the Australian women&#8217;s national team and a dual-citizen.</p>
+<figure id="attachment_30038-3" aria-describedby="caption-attachment-30038-3" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-30038" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/IMG_8260_11594.jpg" alt="" width="600" height="400" /><figcaption id="caption-attachment-30038-3" class="wp-caption-text">Davis-Tope scores for Australia against Iceland. Photo: Ice Hockey Australia.</figcaption></figure>
+<p>&nbsp;</p>
+<p>&#8220;It was a very tough season, which I think came down to the rest of the teams improving a lot.</p>
+<p>&#8220;But that&#8217;s a good thing. It&#8217;s nice to have teams building every year.</p>
+<p>&#8220;Ours was still a good season, but we have lots of things to work on to get back to the top.&#8221;</p>
+<p>The mood in the Ice camp ahead of the season opener is both buoyant and bullish.</p>
+<p>&#8220;We&#8217;ve been training since start of September – twice a week as a team – working on team chemistry and systems and practicing all the little things we want to have ready for when the season opens,&#8221; Davis-Tope said.</p>
+<p>There is a resolve within that the Ice will need to be switched on early against a Ducks team entering their second season in the competition, after playing a series of exhibition games the previous year, and quickly finding their feet at the top level.</p>
+<p>&#8220;There&#8217;s nothing like a hometown rivalry,&#8221; Davis-Tope said.</p>
+<figure id="attachment_30038-4" aria-describedby="caption-attachment-30038-4" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-30038 " src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/2025_11_22BLVsMIW43_12780.jpg" alt="" width="600" height="400" /><figcaption id="caption-attachment-30038-4" class="wp-caption-text">Davis-Tope finds the back of the net during Melbourne Ice&#8217;s clash against Brisbane Lightning in week three of the 2025-26 AWIHL season. Photo: Phil Taylor/AWIHL Photography.</figcaption></figure>
+<p>&nbsp;</p>
+<p>&#8220;It&#8217;s always very competitive, as we know them personally – a lot more than we would other players from other states and teams.</p>
+<p>&#8220;We&#8217;ll have to work hard against them that&#8217;s for sure. They always put up a fight.</p>
+<p>&#8220;My sister-in-law is one of their goalies, so it&#8217;s even more competitive for me.&#8221;</p>
+<p>While this is her fifth year in the AWIHL, Davis-Tope has spent almost a lifetime in ice hockey, taking up the sport as a nine-year-old after two years in figure skating, following her older brother Jayden, a goaltender, into the sport.</p>
+<p>&#8220;I would always be watching him play and that kind of made me try it and I&#8217;ve never looked back since,&#8221; she said.</p>
+<p>&#8220;From the first moment, I&#8217;ve just loved it.</p>
+<p>&#8220;I quickly started to feel the opportunities that women can have playing for the national team and the women&#8217;s national league.</p>
+<p>&#8220;Those were my goals as I got a bit older, to make those teams.</p>
+<p>&#8220;Happy to say I was able to achieve that.&#8221;</p>
+<p>Her twin brother Charlie, a defender, has also made his name in ice hockey and is still playing in the men&#8217;s winter league in Melbourne.</p>
+<p>Having established herself at the Ice as a teenager, the move back to Canada at age 16 with family helped Davis-Tope take her game to another level.</p>
+<p>A key to her progression was two years spent playing in the female prep team at the Pursuit of Excellence Hockey Academy, based in Kelowna, British Columbia, while studying year 11 and 12.</p>
+<p>&#8220;That team was ranked very high in North America. I played with a lot of girls who are now in the PWHL, the women&#8217;s professional league.&#8221;</p>
+<p>&#8220;We got to travel all over Canada and the States, playing against top quality teams.</p>
+<p>&#8220;Then for five years I played for the Ontario Tech Ridgebacks in Oshawa competing in Ontario University Athletics (OUA).&#8221;</p>
+<p>Davis-Tope considers herself very lucky to have crammed so much travel in during her hockey career, bolstered by eight years with the Australian team in 2014, 16, 17, 18, 19, 22, 25 and 26.</p>
+<p>She has also been involved in two &#8216;unofficial&#8217; Australian team tours.</p>
+<p>All of that has taken her to Slovenia, Canada, Spain, Denmark, Norway, Japan, Korea, Poland, Croatia, Austria and New Zealand.</p>
+<p>The undoubted highlights have been a IIHF Women&#8217;s World Championship Division II A gold medal in New Zealand last year, and a fourth placing in division 2 earlier this year in Slovenia</p>
+<p>Those performances represented a coming of age of sorts for the national women&#8217;s team, known as the Aussie Flyers.</p>
+<figure id="attachment_30038-5" aria-describedby="caption-attachment-30038-5" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-30038 " src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/Emily_29614.jpg" alt="" width="600" height="399" /><figcaption id="caption-attachment-30038-5" class="wp-caption-text">The 25-year-old is relishing her roles as a leader with Melbourne Ice and the national team. Photo: Ice Hockey Australia.</figcaption></figure>
+<p>&nbsp;</p>
+<p>&#8220;Normally our team will move up a division and get knocked straight back down as we aren&#8217;t at the level of the other teams, who get opportunities to practice together multiple times a year,&#8221; Davis-Tope said.</p>
+<p>&#8220;They are also fully-funded, while ours is self-funded and we only practice together for a week before we play.</p>
+<p>&#8220;It&#8217;s a big factor in why we are not always the strongest team, but this year we were really competitive.</p>
+<p>&#8220;We were actually in the running for a medal. We missed out in a shoot-out loss.</p>
+<p>&#8220;While we ended up fourth, our games were close and we were really competitive as a team.</p>
+<p>&#8220;We were all really stoked with that and we didn&#8217;t get relegated, which was a huge goal of ours.</p>
+<p>&#8220;We are in that division again next year and hoping to medal. To win would be amazing.&#8221;</p>
+<p>The team for next year&#8217;s worlds in Taiwan during November will be bolstered by an influx of talent from this year&#8217;s national under-18 team, further fuelling hopes of a podium finish.</p>
+<p>On the domestic front, Davis-Tope is proud to see the AWIHL flourishing on all fronts, suggesting the league had gone ahead leaps and bounds in the years between her first season and her return to Australia, and in the two years since.</p>
+<p>The league consists of six teams &#8211; Melbourne Ice, Adelaide Rush, Brisbane Lightning, Sydney Sirens, Perth Inferno and Melbourne Ducks.</p>
+<p>&#8220;When I played before I went back to Canada, the difference in skill between teams was massive,&#8221; she said.</p>
+<p>&#8220;Our team was quite strong because we have a lot of the national team members in Melbourne and the other teams would be a bit weaker, so a lot of wins for us.</p>
+<p>&#8220;Now, the skill is much more even across teams and we have more imports wanting to come here to play because the skill level has risen.</p>
+<p>&#8220;There is also a lot more development of young players coming through. The U-18s teams has become a real development pathway for the younger girls and has given them something to work towards.</p>
+<p>&#8220;And the exposure has increased. Back then we might get 50 fans at a game and now we are getting hundreds to a game; a much larger fanbase [due to livestreaming].&#8221;</p>
+<p>Ice hockey is just part of a busy life for Davis, who combines her sport of choice with study towards an occupational therapy degree at La Trobe University in Bendigo and working as an instructor at Pilates + in Bendigo.</p>
+<p>One the ice, Davis is demonstrating that same high-level of commitment, not just taking on, but relishing her leadership roles as alternate captain in both the Australian team and with the Ice.</p>
+<p>&#8220;It&#8217;s something I&#8217;m very passionate about, stepping up as a leader. I like being challenged,&#8221; she said.</p>
+<p>&#8220;Being the age I am, I can connect with the younger girls, but the older girls as well. Especially being a leader on a season team compared to a tournament team – it&#8217;s two very different experiences.</p>
+<p>&#8220;I&#8217;ve really enjoyed both.&#8221;</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/sport/ticking-and-scoring-goals-davis-tope-a-leader-on-and-off-the-ice/">Ticking (and scoring) goals: Davis-Tope a leader on and off the ice</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Library loos well worth the wait</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/news/library-loos-well-worth-the-wait/</link>
+		
+		<dc:creator><![CDATA[Adam Carswell]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118886</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-1-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bendigo Library" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-1-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-1-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-1-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-1.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>The major upgrade of the public toilets and parent facilities at Bendigo Library has been completed in compliance with the National Construction Code. As part of the works, the old public toilet area has been demolished and replaced with new self-contained cubicles. The former female and nappy changeroom has also been turned into an all-gender [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/news/library-loos-well-worth-the-wait/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/library-loos-well-worth-the-wait/">Library loos well worth the wait</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-1-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bendigo Library" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-1-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-1-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-1-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-1.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>The major upgrade of the public toilets and parent facilities at Bendigo Library has been completed in compliance with the National Construction Code.</p>
+<p>As part of the works, the old public toilet area has been demolished and replaced with new self-contained cubicles.</p>
+<p>The former female and nappy changeroom has also been turned into an all-gender family and carer-friendly bathroom with an adjacent baby feeding and change area.</p>
+<p>The old activity room has been reconfigured into office spaces to provide &#8220;passive surveillance&#8221; for improved safety as well, plus a dedicated cleaner&#8217;s room has been constructed.</p>
+<p>Goldfields Library CEO Mark Hands said it was wonderful to welcome the community back into the greatly improved area.</p>
+<figure id="attachment_118887" aria-describedby="caption-attachment-118887" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class=" wp-image-118887" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/BLT1_14853.jpg" alt="" width="600" height="400" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/BLT1_14853.jpg 1200w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/BLT1_14853-300x200.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/BLT1_14853-1024x683.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/BLT1_14853-768x512.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/BLT1_14853-272x182.jpg 272w" sizes="auto, (max-width: 600px) 100vw, 600px" /><figcaption id="caption-attachment-118887" class="wp-caption-text">City of Greater Bendigo healthy communities and environments director Jess Howard, Goldfields Library CEO Mark Hands and Bendigo West MP Maree Edwards inspecting the new facilities. Photo: City of Greater Bendigo.</figcaption></figure>
+<p>&nbsp;</p>
+<p>&#8220;The works have made our library even more welcoming and accessible for everyone who is coming in to enjoy the spaces, the services and the collections,&#8221; he said.</p>
+<p>&#8220;We hear from patrons daily how much the improved amenities are appreciated.&#8221;</p>
+<p>The project was funded by a $412,586 grant from the state government&#8217;s Living Libraries Infrastructure Program and a contribution from the city.</p>
+<p>City of Greater Bendigo mayor Cr Thomas Prince said the library was one of the municipality&#8217;s most accessed and used public buildings.</p>
+<p>&#8220;This project is important because it has provided greatly improved and much safer toilet and family facilities for the many people of all ages who visit the library each day,&#8221; he said.</p>
+<p>&#8220;The new facilities have transformed the library and the city is very appreciative of the funding received from the Victorian Government to undertake this project.&#8221;</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/library-loos-well-worth-the-wait/">Library loos well worth the wait</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Innovative newsagent claims second state title</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/news/innovative-newsagent-claims-second-state-title/</link>
+		
+		<dc:creator><![CDATA[Adam Carswell]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118898</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-2-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bendigo Newsagent" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-2-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-2-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-2-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-2.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>The former NewsXpress Bendigo (recently rebranded as Found on Bath Lane) has been named the National Lotteries and Newsagents Association&#8217;s 2026 Victorian Tatts Newsagent of the Year. It&#8217;s the second time the CBD store has received the honour since 2024.. The mixed business is owned by Jehn and Alisa Lim who took it over during [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/news/innovative-newsagent-claims-second-state-title/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/innovative-newsagent-claims-second-state-title/">Innovative newsagent claims second state title</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-2-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bendigo Newsagent" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-2-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-2-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-2-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-2.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>The former NewsXpress Bendigo (recently rebranded as Found on Bath Lane) has been named the National Lotteries and Newsagents Association&#8217;s 2026 Victorian Tatts Newsagent of the Year.</p>
+<p>It&#8217;s the second time the CBD store has received the honour since 2024..</p>
+<p>The mixed business is owned by Jehn and Alisa Lim who took it over during the pandemic after moving to the city from Western Australia.</p>
+<p>Jehn Lim said the win had come as a surprise, with the couple up against operators who had been in the trade for 30 years or more.</p>
+<p>&#8220;We&#8217;ve only been in business for six years and we have won two, so I think it&#8217;s definitely a great achievement,&#8221; he said.</p>
+<p>Lim said the award recognised both the Lotto and newsagency sides of the business, with judges considering a list of metrics including the look of the store, how accessible it is, customer feedback and sales.</p>
+<p>He said the move to Bendigo, where Alisa&#8217;s parents were also relocating to, had been a leap of faith, with both leaving permanent jobs, his own in the WA public service.</p>
+<p>He said although the business survived the COVID-19 pandemic, the continuing shift towards working from home and the closure of the adjacent Bendigo Bank branch has cut foot traffic.</p>
+<p>&#8220;You&#8217;ve just got to keep reinventing yourself to stay relevant,&#8221; he said.</p>
+<p>As a result, Lim said with the traditional newsagency model also nearing its expiry date, the outlet changed its name and began offering gifts and homewares, plus a drycleaning agency, document printing, bill paying and parcel collection.</p>
+<p>He remains convinced that newsagencies will continue on as a community hub, where the staff tend to know their regular customers by name.</p>
+<p>&#8220;They not only become our customers but they become our friends,&#8221; he said.</p>
+<p>Found on Bath Lane is open Monday to Friday from 7.30am to 4.30pm and Saturday from 7.30am to 2pm at Shop 8, 20-34 Bath Lane.</p>
+<p>The other Victorian Tatts Newsagent of the Year finalists were Studfield Newsagency, Blackrock Lotto and News, Banchory Grove News, Corryong Newsagency, and Glenhuntly News and Lotto</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/innovative-newsagent-claims-second-state-title/">Innovative newsagent claims second state title</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Labor in pledge blitz as Nats focus on constituents</title>
+		<link>https://timesnewsgroup.com.au/bendigotimes/news/labor-in-pledge-blitz-as-nats-focus-on-constituents/</link>
+		
+		<dc:creator><![CDATA[Adam Carswell]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://timesnewsgroup.com.au/bendigotimes/?p=118908</guid>
+
+					<description><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-3-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bendigo Election" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-3-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-3-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-3-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-3.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>As election promises continue to pile up in the Bendigo East and Bendigo West electorates, Labor has turned its focus to the suburb of Quarry Hill, committing more than $4m to the redevelopment of the Quarry Hill Recreation Reserve. The reserve is home to the West Bendigo Cricket Club, the Bendigo East Baseball Club and [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://timesnewsgroup.com.au/bendigotimes/news/labor-in-pledge-blitz-as-nats-focus-on-constituents/">Read More...</a></p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/labor-in-pledge-blitz-as-nats-focus-on-constituents/">Labor in pledge blitz as Nats focus on constituents</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="336" src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-3-1024x538.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Bendigo Election" style="display: block; margin-bottom: 10px; clear: both; max-width: 100%;" decoding="async" loading="lazy" srcset="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-3-1024x538.jpg 1024w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-3-300x158.jpg 300w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-3-768x403.jpg 768w, https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/28-oct-tng-3.jpg 1200w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>As election promises continue to pile up in the Bendigo East and Bendigo West electorates, Labor has turned its focus to the suburb of Quarry Hill, committing more than $4m to the redevelopment of</p>
+<p>the Quarry Hill Recreation Reserve.</p>
+<p>The reserve is home to the West Bendigo Cricket Club, the Bendigo East Baseball Club and the Quarry Hill Junior Football Club.</p>
+<p>This practically mirrors the Nationals&#8217; $4.3m pledge reported last month.</p>
+<p>The project would replace the existing hall and pavilion with a multi-purpose hub, which is being additionally funded by the $3m already promised by the City of Greater Bendigo.</p>
+<p>Labor has also pledged a free dental clinic for Bendigo that will offer check-ups, fillings, root canals and extractions for adults and children with no appointment needed.</p>
+<figure id="attachment_30038-6" aria-describedby="caption-attachment-30038-6" style="width: 600px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-30038 " src="https://static.timesnewsgroup.com.au/prod/uploads/sites/24/2026/11/PLD1_67701.jpeg" alt="" width="600" height="400" /><figcaption id="caption-attachment-30038-6" class="wp-caption-text">Labor candidate for Bendigo East Tim Rickwood (third from right) at the Quarry Hill Recreation Reserve funding announcement. Photo: Tim Rickwood/supplied.</figcaption></figure>
+<p>&nbsp;</p>
+<p>It would open in July next year, running from 9am to 9pm on weekdays and 9am to 5pm on weekends.</p>
+<p>&#8220;Too many people put off going to the dentist because of the cost,&#8221; Bendigo West candidate Brenton Baldwin said.</p>
+<p>His Bendigo East equivalent Tim Rickwood added that &#8220;no one should have to raid their super to get their teeth fixed&#8221;.</p>
+<p>The Labor Party has further pledged $500,000 to replace scoreboards at Queen Elizabeth Oval, Dower Park in Kangaroo Flat, Epsom Huntly Recreation Reserve, Heathcote Oval and Strathfieldsaye Recreation Reserve.</p>
+<p>Meanwhile in Bendigo West, the Greens said they would support Labor&#8217;s Maiden Gully Primary School redevelopment if candidate Liza Shaw is elected.</p>
+<p>While Labor continues to roll out the pledges, the Nationals have kept their focus on pounding the pavement, as Bendigo East candidate Andrew Lethlean and Bendigo West candidate David Hutchings launched their campaign before around 130 supporters at</p>
+<p>the Bendigo Jockey Club last Friday.</p>
+<p>Further updates regarding all sides&#8217; movements will be provided as the 28 November poll gets closer.</p>
+<p>The post <a href="https://timesnewsgroup.com.au/bendigotimes/news/labor-in-pledge-blitz-as-nats-focus-on-constituents/">Labor in pledge blitz as Nats focus on constituents</a> appeared first on <a href="https://timesnewsgroup.com.au/bendigotimes">Bendigo Times</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

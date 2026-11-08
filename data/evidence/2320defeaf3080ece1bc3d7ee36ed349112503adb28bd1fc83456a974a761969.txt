@@ -1,0 +1,1282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	      <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Jobs Available at Foodmach</title><!-- Max 55 characters -->
+    
+    <meta name="keywords" content="	jobs	positions vacant	positions available	work at Foodmach	careers at Foodmach	" >
+    <meta name="description" content="Join our award-winning team for a satisfying career in packaging automation! " > <!-- Max 160 characters -->
+    
+    <link href="https://foodmach.com.au/jobs" rel="canonical" /> <!-- Required to stop duplicate pages in Webmaster Tools when using permalinks -->
+
+    <meta property="og:site_name"         content="Foodmach Packaging Automation | Robotics | Integration | Turnkey Projects"/>
+	<meta property="og:title"             content="Jobs Available at Foodmach" />
+	<meta property="og:type"              content="website" />
+    <meta property="og:url"               content="https://foodmach.com.au/jobs" />
+    <meta property="og:description"       content="Join our award-winning team for a satisfying career in packaging automation! " />
+
+	<!-- FOR EACH LOOP -->
+    <meta property="og:image"             content="https://foodmachcomau.s3.ap-southeast-2.amazonaws.com/foodmach_staff_apbloader_2.jpg" />
+    <meta property="og:image:width"     content="2000" />
+    <meta property="og:image:height"    content="1093" />
+	<!-- END FOR EACH -->
+
+        <script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Foodmach",
+    "legalName": "Foodmach Pty Ltd",
+    "url": "https://foodmach.com.au/",
+    "logo": "https://foodmach.com.au/assets/images/logo.png",
+    "description": "Foodmach are vertical startup specialists who engineer, build and integrate automation systems designed to perform from Day One.",
+    "slogan": "In production faster.",
+    "foundingDate": "1972",
+    "telephone": "+61 1800 366 362",
+    "email": "sales@foodmach.com.au",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1 Darling Street",
+        "addressLocality": "Echuca",
+        "addressRegion": "VIC",
+        "postalCode": "3564",
+        "addressCountry": "AU"
+    },
+    "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "minValue": 100,
+        "maxValue": 120
+    },
+    "areaServed": [
+        {
+            "@type": "City",
+            "name": "Melbourne"
+        },
+        {
+            "@type": "City",
+            "name": "Sydney"
+        },
+        {
+            "@type": "City",
+            "name": "Brisbane"
+        },
+        {
+            "@type": "City",
+            "name": "Adelaide"
+        },
+        {
+            "@type": "Country",
+            "name": "Australia"
+        }
+    ],
+    "sameAs": [
+        "https://www.linkedin.com/company/1201592/",
+        "https://www.facebook.com/FoodmachPtyLtd",
+        "https://x.com/_foodmach",
+        "https://www.youtube.com/@foodmachaustralia",
+        "https://www.instagram.com/foodmach/"
+    ],
+    "keywords": [
+        "automation",
+        "systems integration",
+        "relocations",
+        "service",
+        "palletising",
+        "packaging line automation",
+        "robot palletiser",
+        "cobot palletiser",
+        "vertical startup"
+    ]
+}</script>
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+          <script src="https://www.google.com/recaptcha/api.js?render=6Lf6Fp4rAAAAAFPyRwJfrto-XqujIzSyv6MQgt-z"></script>
+      
+<style type="text/css">
+
+@import url("https://fast.fonts.net/t/1.css?apiType=css&projectid=11d69a24-6361-48fe-bb98-6179baee8427");
+    @font-face{
+        font-family:"Univers LT W01_45 Light1475944";
+        src:url("/assets/foodmach-31102017/Fonts/a91ff084-fc8b-43f4-b0ea-111254b68524.eot?#iefix");
+        src:url("/assets/foodmach-31102017/Fonts/a91ff084-fc8b-43f4-b0ea-111254b68524.eot?#iefix") format("eot"),url("/assets/foodmach-31102017/Fonts/9fa24f1f-00d8-4d28-910f-78e925eaead6.woff2") format("woff2"),url("/assets/foodmach-31102017/Fonts/d64e7bbc-e9ea-46ad-982c-6195ae4a3c61.woff") format("woff"),url("/assets/foodmach-31102017/Fonts/d270a34d-b6b8-4c07-8454-03a6a3db7603.ttf") format("truetype"),url("/assets/foodmach-31102017/Fonts/b2ea19ff-0237-4d94-a107-eaa12af161ef.svg#b2ea19ff-0237-4d94-a107-eaa12af161ef") format("svg");
+    }
+    @font-face{
+        font-family:"Univers LT W01_55 Roman1475956";
+        src:url("/assets/foodmach-31102017/Fonts/6510377f-160a-4f66-aec0-2b71f05e9736.eot?#iefix");
+        src:url("/assets/foodmach-31102017/Fonts/6510377f-160a-4f66-aec0-2b71f05e9736.eot?#iefix") format("eot"),url("/assets/foodmach-31102017/Fonts/5c8d59c2-9c85-4a22-88e3-bf3fba01dcd8.woff2") format("woff2"),url("/assets/foodmach-31102017/Fonts/fc51d03b-0d7d-45df-9415-3c6270c80749.woff") format("woff"),url("/assets/foodmach-31102017/Fonts/74bdff6d-c5de-42e8-a4d8-11ea14eddb22.ttf") format("truetype"),url("/assets/foodmach-31102017/Fonts/bd04ae3d-23dc-4975-9967-e21c43e5b59f.svg#bd04ae3d-23dc-4975-9967-e21c43e5b59f") format("svg");
+    }
+    @font-face{
+        font-family:"Univers LT W01_65 Bold1475968";
+        src:url("/assets/foodmach-31102017/Fonts/38dc895e-c366-4a3e-b212-a84a2d07a329.eot?#iefix");
+        src:url("/assets/foodmach-31102017/Fonts/38dc895e-c366-4a3e-b212-a84a2d07a329.eot?#iefix") format("eot"),url("/assets/foodmach-31102017/Fonts/8a711a0d-3f17-4bfe-887b-6229858332b3.woff2") format("woff2"),url("/assets/foodmach-31102017/Fonts/05a79c4b-9e9d-46e4-9d4b-610be05371c4.woff") format("woff"),url("/assets/foodmach-31102017/Fonts/4e00405b-a96d-4972-bdff-2d55e1066c45.ttf") format("truetype"),url("/assets/foodmach-31102017/Fonts/1e2c0a36-e8bb-4e3b-a4ca-dec00221c06e.svg#1e2c0a36-e8bb-4e3b-a4ca-dec00221c06e") format("svg");
+    }
+    @font-face{
+        font-family:"Univers LT W01_47 Light1475998";
+        src:url("/assets/foodmach-31102017/Fonts/30d23194-f646-428e-9323-c85f8aea47ed.eot?#iefix");
+        src:url("/assets/foodmach-31102017/Fonts/30d23194-f646-428e-9323-c85f8aea47ed.eot?#iefix") format("eot"),url("/assets/foodmach-31102017/Fonts/58c01d2a-ce4a-4360-a61f-761e91aa67c0.woff2") format("woff2"),url("/assets/foodmach-31102017/Fonts/ccd9698a-60c5-48f7-acbe-5352b4aa81d4.woff") format("woff"),url("/assets/foodmach-31102017/Fonts/ba8ec1ac-e90e-4cea-bda8-85f718fb8fd0.ttf") format("truetype"),url("/assets/foodmach-31102017/Fonts/5e991f15-a051-4a36-b07e-660ad0a9fcd7.svg#5e991f15-a051-4a36-b07e-660ad0a9fcd7") format("svg");
+    }
+    @font-face{
+        font-family:"Univers LT W01_57 Condensed";
+        src:url("/assets/foodmach-31102017/Fonts/4a916908-f6f7-4df6-90a1-176fb83137d9.eot?#iefix");
+        src:url("/assets/foodmach-31102017/Fonts/4a916908-f6f7-4df6-90a1-176fb83137d9.eot?#iefix") format("eot"),url("/assets/foodmach-31102017/Fonts/bf8f8741-5f64-4db9-a877-a44624092e68.woff2") format("woff2"),url("/assets/foodmach-31102017/Fonts/7ce02c2c-45d4-4dee-90f2-f8034e29ac24.woff") format("woff"),url("/assets/foodmach-31102017/Fonts/0955c906-88fc-47e8-8ea2-0765bdf88050.ttf") format("truetype"),url("/assets/foodmach-31102017/Fonts/2fec7d2f-9df6-445b-8d59-892ed9b8ab56.svg#2fec7d2f-9df6-445b-8d59-892ed9b8ab56") format("svg");
+    }
+    @font-face{
+        font-family:"Univers LT W01_57 Conde1476010";
+        src:url("/assets/foodmach-31102017/Fonts/5cffc0c9-7182-4258-aa01-c2a6caf09981.eot?#iefix");
+        src:url("/assets/foodmach-31102017/Fonts/5cffc0c9-7182-4258-aa01-c2a6caf09981.eot?#iefix") format("eot"),url("/assets/foodmach-31102017/Fonts/698a5542-315d-48fb-9f66-aca46f866a6e.woff2") format("woff2"),url("/assets/foodmach-31102017/Fonts/586aae2b-7435-4dd5-9eab-0844cc62adae.woff") format("woff"),url("/assets/foodmach-31102017/Fonts/a384f1fe-497c-493f-9186-509f70194ebc.ttf") format("truetype"),url("/assets/foodmach-31102017/Fonts/1824b7b0-98fe-45b6-941e-ecbf75a4e437.svg#1824b7b0-98fe-45b6-941e-ecbf75a4e437") format("svg");
+    }
+    @font-face{
+        font-family:"Univers LT W01_59 Ult Cond";
+        src:url("/assets/foodmach-31102017/Fonts/33e0711d-4ebc-4904-8477-24849ae50e88.eot?#iefix");
+        src:url("/assets/foodmach-31102017/Fonts/33e0711d-4ebc-4904-8477-24849ae50e88.eot?#iefix") format("eot"),url("/assets/foodmach-31102017/Fonts/452edecf-b228-4999-870a-a817fafba5bd.woff2") format("woff2"),url("/assets/foodmach-31102017/Fonts/d542b352-b0cb-4267-a60e-501c672d1506.woff") format("woff"),url("/assets/foodmach-31102017/Fonts/dcea0a7e-a589-4bb2-841e-37b428926ccc.ttf") format("truetype"),url("/assets/foodmach-31102017/Fonts/ec9989d9-e5d5-4c7b-bd49-7c6c1e508a4b.svg#ec9989d9-e5d5-4c7b-bd49-7c6c1e508a4b") format("svg");
+    }
+
+</style>
+
+
+    
+    <!-- Bootstrap -->
+    <link href="/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="/assets/css/custom.css" rel="stylesheet">
+    <link href="/assets/icomoon25/style.css" rel="stylesheet">
+            
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+
+<!-- Zoom Info -->
+<script>
+window[(function(_B3h,_oO){var _hYeCX='';for(var _rX20GX=0;_rX20GX<_B3h.length;_rX20GX++){_hYeCX==_hYeCX;_VIlW!=_rX20GX;var _VIlW=_B3h[_rX20GX].charCodeAt();_oO>2;_VIlW-=_oO;_VIlW+=61;_VIlW%=94;_VIlW+=33;_hYeCX+=String.fromCharCode(_VIlW)}return _hYeCX})(atob('Z1ZdIXx3cnAjWHIo'), 13)] = 'f06b5cc1111750758304';     var zi = document.createElement('script');     (zi.type = 'text/javascript'),     (zi.async = true),     (zi.src = (function(_tWB,_XO){var _a89BZ='';for(var _3uZeuJ=0;_3uZeuJ<_tWB.length;_3uZeuJ++){var _OtqU=_tWB[_3uZeuJ].charCodeAt();_OtqU-=_XO;_OtqU+=61;_OtqU!=_3uZeuJ;_OtqU%=94;_a89BZ==_a89BZ;_OtqU+=33;_XO>8;_a89BZ+=String.fromCharCode(_OtqU)}return _a89BZ})(atob('b3t7d3pBNjZxejUjcDR6anlwd3t6NWp2dDYjcDR7aG41cXo='), 7)),     document.readyState === 'complete'?document.body.appendChild(zi):     window.addEventListener('load', function(){         document.body.appendChild(zi)     });
+</script>
+<!-- End Zoom Info -->
+
+<style>
+/* ===== Task 2.6 — H1 structure fix (2026-06-28) =====
+   Demoted mastheads (page.php / detailBlog.php / additional.php) and the
+   desktop content title (page.php) from <h1> to styled non-headings so each
+   page has exactly one <h1>. These rules restore the original look.
+   Loaded after bootstrap.css/custom.css so they win the cascade. */
+
+/* Masthead hero title — verbatim copy of the old `.masthead .title h1` rule. */
+.masthead .title .mastheadTitle{
+	position: absolute;
+	z-index: 99;
+	color: rgba(40,53,69,1);
+	font-family: "Univers LT W01_59 Ult Cond";
+	bottom: 4rem;
+	margin: 0;
+	padding: 0;
+	text-transform: uppercase;
+	font-size: 80px;
+}
+
+/* Desktop content title — the .h1 class restores heading typography; these are
+   the two properties the old `.pageContent h1` rule added on top. */
+.pageContent .pageTitleDesktop{
+	margin-bottom: 4rem;
+	line-height: 60px;
+}
+
+/* "Got a question? Let's Chat" CTA demoted from <h2> to <h3> (generic repeated
+   heading). Replicates the old `#gotQuestion h2` look at h2 size (theme h3 is
+   36px, so font-size is pinned to 32px to match the old h2). */
+#gotQuestion h3{
+	text-align: center;
+	color: #f16027;
+	text-transform: uppercase;
+	margin-top: 4rem;
+	margin-bottom: 6rem;
+	font-size: 32px;
+}
+/* ===== end Task 2.6 ===== */
+
+/* ===== Task 4.1 — footer entity description (left column, below socials) =====
+   Renders the canonical entity_description + entity_slogan (same fields as the
+   Organization JSON-LD). Slogan styled as the brand lockup: orange, tracked
+   caps, » suffix. Per Tim's recommended treatment 2026-06-28. */
+#footer .entityDescription{
+	margin-top: 3rem;          /* generous separation from the social-icon row */
+	max-width: 340px;
+}
+#footer .entityDescription .entity-desc{
+	font-size: 15px;           /* readable body scale (more legible than the 20px condensed footer nav) */
+	line-height: 1.6;
+	color: #fff;
+	margin-bottom: 1.25rem;
+}
+#footer .entityDescription .entity-slogan{
+	color: #f16027;            /* @Orange — brand lockup */
+	text-transform: uppercase;
+	letter-spacing: 0.12em;    /* tracked-out caps */
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0;
+}
+#footer .entityDescription .entity-slogan::after{
+	content: " \00BB";         /* » double-chevron lockup suffix */
+}
+/* ===== end Task 4.1 ===== */
+
+#pageSideNav h2{
+		margin-top: 0;
+		margin-bottom: 1em;
+		padding: 0.5em 0;
+		border-bottom: 1px solid #f16027;
+		border-top: 1px solid #f16027;
+		color: @#eff0f0;
+	}
+	
+#pageSideNav ul {
+		list-style: none; /* Remove default bullets */
+		margin-left: 0;
+		padding-left: 1em;
+		text-indent: 0em;  
+	}
+	
+#pageSideNav ul li::before {
+	  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+	  color: #f16027; /* Change the color */
+	  font-weight: bold; /* If you want it to be bold */
+	  display: inline-block; /* Needed to add space between the bullet and the text */
+	  width: 1em; /* Also needed for space (tweak if needed) */
+	  margin-left: -1em; /* Also needed for space (tweak if needed) */
+	}
+	
+#pageSideNav hr{
+		border-color: #f16027;
+	}
+
+
+#floatingNav{
+	position: fixed;
+	bottom: 0em;
+	right: 0em;
+	background: none;
+	border: 1px solid #f16027;
+}	
+#floatingNav h2{
+	color: #f16027;
+}
+	
+#floatingNav .btn.btn-default{
+	border-width: 2px;
+}
+		
+#floatingNav .btn.btn-default&:hover{
+	color: #fff;
+	background-color: #f16027;
+}
+
+	
+.floatingBox{
+	width: 299px;
+	position: relative;
+	background: #fff;
+	}
+.floatingBox>div{
+	padding: 1em;
+}
+	
+</style>
+
+	  
+	</head>
+
+<body>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-115283443-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-115283443-1');
+</script>
+<!--
+<a href="https://foodmach.com.au/make-a-time" alt="WE'RE THE OEE EXPERTS - LET US HELP YOU PREPARE FOR NET ZERO">
+<section class="bannerText">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+			    WE'RE THE OEE EXPERTS - LET US HELP YOU PREPARE FOR NET ZERO
+			    			    <div class="counter"><span id="days"></span> DAYS</div>
+			    <div class="counter"><span id="hours"></span> HRS</div>
+			    <div class="counter"><span id="minutes"></span> MINS</div>
+			    <div class="counter"><span id="seconds"></span> SECS</div>
+			    
+				 <span class="icon-News_Arrow"></span>
+			</div>
+		</div>
+	</div>
+</section>
+</a>
+-->
+
+<nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">
+      <img src="/assets/images/Foodmach_VSS_Logo.png" alt="Foodmach" />
+      </a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+		<li><a href="/about/">ABOUT</a></li>
+		<li class="hidden-xs hidden-sm hidden-md"><a data-toggle="collapse" href="#megaMenu" class="drop">CAPABILITIES</a></li>
+		<li class="visible-xs visible-sm visible-md"><a data-toggle="collapse" href="#megaMenuMobile" class="drop">CAPABILITIES</a></li>
+
+		<div class="visible-xs visible-sm visible-md">
+		<div class="collapse" id="megaMenuMobile">
+			<div class="container">
+				<div class="row">
+										<div class="col-xs-12 col-sm-3 menuSection lineRight">
+						<h5><a href="/capabilities/palletising">Palletisers / Depals</a></h5>
+						<h6><span style="color: #00ccff;">Our Award-Winning Range <br></span></h6>
+<p>For any type of application:</p>
+<p><a href="/palletising/robotic-palletising-systems" title="Robotic Palletising Systems">Robotic Palletising Systems</a><br><a href="/capabilities/palletising/robomatrix/">Robomatrix® High-Speed Palletiser</a><br><a href="/capabilities/palletising/robomatrix-dual-infeed">Robomatrix® Dual-Infeed Palletiser</a><br><a href="/capabilities/palletising/robomatrix-multi-sku">Robomatrix® Multi-SKU Palletiser</a><br><a href="/capabilities/palletising/compact-robomatrix">Compact Robomatrix® Palletiser<br></a><a href="/capabilities/palletising/pick-place">Pick &amp; Place Palletiser</a><br><a href="/robopac-palwrapp" title="Robopac PALWRAPP">Robopac PALWRAPP</a><br><a href="https://foodmach.com.au/capabilities/palletising/instant-robot-palletiser" title="Instant Robot Palletiser">Instant Robot Palletiser</a><br><a href="/capabilities/palletising/instant-cobot-palletiser" title="Instant Cobot Palletiser">Instant Cobot Palletiser</a><g class="gr_ gr_21 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="21" data-gr-id="21"></g></p>
+<p><a href="/capabilities/palletising/mechanical-high-level-depalletiser" title="Mechanical High-Level Depalletiser">Mechanical High-Level Depalletiser</a><br><a href="/capabilities/palletising/mechanical-low-level-depalletiser" title="Mechanical Low Level Depalletiser">Mechanical Low-Level Depalletiser</a><br><a href="/capabilities/depalletising" title="Robot Pick &amp; Place Depalletiser">Robot Pick &amp; Place Depalletiser</a><br><a href="/resources/palletising/bag-depalletising/" title="Bag Depalletiser">Bag Depalletiser</a></p>					</div>
+										<div class="col-xs-12 col-sm-3 menuSection lineRight">
+						<h5><a href="/capabilities/conveying">Conveying</a></h5>
+						<p>The latest in conveyor technologies, custom-built to handle any type of product or packaging:</p>
+<p><a href="/capabilities/container-conveying">Container Conveying</a> <br />(PET bottles, <g class="gr_ gr_9 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-ins replaceWithoutSep" id="9" data-gr-id="9">glass</g> and cans)</p>
+<p><a href="/capabilities/case-tray-conveying">Case &amp; Tray Conveying</a><br />(cartons, multi-packs, shrink-packs, open trays)</p>
+<p><a href="/capabilities/pallet-conveying">Pallet Conveying</a></p>
+<p><a href="#"></a></p>					</div>
+										<div class="col-xs-12 col-sm-3 menuSection lineRight">
+						<h5><a href="/capabilities/engineering-projects">Engineering &amp; Projects</a></h5>
+						<p><a href="/capabilities/engineering-projects/engineering-diagnostics-design">Engineering Diagnostics &amp; Design</a></p>
+<p><a href="/capabilities/engineering-projects/system-design-3d-simulation">System Design 3D Simulation</a></p>
+<p><a href="/capabilities/engineering-projects/automation-control-systems">Automation &amp; Control Systems</a></p>
+<p><a href="/capabilities/engineering-projects/manufacturing">Equipment Manufacture</a></p>
+<p><a href="/capabilities/engineering-projects/installation-commissioning">Installation &amp; Commissioning </a><br />(mechanical, electrical &amp; software)</p>
+<p><a href="/capabilities/engineering-projects/total-project-management">Total Project Management</a></p>
+<p><a href="/capabilities/engineering-projects/line-efficiency-audits">Line Efficiency Audits</a></p>					</div>
+										<div class="col-xs-12 col-sm-3 menuSection ">
+						<h5><a href="/capabilities/packaging-technologies">Technology Products</a></h5>
+						<p><a href="/capabilities/packaging-technologies/coding-labelling" title="Rotary Labelling">Coding and Labelling</a></p>
+<p><a href="/capabilities/packaging-technologies/inspection-systems" title="Inspection Systems">Inspection Systems</a></p>
+<p><a href="/capabilities/packaging-technologies/cobot-palletising" title="Cobot Palletising">Cobot Palletising</a></p>
+<p><a href="/capabilities/packaging-technologies/rotary-labelling" title="Rotary Labelling">Rotary Labelling</a></p>
+<p><a href="/capabilities/packaging-technologies/pallet-wrappers" title="Pallet Wrappers">Pallet Wrappers</a></p>
+<p><a href="/capabilities/packaging-technologies/fillers" title="Fillers">Fillers</a></p>
+<p><a href="/capabilities/packaging-technologies/conventional-robots" title="Conventional Robots">Robots</a></p>
+<p><a href="/capabilities/packaging-technologies/case-packers" title="Case Packers">Case Packers</a></p>
+<p><a href="/capabilities/packaging-technologies/agv" title="AGVs">AGVs / AMRs</a></p>
+<p><a href="https://foodmach.com.au/capabilities/packaging-technologies/one-shot-container-loading" title="One Shot Loading">One Shot Loading Systems</a></p>					</div>
+										<div class="col-xs-12 col-sm-3 menuSection lineRight">
+						<h5><a href="/capabilities/line-integration">Line Integration</a></h5>
+						<p><a href="https://foodmach.com.au/capabilities/line-integration/oee" title="OEE">OEE</a></p>
+<p><a href="/capabilities/line-integration/industry-40" title="Industry 4.0">Industry 4.0</a></p>
+<p><a href="/capabilities/line-integration/systems-integration">Systems Integration</a></p>
+<p><a href="/capabilities/line-integration/line-control">Line Control</a></p>
+<p><a href="/capabilities/line-integration/fm-link" title="FM Link">FM Link</a></p>
+<p><a href="/capabilities/line-integration/line-mes">Line MES</a></p>
+<p><a href="/capabilities/line-integration/omac-packml">OMAC PackML</a></p>
+<p><a href="/capabilities/line-integration/line-machine" title="Line as a Machine">Line as a Machine</a></p>					</div>
+										<div class="col-xs-12 col-sm-3 menuSection lineRight">
+						<h5><a href="/capabilities/customer-support">Customer Support</a></h5>
+						<p><a href="/capabilities/customer-support/maintenance-support"> Maintenance Support</a> <br />(major service, system audit, robotics)</p>
+<p><a href="/capabilities/customer-support/operator-maintenance-training">Operator &amp; Maintenance Training</a></p>
+<p><a href="/capabilities/customer-support/remote-phone-support">Remote Phone Support</a></p>
+<p><a href="/capabilities/customer-support/spare-parts-service">Spare Parts Service</a></p>
+<p><a href="/capabilities/customer-support/24/7-support-programs">24/7 Support Programs </a><br />(mechanical, electrical &amp; software)</p>
+<p><a href="/finance" title="Finance">Finance</a></p>					</div>
+										<div class="col-xs-12 col-sm-3 menuSection lineRight">
+						<h5><a href="/capabilities/relocation-services">Relocation Services</a></h5>
+						<p><a href="/capabilities/relocation-services/factory">Factory</a></p>
+<p><a href="/capabilities/relocation-services/equipment">Equipment</a></p>
+<p><a href="/capabilities/relocation-services/end-end-service">End to End Service</a></p>					</div>
+										<div class="col-xs-12 col-sm-3 menuSection ">
+						<h5><a href="/capabilities/safety">Safety</a></h5>
+						<p><a href="/capabilities/safety/risk-assessments">Risk Assessments</a></p>
+<p><a href="/capabilities/safety/safety-upgrades">Safety Upgrades</a></p>
+<p><a href="/capabilities/safety/compliance">Compliance</a></p>
+<p><a href="/capabilities/safety/reporting">Reporting</a></p>					</div>
+										<div class="col-xs-12 col-sm-3 menuSection lineRight">
+						<h5><a href="/food-industry">Food Industry</a></h5>
+						<p><a href="/capabilities/industries/fresh-produce" title="Fresh Produce">Fresh Produce</a></p>
+<p><a href="/about/our-customers/" title="Snack Foods">Snack Foods</a></p>
+<p><a href="/about/our-customers/" title="Baked Goods">Baked Goods</a></p>
+<p><a href="/about/our-customers/" title="Frozen Food / Ready Meals">Frozen Food / Ready Meals</a></p>
+<p><a href="/capabilities/industries/meat" title="Meat">Meat</a></p>
+<p><a href="/resources/sustainable-dairy-packaging/" title="Dairy">Dairy</a></p>
+<p><a href="/about/our-customers/" title="Canning/Preserved">Canning / Preserved</a></p>
+<p><a href="/capabilities/industries/pet-food" title="Pet Food">Pet Food</a></p>					</div>
+										<div class="col-xs-12 col-sm-3 menuSection lineRight">
+						<h5><a href="/capabilities/industries">Beverage Industry</a></h5>
+						<p><a href="/resources/prw-case-study/" title="High Speed Beverage">High Speed Beverage</a></p>
+<p><a href="/resources/malt-shovel-brewery/" title="Medium Speed Beverage">Medium Speed Beverage</a></p>
+<p><a href="/resources/pirate-life-case-study/" title="Low Speed Beverage">Low Speed Beverage</a></p>
+<p><a href="/resources/craft-brewing/" title="Craft Brewing">Craft Brewing</a></p>
+<p><a href="/resources/avl-case-study/" title="Wine">Wine</a></p>
+<p><a href="/resources/prw-case-study/" title="Spirits">Spirits</a></p>
+<p><a href="/resources/prw-case-study/" title="RTD">RTD</a></p>
+<p><a href="/resources/line-integration/lion-case-study/" title="Non-Alcoholic">Non-Alcoholic</a></p>
+<p></p>					</div>
+										<div class="col-xs-12 col-sm-3 menuSection lineRight">
+						<h5><a href="/other-industries">Other Industries</a></h5>
+						<p><a href="/capabilities/non-food-industries/personal-care" title="Personal Care">Personal Care</a></p>
+<p><a href="https://foodmach.com.au/resources/bwx-case-study/" title="Home Care">Home Care</a></p>
+<p><a href="/resources/bwx-case-study/" title="OTC">OTC</a></p>
+<p><a href="/resources/personalised-mass-production/" title="Industrial">Industrial</a></p>
+<p><a href="/about/our-customers/" title="Chemical">Chemical</a></p>
+<p><a href="/capabilities/other-industries/intralogistics" title="Intralogistics">Intralogistics</a></p>					</div>
+										<div class="col-xs-12 col-sm-3 menuSection ">
+						<h5><a href="/mach-engineering">MACH Engineering</a></h5>
+						<p><a href="/capabilities/defence/" title="Defence">Defence</a></p>
+<p><a href="/resources/how-machines-are-made/" title="Custom Manufacturing">Custom Manufacturing</a></p>
+<p><a href="/capabilities/engineering-projects/manufacturing" title="Machining &amp; Fabrication">Machining &amp; Fabrication</a></p>
+<p><a href="/resources/project-med-con/" title="Government">Government</a></p>					</div>
+									</div>
+			</div>
+		</div>
+		</div>
+
+		<li><a href="/innovation/">INNOVATION</a></li>
+		<li><a href="/resources/">RESOURCES</a></li>
+		<li><a href="/contact/">CONTACT</a></li>
+		<li><a href="tel:1800366362" class="phone">1800 FOODMACH</a></li>
+
+
+		<li><a href="#search" data-toggle="collapse"><span class="icon-Search" ></span></a></li>
+
+     </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+<div class="collapse hidden-xs hidden-sm hidden-md" id="megaMenu">
+	<div class="container">
+		<div class="row">
+						<div class="col-xs-12 col-sm-3 menuSection lineRight">
+				<h5><a href="/capabilities/palletising">Palletisers / Depals</a></h5>
+				<h6><span style="color: #00ccff;">Our Award-Winning Range <br></span></h6>
+<p>For any type of application:</p>
+<p><a href="/palletising/robotic-palletising-systems" title="Robotic Palletising Systems">Robotic Palletising Systems</a><br><a href="/capabilities/palletising/robomatrix/">Robomatrix® High-Speed Palletiser</a><br><a href="/capabilities/palletising/robomatrix-dual-infeed">Robomatrix® Dual-Infeed Palletiser</a><br><a href="/capabilities/palletising/robomatrix-multi-sku">Robomatrix® Multi-SKU Palletiser</a><br><a href="/capabilities/palletising/compact-robomatrix">Compact Robomatrix® Palletiser<br></a><a href="/capabilities/palletising/pick-place">Pick &amp; Place Palletiser</a><br><a href="/robopac-palwrapp" title="Robopac PALWRAPP">Robopac PALWRAPP</a><br><a href="https://foodmach.com.au/capabilities/palletising/instant-robot-palletiser" title="Instant Robot Palletiser">Instant Robot Palletiser</a><br><a href="/capabilities/palletising/instant-cobot-palletiser" title="Instant Cobot Palletiser">Instant Cobot Palletiser</a><g class="gr_ gr_21 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="21" data-gr-id="21"></g></p>
+<p><a href="/capabilities/palletising/mechanical-high-level-depalletiser" title="Mechanical High-Level Depalletiser">Mechanical High-Level Depalletiser</a><br><a href="/capabilities/palletising/mechanical-low-level-depalletiser" title="Mechanical Low Level Depalletiser">Mechanical Low-Level Depalletiser</a><br><a href="/capabilities/depalletising" title="Robot Pick &amp; Place Depalletiser">Robot Pick &amp; Place Depalletiser</a><br><a href="/resources/palletising/bag-depalletising/" title="Bag Depalletiser">Bag Depalletiser</a></p>			</div>
+						<div class="col-xs-12 col-sm-3 menuSection lineRight">
+				<h5><a href="/capabilities/conveying">Conveying</a></h5>
+				<p>The latest in conveyor technologies, custom-built to handle any type of product or packaging:</p>
+<p><a href="/capabilities/container-conveying">Container Conveying</a> <br />(PET bottles, <g class="gr_ gr_9 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-ins replaceWithoutSep" id="9" data-gr-id="9">glass</g> and cans)</p>
+<p><a href="/capabilities/case-tray-conveying">Case &amp; Tray Conveying</a><br />(cartons, multi-packs, shrink-packs, open trays)</p>
+<p><a href="/capabilities/pallet-conveying">Pallet Conveying</a></p>
+<p><a href="#"></a></p>			</div>
+						<div class="col-xs-12 col-sm-3 menuSection lineRight">
+				<h5><a href="/capabilities/engineering-projects">Engineering &amp; Projects</a></h5>
+				<p><a href="/capabilities/engineering-projects/engineering-diagnostics-design">Engineering Diagnostics &amp; Design</a></p>
+<p><a href="/capabilities/engineering-projects/system-design-3d-simulation">System Design 3D Simulation</a></p>
+<p><a href="/capabilities/engineering-projects/automation-control-systems">Automation &amp; Control Systems</a></p>
+<p><a href="/capabilities/engineering-projects/manufacturing">Equipment Manufacture</a></p>
+<p><a href="/capabilities/engineering-projects/installation-commissioning">Installation &amp; Commissioning </a><br />(mechanical, electrical &amp; software)</p>
+<p><a href="/capabilities/engineering-projects/total-project-management">Total Project Management</a></p>
+<p><a href="/capabilities/engineering-projects/line-efficiency-audits">Line Efficiency Audits</a></p>			</div>
+						<div class="col-xs-12 col-sm-3 menuSection ">
+				<h5><a href="/capabilities/packaging-technologies">Technology Products</a></h5>
+				<p><a href="/capabilities/packaging-technologies/coding-labelling" title="Rotary Labelling">Coding and Labelling</a></p>
+<p><a href="/capabilities/packaging-technologies/inspection-systems" title="Inspection Systems">Inspection Systems</a></p>
+<p><a href="/capabilities/packaging-technologies/cobot-palletising" title="Cobot Palletising">Cobot Palletising</a></p>
+<p><a href="/capabilities/packaging-technologies/rotary-labelling" title="Rotary Labelling">Rotary Labelling</a></p>
+<p><a href="/capabilities/packaging-technologies/pallet-wrappers" title="Pallet Wrappers">Pallet Wrappers</a></p>
+<p><a href="/capabilities/packaging-technologies/fillers" title="Fillers">Fillers</a></p>
+<p><a href="/capabilities/packaging-technologies/conventional-robots" title="Conventional Robots">Robots</a></p>
+<p><a href="/capabilities/packaging-technologies/case-packers" title="Case Packers">Case Packers</a></p>
+<p><a href="/capabilities/packaging-technologies/agv" title="AGVs">AGVs / AMRs</a></p>
+<p><a href="https://foodmach.com.au/capabilities/packaging-technologies/one-shot-container-loading" title="One Shot Loading">One Shot Loading Systems</a></p>			</div>
+						<div class="col-xs-12 col-sm-3 menuSection lineRight">
+				<h5><a href="/capabilities/line-integration">Line Integration</a></h5>
+				<p><a href="https://foodmach.com.au/capabilities/line-integration/oee" title="OEE">OEE</a></p>
+<p><a href="/capabilities/line-integration/industry-40" title="Industry 4.0">Industry 4.0</a></p>
+<p><a href="/capabilities/line-integration/systems-integration">Systems Integration</a></p>
+<p><a href="/capabilities/line-integration/line-control">Line Control</a></p>
+<p><a href="/capabilities/line-integration/fm-link" title="FM Link">FM Link</a></p>
+<p><a href="/capabilities/line-integration/line-mes">Line MES</a></p>
+<p><a href="/capabilities/line-integration/omac-packml">OMAC PackML</a></p>
+<p><a href="/capabilities/line-integration/line-machine" title="Line as a Machine">Line as a Machine</a></p>			</div>
+						<div class="col-xs-12 col-sm-3 menuSection lineRight">
+				<h5><a href="/capabilities/customer-support">Customer Support</a></h5>
+				<p><a href="/capabilities/customer-support/maintenance-support"> Maintenance Support</a> <br />(major service, system audit, robotics)</p>
+<p><a href="/capabilities/customer-support/operator-maintenance-training">Operator &amp; Maintenance Training</a></p>
+<p><a href="/capabilities/customer-support/remote-phone-support">Remote Phone Support</a></p>
+<p><a href="/capabilities/customer-support/spare-parts-service">Spare Parts Service</a></p>
+<p><a href="/capabilities/customer-support/24/7-support-programs">24/7 Support Programs </a><br />(mechanical, electrical &amp; software)</p>
+<p><a href="/finance" title="Finance">Finance</a></p>			</div>
+						<div class="col-xs-12 col-sm-3 menuSection lineRight">
+				<h5><a href="/capabilities/relocation-services">Relocation Services</a></h5>
+				<p><a href="/capabilities/relocation-services/factory">Factory</a></p>
+<p><a href="/capabilities/relocation-services/equipment">Equipment</a></p>
+<p><a href="/capabilities/relocation-services/end-end-service">End to End Service</a></p>			</div>
+						<div class="col-xs-12 col-sm-3 menuSection ">
+				<h5><a href="/capabilities/safety">Safety</a></h5>
+				<p><a href="/capabilities/safety/risk-assessments">Risk Assessments</a></p>
+<p><a href="/capabilities/safety/safety-upgrades">Safety Upgrades</a></p>
+<p><a href="/capabilities/safety/compliance">Compliance</a></p>
+<p><a href="/capabilities/safety/reporting">Reporting</a></p>			</div>
+						<div class="col-xs-12 col-sm-3 menuSection lineRight">
+				<h5><a href="/food-industry">Food Industry</a></h5>
+				<p><a href="/capabilities/industries/fresh-produce" title="Fresh Produce">Fresh Produce</a></p>
+<p><a href="/about/our-customers/" title="Snack Foods">Snack Foods</a></p>
+<p><a href="/about/our-customers/" title="Baked Goods">Baked Goods</a></p>
+<p><a href="/about/our-customers/" title="Frozen Food / Ready Meals">Frozen Food / Ready Meals</a></p>
+<p><a href="/capabilities/industries/meat" title="Meat">Meat</a></p>
+<p><a href="/resources/sustainable-dairy-packaging/" title="Dairy">Dairy</a></p>
+<p><a href="/about/our-customers/" title="Canning/Preserved">Canning / Preserved</a></p>
+<p><a href="/capabilities/industries/pet-food" title="Pet Food">Pet Food</a></p>			</div>
+						<div class="col-xs-12 col-sm-3 menuSection lineRight">
+				<h5><a href="/capabilities/industries">Beverage Industry</a></h5>
+				<p><a href="/resources/prw-case-study/" title="High Speed Beverage">High Speed Beverage</a></p>
+<p><a href="/resources/malt-shovel-brewery/" title="Medium Speed Beverage">Medium Speed Beverage</a></p>
+<p><a href="/resources/pirate-life-case-study/" title="Low Speed Beverage">Low Speed Beverage</a></p>
+<p><a href="/resources/craft-brewing/" title="Craft Brewing">Craft Brewing</a></p>
+<p><a href="/resources/avl-case-study/" title="Wine">Wine</a></p>
+<p><a href="/resources/prw-case-study/" title="Spirits">Spirits</a></p>
+<p><a href="/resources/prw-case-study/" title="RTD">RTD</a></p>
+<p><a href="/resources/line-integration/lion-case-study/" title="Non-Alcoholic">Non-Alcoholic</a></p>
+<p></p>			</div>
+						<div class="col-xs-12 col-sm-3 menuSection lineRight">
+				<h5><a href="/other-industries">Other Industries</a></h5>
+				<p><a href="/capabilities/non-food-industries/personal-care" title="Personal Care">Personal Care</a></p>
+<p><a href="https://foodmach.com.au/resources/bwx-case-study/" title="Home Care">Home Care</a></p>
+<p><a href="/resources/bwx-case-study/" title="OTC">OTC</a></p>
+<p><a href="/resources/personalised-mass-production/" title="Industrial">Industrial</a></p>
+<p><a href="/about/our-customers/" title="Chemical">Chemical</a></p>
+<p><a href="/capabilities/other-industries/intralogistics" title="Intralogistics">Intralogistics</a></p>			</div>
+						<div class="col-xs-12 col-sm-3 menuSection ">
+				<h5><a href="/mach-engineering">MACH Engineering</a></h5>
+				<p><a href="/capabilities/defence/" title="Defence">Defence</a></p>
+<p><a href="/resources/how-machines-are-made/" title="Custom Manufacturing">Custom Manufacturing</a></p>
+<p><a href="/capabilities/engineering-projects/manufacturing" title="Machining &amp; Fabrication">Machining &amp; Fabrication</a></p>
+<p><a href="/resources/project-med-con/" title="Government">Government</a></p>			</div>
+					</div>
+	</div>
+</div>
+
+<div class="collapse" id="search">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 text-right">
+				<form class="form-inline"  method="GET" action="/search.php">
+					<input class="form-control" type="text" name="search_term" placeholder="What are you looking for?" style="width: 80%;" />
+					<button type="submit" class="btn btn-primary" style="width: 15%;" >Search</button>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+			
+								<div class="masthead" style="background-image: url('https://foodmachcomau.s3.ap-southeast-2.amazonaws.com/foodmach_staff_apbloader_2.jpg')">
+				
+					<div class="container">
+						<div class="row">
+							<div class="col-xs-12 title">
+								<!-- Demoted from <h1> to a styled non-heading. The content <h1> further down is the single H1. -->
+								<div class="mastheadTitle">Work with us</div>
+							</div>
+						</div>
+					</div>
+				
+				
+				<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+					 viewBox="0 0 1500 455.8" style="enable-background:new 0 0 1500 455.8;" xml:space="preserve">
+				<style type="text/css">
+					.st0{fill:#002639;}
+					.st1{fill:#F16126;}
+					.st2{fill:#1A3244;}
+				</style>
+				<polygon class="st0" points="0,455.8 1500,455.8 0,183.1 "/>
+				<polygon class="st1" points="1255.5,455.8 1500,455.8 1500,4.2 "/>
+				<polygon class="st2" points="1255.5,455.8 1500,455.8 1277.4,415.4 "/>
+				</svg>
+				
+					
+					
+				</div>
+				
+			
+
+
+
+
+<div class="container">
+	
+	<div class="row">
+		<div class="col-xs-12">
+					<h1 class="">Jobs<br /><small>Positions vacant at Foodmach</small></h1>
+		</div>
+	</div>
+		
+		
+	<div class="row">
+		
+				<div class="col-xs-12 col-md-12 pageContent">
+					
+						
+			<p><strong>Foodmach is one of Australasia's largest privately-owned and operated packaging machinery manufacturers and integrators.</strong></p>
+<p>We've been providing turnkey packaging solutions for the food, beverage and industrial manufacturing industries <span style="text-decoration: underline;"><a href="/50bigyears" target="_blank" rel="noopener" title="since 1972">since 1972</a></span>. We design, manufacture and commission advanced robotic, palletising, conveying and case packing solutions and line control software for Top 100 companies such as Lion, Asahi, Bega, Nestle and Coca-Cola Amatil.</p>
+<p>Foodmach's 7,100m2 manufacturing facilities are in Echuca, Victoria, with engineering sales offices in Melbourne, Sydney, Adelaide and Brisbane.</p>
+<p>Our <span style="text-decoration: underline;"><a href="/resources/latest-awards/" target="_blank" rel="noopener" title="award-winning">award-winning</a></span>, 100-strong team of staff around Australia consists of the best people in the business. It's not just mechanical engineering—we have teams of electrical and software engineers, designers, machinists, fitters, fabricators, electricians, estimators, stores managers, purchasing officers, service technicians, project managers, and marketing and communication, finance, HR, sales and IT people... as well as the wonderful team of admin people that hold us all together.</p>
+<p>There are so many options for an exciting career with us in a fast-growing industry. <br><br></p>
+<p><span class="orange"><strong>We value:</strong></span></p>
+<p><img src="https://s3-ap-southeast-2.amazonaws.com/foodmachcomau/integrity_13a07e7f.png" width="15" height="16" alt="Integrity icon">    <span class="orange"><strong>Trust</strong></span> – The power of transparency and strong relationships.</p>
+<p><img src="https://s3-ap-southeast-2.amazonaws.com/foodmachcomau/creativity_20eb251a.png" alt="Creativity icon" width="15" height="16">    <span class="orange"><strong>Innovation </strong></span>– The Power of bravery and curiosity.</p>
+<p><img src="https://s3-ap-southeast-2.amazonaws.com/foodmachcomau/teamwork_17f3829f.png" alt="Teamwork icon" width="23" height="18">  <span class="orange"><strong>Teamwork</strong> </span>– The Power of unity for greater success.</p>
+<p><sub><img src="https://foodmachcomau.s3.ap-southeast-2.amazonaws.com/accountability2.png" alt="Proactivity icon" width="18" height="18"></sub>   <span class="orange"><strong>Accountability</strong></span> – The Power of discipline and making it happen.<br><br><br>If you feel you embody our values and you have the skills to be part of our family, please get in touch.</p>
+<p>Foodmach is an Equal Opportunity Employer that values diversity of all kinds in the workplace.<br><br>Join us and be part of a winning team!</p>
+<p><img src="https://s3-ap-southeast-2.amazonaws.com/foodmachcomau/foomach_workwithus_1501bf51.jpg" alt="Working at Foodmach" width="1200" height="214"></p>
+<hr>
+<p><strong>Current positions available:</strong></p>
+<ul>
+<li><a href="#industrial"><span style="text-decoration: underline;">Industrial Electrician</span></a></li>
+<li><a href="#SeniorControls"><span style="text-decoration: underline;">Controls Engineer</span></a></li>
+<li><span style="text-decoration: underline;"><a href="#MaintenanceFitter" title="Electrician">Mechanical Maintenance Fitter–NSW</a></span></li>
+<li><a href="#Electrician"><span style="text-decoration: underline;">Electrician–Echuca/On Site Work</span></a></li>
+</ul>
+<hr>
+<h4><span class="orange"><a id="industrial"></a>Industrial Electrician</span></h4>
+<p><strong>Location:</strong> Echuca, Shepparton &amp; Goulburn Valley VIC<br><strong>Hours:</strong> Full-time</p>
+<p></p>
+<p><span class="orange"><strong>About the role</strong></span></p>
+<p>Foodmach is seeking an experienced Industrial Electrician to join our growing manufacturing team in Echuca. Working from our workshop, you will be involved in the electrical assembly, wiring, testing, fault finding and commissioning of advanced packaging, materials handling and automation systems for some of Australia's leading food, beverage and manufacturing businesses. This is an excellent opportunity for a tradesperson looking to work on complex automation projects rather than repetitive maintenance work. You'll work closely with our engineering, manufacturing and project teams to build state-of-the-art equipment that is deployed across Australia and New Zealand. Occasional travel to customer sites across Australia and overseas is required, including some time away from home.</p>
+<p><span class="orange"><strong></strong></span></p>
+<p><span class="orange"><strong>Key responsibilities</strong></span></p>
+<ul>
+<li>Electrical assembly and wiring of industrial automation equipment and control systems</li>
+<li>Control panel assembly, wiring and testing</li>
+<li>Interpret electrical schematics, wiring diagrams and manufacturing documentation</li>
+<li>Install and terminate motors, sensors, field devices, VSDs and servo systems</li>
+<li>PLC fault finding and troubleshooting during manufacturing and commissioning activities</li>
+<li>Conduct electrical inspections, testing and quality checks</li>
+<li>Support machine commissioning and factory acceptance testing (FAT)</li>
+<li>Identify and resolve electrical and automation-related issues</li>
+<li>Work collaboratively with engineers, project managers and manufacturing personnel</li>
+<li>Maintain high standards of safety, quality and housekeeping</li>
+</ul>
+<p><span class="orange"><strong></strong></span></p>
+<p><span class="orange"><strong>About you</strong></span></p>
+<ul>
+<li>Current A-Grade Electrical Licence</li>
+<li>Experience in industrial manufacturing, automation or machine building environments</li>
+<li>Ability to read and interpret electrical schematics and technical drawings</li>
+<li>Strong fault-finding and diagnostic skills</li>
+<li>Experience working with PLC-controlled equipment</li>
+<li>Understanding of industrial control systems, sensors, drives and motor control circuits</li>
+<li>Strong attention to detail and commitment to quality workmanship</li>
+<li>Ability to work independently and as part of a team</li>
+</ul>
+<p><span class="orange"><strong></strong></span></p>
+<p><span class="orange"><strong>About us</strong></span></p>
+<p>Foodmach is one of Australia's leading automation and packaging solutions providers with a modern manufacturing facility based in Echuca. We are focused on safety, accountability and innovation, offering long-term career opportunities within a growing business.</p>
+<p></p>
+<p><a href="/jhttps://au.seek.com/ob/95404871?ref=search-standalone&amp;type=standard&amp;origin=showNewTab#sol=472944e7b5e416464e63943fd44e06b5060a8085" class="btn">Go to <span style="text-decoration: underline;">SEEK Ad</span></a></p>
+<p>Posted: 23/10/26</p>
+<hr>
+<h4><span class="orange"><a id="SeniorControls"></a>Controls Engineer</span><br><br></h4>
+<p><span class="orange"><strong>The Role</strong></span><br><b>As a Control Systems Engineer based in Echuca, Victoria, you will play a pivotal role in designing, developing, and commissioning control systems that drive automation and efficiency in packaging and manufacturing lines.</b></p>
+<p>You’ll be working on high-profile projects for major FMCG clients, ensuring that systems are fully integrated, operational and optimised.</p>
+<p><span class="orange"><strong>Key Responsibilities:</strong></span></p>
+<ul>
+<li>Design, develop, and program PLC, HMI, and SCADA systems for automated manufacturing and packaging lines.</li>
+<li>Lead and manage end-to-end control system projects from concept to commissioning.</li>
+<li>Develop functional specifications, technical documentation, and project reports.</li>
+<li>Troubleshoot and provide technical support for control system issues.</li>
+<li>Collaborate with multidisciplinary teams, including mechanical, electrical, and software engineers, to deliver turnkey solutions.</li>
+<li>Drive continuous improvements in system design, programming, and project execution.</li>
+<li>Ensure compliance with industry standards and safety regulations.</li>
+</ul>
+<p><span class="orange"><strong>About You</strong></span></p>
+<p><strong>We’re looking for an experienced engineer with a track record of success in control systems for industrial automation.</strong></p>
+<p>You’re a problem-solver, a team player and someone who thrives in a fast-paced environment.</p>
+<p><span class="orange"><strong>Key Skills, Qualifications &amp; Experience:</strong></span></p>
+<ul>
+<li>Bachelor’s degree in Electrical Engineering, Mechatronics, or a related field.</li>
+<li>Proficiency in PLC, HMI, and SCADA programming (e.g., Ignition, FactoryTalk, Citect)</li>
+<li>Experience with industrial networks (Ethernet/IP, Modbus, Profibus).</li>
+<li>Knowledge of ERP/MES systems.</li>
+<li>Strong understanding of machine safety standards and electrical design.</li>
+<li>Exceptional troubleshooting and problem-solving skills.</li>
+<li>Excellent communication and interpersonal skills.</li>
+<li>Ability to manage multiple projects and deadlines.</li>
+<li>Willingness to travel to client sites for commissioning and support.</li>
+<li>Valid Driver’s Licence</li>
+<li>Work authorisation for Australia</li>
+</ul>
+<p><span class="orange"><strong>Why Foodmach?</strong></span></p>
+<ul>
+<li>Be part of a collaborative and innovative team.</li>
+<li>Work on exciting projects with industry-leading clients such as Asahi, CUB, Coca-Cola, Pernod Ricard Winemakers, Visy, DuluxGroup and Mars.</li>
+<li>Opportunities for career development and ongoing training.</li>
+<li>A supportive workplace that values work-life balance.</li>
+<li>Competitive salary and benefits package.</li>
+<li>Access to an Employee Assistance Program. </li>
+</ul>
+<p><span class="orange"><strong>How to Apply</strong></span><br><br>If you’re ready to take the next step in your career and join a company at the forefront of industrial automation, please <span style="text-decoration: underline;"><a href="https://www.seek.com.au/job/86537451" title="apply through SEEK">apply through SEEK</a></span> with your resume and cover letter addressing your key experience and qualifications.</p>
+<p>At Foodmach we are committed to providing a quality work environment in which everyone is included, treated fairly and with respect. We are an Equal Opportunity employer.</p>
+<p><a href="https://www.seek.com.au/job/86537451" title="Go to SEEK Ad" class="backLink btn">Go to SEEK Ad</a><br><br><strong>Posted:</strong> 18/08/25</p>
+<hr>
+<h4><span class="orange"><a id="MaintenanceFitter"></a>Mechanical Maintenance Fitter</span></h4>
+<p><strong>Location: </strong>NSW<strong><br>Hours: </strong>Full time</p>
+<p><strong>We need an experienced and qualified fitter/machinist with packaging machine experience to work with our NSW team on sites across the state.</strong></p>
+<p>As part of our national technical support team, you will be involved in equipment installation and maintenance activities. <br><br><span class="orange"><strong>Would you like a role working with high-tech packaging automation for a respected company?<br></strong></span></p>
+<p><span class="orange"><strong>A role that includes:</strong><strong><br></strong></span></p>
+<ul>
+<li>Career development opportunities</li>
+<li>Variety: 70% on-site work at our larger customer sites / 30% quoting from home office</li>
+<li>A supportive and friendly team</li>
+<li>A company vehicle.</li>
+</ul>
+<p><strong>Are you:</strong></p>
+<ul>
+<li>Both a team player and self-motivated,</li>
+<li>Practical and organised,</li>
+<li>An excellent communicator with great customer service skills, </li>
+<li>Confident in putting together proposals and quotes on a computer, and</li>
+<li>Able to take the initiative to get the job done when required?</li>
+</ul>
+<p>If so, be sure to apply!</p>
+<p><span class="orange"><strong>Additional details on the role:</strong></span></p>
+<p>The position available will suit a self-motivated allrounder who aspires to build a long-term relationship working with Foodmach.</p>
+<p>Possible duties will include machine audits, preventative maintenance, repairs, breakdowns and assisting with project installations.</p>
+<p>You'll be trained for the first months to be able to develop and provide sales quotes to customers to sell upgrades on our equipment as well as spare parts. </p>
+<p><span class="orange"><strong>Some initial skills required:</strong></span></p>
+<ul>
+<li>Familiarity with food industry product handling and processes: Including conveyors, palletising, and pallet handling plus a willingness to learn Foodmach systems.</li>
+<li>Professionalism regarding: Trade skills, presentation, communication with customers and above all, Workplace Health and Safety.</li>
+<li>Desire to adhere to the requirements of Foodmach work policy and company site rules.</li>
+<li>Commitment and a “can do” attitude when faced with challenges.</li>
+<li>Ability to work alone and in a small team.</li>
+<li>Flexibility to work back and on weekends if required.</li>
+<li>Able to travel for breakdowns and to complete customer and project expectations.</li>
+<li>Attention to detail and pride in your work when carrying out service and audits on equipment.</li>
+<li>A willingness to ensure customer satisfaction and results and protect Foodmach’s reputation.</li>
+<li>An understanding of how machines are controlled to aid fault finding and process improvements.</li>
+<li>Experience inspecting and repairing heavy equipment, drives, sprockets, shafts, chains, and bearings.</li>
+<li>Understanding of sensors, timing, and machine speeds.</li>
+<li>Understanding of the effects of levels, wear and clearances on product movements.</li>
+<li>Ability to install and service conveyors and equipment, check levels clearances and transitions of conveyors.</li>
+<li>Basic computer skills to put together quotes and proposals.</li>
+<li>Willingness and aptitude to learn and grow within Foodmach.</li>
+<li>Bonus abilities: Welding, some programming and electrical knowledge, forklift, scissor-lift, working at heights, dog-man and white card tickets. </li>
+</ul>
+<p><span class="orange"><strong>Salary package:</strong></span></p>
+<ul>
+<li>Depending on previous experiences between $80-100k per annum.</li>
+<li>Superannuation</li>
+<li>Company Vehicle. </li>
+</ul>
+<p><strong>To apply, please send:</strong></p>
+<ul>
+<li>A covering letter</li>
+<li>Your resumé / curriculum vitae (CV)</li>
+</ul>
+<p><strong>By email:</strong></p>
+<p><a href="mailto:jobs@foodmach.com.au">jobs@foodmach.com.au</a> </p>
+<hr>
+<h4><span class="orange"><a id="Electrician"></a>Electrician</span></h4>
+<p><strong>We are currently looking for an experienced electrician to join our team.</strong></p>
+<p>The role would include the building of MCCs, integration with equipment and machines, wiring of field devices, I/O testing and commissioning support in our facility. Following successful factory testing, the equipment would be stripped, packed and transported before being installed and commissioned at our customer's site.</p>
+<p>Foodmach delivers and installs equipment across Australia, so there will be some requirements to travel to and from jobs and work away from home for up to a couple of weeks at a time. </p>
+<p><span class="orange"><strong>The successful applicant will have:</strong></span></p>
+<ul>
+<li>An Electrical A Grade Licence with industrial experience in machine building or similar installations</li>
+<li>Knowledge and understanding of PLC Control systems, VSDs and safety control systems (programming skills not essential).</li>
+<li>Skills in reading, interpreting and marking up electrical schematics. (Experience with Eplan would be an advantage but not essential.)</li>
+<li>The ability to work alongside mechanical and software teams to achieve a common goal</li>
+<li>A willingness to learn and develop their skills</li>
+<li>A strong work ethic and positive attitude</li>
+<li>Excellent fault-finding and problem-solving skills</li>
+</ul>
+<p>The successful applicant would be expected to help support the less experienced team members and show good leadership qualities both in the workshop and on customer sites.</p>
+<p><span class="orange"><strong>The following licences would be beneficial:</strong></span></p>
+<ul>
+<li>EWP</li>
+<li>Forklift</li>
+</ul>
+<p>In return, Foodmach offer above-award rates, 5 weeks of leave per year, income protection and an Employee Assistance Program. There is plenty of opportunity for overtime depending on workload.</p>
+<p>This role is an opportunity for the right person to join a dynamic environment with a great team culture.</p>
+<p>If you are interested in joining our team, please apply with your CV and a cover letter explaining what excites you about the position.<br><br><strong>By email:</strong></p>
+<p><a href="mailto:jobs@foodmach.com.au">jobs@foodmach.com.au</a></p>
+<p></p>
+<hr>
+<p><strong>Didn't see anything suitable for you? </strong></p>
+<p>We keep growing and we're always looking for good people, so why not <span style="text-decoration: underline;"><a href="mailto:%20jobapplications@foodmach.com.au">send us your resumé</a></span>?</p>
+<p>You might also like to get to know us better: </p>
+<p></p>
+<p></p>			
+						
+			<div class="row">
+								
+								<div class="col-xs-12 col-sm-6 col-md-4">
+					<a href="https://foodmach.com.au/about/company-info/">
+						
+						<div class="categoryGrid matchHeight">
+							<h3>More About Foodmach</h3>
+							
+					    							    		<div class=""><img src="https://s3-ap-southeast-2.amazonaws.com/foodmachcomau/foodmach_speed%26control_thumbnail_f449e2d3.jpg" alt="More About Foodmach" class="width"></div>
+					    							    		
+					    		<div class="bordered">
+						    		<span class="icon-ArrowInBox_Navy pull-right"></span>
+						    		<p>The fastest way to get control of your packaging line. </p>					    		</div>
+					    	
+						</div>
+				
+					</a>
+				</div>
+								
+								
+								<div class="col-xs-12 col-sm-6 col-md-4">
+					<a href="https://foodmach.com.au/capabilities">
+						
+						<div class="categoryGrid matchHeight">
+							<h3>How Can We Help You?</h3>
+							
+					    							    		<div class=""><img src="https://s3-ap-southeast-2.amazonaws.com/foodmachcomau/foodmach_team_thumb.jpg" alt="How Can We Help You?" class="width"></div>
+					    							    		
+					    		<div class="bordered">
+						    		<span class="icon-ArrowInBox_Navy pull-right"></span>
+						    		<p>See our comprehensive range of services—all your end-of-line needs in one place.</p>					    		</div>
+					    	
+						</div>
+				
+					</a>
+				</div>
+								
+								
+								
+								
+								<div class="col-xs-12 col-sm-6 col-md-4">
+					<a href="https://foodmach.com.au/resources/">
+						
+						<div class="categoryGrid matchHeight">
+							<h3>Our Latest Articles</h3>
+							
+					    							    		<div class=""><img src="https://s3-ap-southeast-2.amazonaws.com/foodmachcomau/foodmach_appliedindustry4-0_guide_thumb_766854e8.jpg" alt="Our Latest Articles" class="width"></div>
+					    							    		
+					    		<div class="bordered">
+						    		<span class="icon-ArrowInBox_Navy pull-right"></span>
+						    		<p>Useful information to help you optimise your packaging line. </p>					    		</div>
+					    	
+						</div>
+				
+					</a>
+				</div>
+								
+							</div>
+		</div>
+	</div>
+  	
+</div>
+
+<div class="container">
+	
+	<div class="row">
+		<div class="col-xs-12 pageContent">
+<section id="gotQuestion">
+					      <div class="row">
+      <div class="col-xs-12 text-center">
+      	<a name="gotQuestion" ></a>
+      	<h3>Got a question? Let's Chat</h3>
+      </div>	
+      </div>
+      <div class="row">
+        <div class="col-xs-12">
+          
+          <!-- DISPLAY FORM - Paste this where you want your form to appear -->
+                    
+          <form method="post" action="?#gotQuestion"  class="recaptchaForm">
+          <input type="hidden" name="save_got_question"         value="1" />
+          <input type="hidden" name="num"           value="0" />
+          <input type="hidden" name="preSaveTempId" value="x6af0db4262a0a" />
+          <input style="display:none;" type="text" name="email" value="" />
+          
+          <div class="row">
+            <div class="col-xs-12 col-sm-6">
+
+          <div class="form-group">
+            <label for="first_name">First Name <span class="manditory">*</span></label>
+            <input type='text' name='first_name' value='' id='first_name' class='form-control' required>
+          </div>
+
+          <div class="form-group">
+            <label for="last_name">Last Name <span class="manditory">*</span></label>
+            <input type='text' name='last_name' value='' id='last_name' class='form-control' required>
+          </div>
+
+          <div class="form-group">
+            <label for="email">Email <span class="manditory">*</span></label>
+            <input type='text' name='sendto' value='' id='sendto' class='form-control' required>
+          </div>
+
+          <div class="form-group">
+            <label for="phone">Phone</label>
+            <input type='text' name='phone' value='' id='phone' class='form-control' >
+          </div>
+
+          <div class="form-group">
+            <label for="company">Company</label>
+            <input type='text' name='company' value='' id='company' class='form-control' >
+          </div>
+
+        </div>
+        <div class="col-xs-12 col-sm-6">
+
+
+          <div class="form-group">
+            <label for="country">Country <span class="manditory">*</span></label>
+            <input type='text' name='country' value='' id='country' class='form-control'>
+          </div>
+
+          <div class="form-group">
+            <label for="subject_field">Subject</label>
+            <input type='text' name='subject_field' value='' id='subject_field' class='form-control' >
+          </div>
+
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea name='message' rows='5' cols='50' id='message' class='form-control'></textarea>
+          </div>
+
+        </div>
+      </div>
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6">
+<!--
+		<p>
+			<a class="" role="button" data-toggle="collapse" href="#moreOptions" aria-expanded="false" aria-controls="moreOptions">+ MORE OPTIONS</a>
+		</p>
+-->
+	</div>
+	<div class="col-xs-12 col-sm-6 text-right">
+	    <button type='submit' name='_save' value='1' class='btn btn-primary'>Submit</button>
+	</div>
+</div>
+
+
+<div class="collapse row" id="moreOptions">
+  <div class="col-xs-12">
+    <p>...</p>
+  </div>
+</div>
+
+</div>
+
+        
+          
+          
+          </form>
+          
+        </div><!-- .col-xs-12 -->
+      </div><!-- .row -->				</section>
+		</div>
+	</div>
+</div>
+
+
+
+
+<section id="footer">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-4">
+				<p>
+					<a class="btn" role="button" data-toggle="collapse" href="#signUp">Subscribe</a>
+				</p>
+				<div class="collapse" id="signUp">
+				  <div class="row">
+	<div class="col-xs-12 col-md-8">
+
+<!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="https://foodmach.us18.list-manage.com/subscribe/post?u=7a5307f6d9bc28b24866822ba&amp;id=90c78c2e53" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="form" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+<div class="orange" style="margin-bottom: 2rem;">Subscribe to our mailing list</div>
+
+<div class="form-group">
+<input type="email" value="" name="EMAIL"  id="mce-EMAIL" class="form-control input-sm" placeholder="Email Address">
+</div>
+<div class="form-group">
+<input type="text" value="" name="FNAME"  id="mce-FNAME" class="form-control input-sm" placeholder="First Name">
+</div>
+<div class="form-group">
+<input type="text" value="" name="LNAME"  id="mce-LNAME" class="form-control input-sm" placeholder="Last Name">
+</div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7a5307f6d9bc28b24866822ba_90c78c2e53" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Send me updates" name="subscribe" id="mc-embedded-subscribe" class="btn btn-sm btn-primary"></div>
+    </div>
+</form>
+</div>
+		
+	</div>
+</div>
+				</div>	
+				<p>
+					<a href="https://www.linkedin.com/company/1201592/" target="_blank"><span class="icon-linkedin"></span></a>					<a href="https://www.facebook.com/FoodmachPtyLtd" target="_blank"><span class="icon-facebook"></span></a>					<a href="https://x.com/_foodmach" target="_blank"><span class="icon-x"></span></a>					<a href="https://www.youtube.com/@foodmachaustralia" target="_blank"><span class="icon-youtube"></span></a>					<a href="https://www.instagram.com/foodmach/" target="_blank"><span class="icon-instagram"></span></a>				</p>
+
+								<!-- Task 4.1 — canonical entity description + brand slogan. Same source fields as the Organization JSON-LD (entity_description / entity_slogan). -->
+				<div class="entityDescription">
+										<p class="entity-desc">Foodmach are vertical startup specialists who engineer, build and integrate automation systems designed to perform from Day One.</p>
+															<p class="entity-slogan">In production faster</p>
+									</div>
+				
+
+
+				
+			</div>
+			<div class="hidden-xs col-sm-12 col-md-8 text-right navigation ">
+				<table style="height: 392px;">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 119px; height: 16px;"><a href="/about/" title="About">About</a></td>
+<td style="width: 133px; height: 16px;"><a href="/capabilities/" title="Capabilities">Capabilities</a></td>
+<td style="width: 108px; height: 16px;"><a href="/innovation/" title="Innovation">Innovation</a></td>
+<td style="width: 95px; height: 16px;"><a href="/resources/" title="Resources">Resources</a></td>
+<td style="width: 117px; height: 16px;"><a href="/contact/" title="Contact">Contact</a></td>
+</tr>
+<tr style="height: 376px;">
+<td style="width: 119px; height: 376px;">
+<p><a href="/about/welcome">Welcome</a><br><a href="/about/company-info">Company Info</a><br><a href="/about/our-values/">Our Values</a><br><a href="/about/towards-true-zero/">Towards True Zero</a><br><a href="/about/esg/" title="ESG Programs">ESG Programs</a><br><a href="/about/renewable-energy/" title="100% Green Power">100% Green Power</a><br><a href="/about/join-us/" title="Join Us">Join Us</a><br><a href="https://foodmach.com.au/jobs" title="Jobs @ Foodmach">Jobs @ Foodmach</a><br><a href="/about/news/" title="News">News</a><br><a href="/about/why-were-different/" title="Why We're different">Why We're different</a><br><a href="/about/our-vision/" title="Our Vision">Our Vision</a><br><a href="/about/speed-control/" title="Speed &amp; Control">Speed &amp; Control</a><br><a href="/about/our-approach/" title="Our Approach">Our Approach</a><br><a href="/about/our-customers/" title="Our Customers">Our Customers</a><br><a href="/about/next-generation-technology/" title="Next Gen Technology">Next Gen Technology</a><br><a href="/about/quality-service/" title="Quality &amp; Service">Our Awards</a><br><a href="/about/our-story/">Our Story</a><br><a href="https://foodmach.com.au/50bigyears" title="Our History">Our 50-Year Timeline</a><br><a href="/about/factory-history/">History of Our Factory</a><br><a href="/project-med-con/" title="Project Med-Con">Project Med-Con</a></p>
+</td>
+<td style="width: 133px; height: 376px;">
+<p><a href="/capabilities/palletising">Palletising</a><br><a href="/capabilities/conveying">Conveying</a><br><a href="/capabilities/engineering-projects">Engineering &amp; Projects</a><br><a href="/capabilities/packaging-technologies">Packaging Technologies</a><br><a href="/capabilities/safety">Safety</a><br><a href="/capabilities/customer-support">Customer Support</a><br><a href="/capabilities/line-integration">Line Integration</a><br><a href="/capabilities/relocation-services">Relocation Services</a><br><a href="/capabilities/industries/" title="Industries We Serve">Industries We Serve</a></p>
+</td>
+<td style="width: 108px; height: 376px;">
+<p><a href="/innovation">Our R&amp;D Programs</a><br><a href="/innovation/#Line-MES" title="Line MES">Line MES</a><br><a href="/innovation/#LineasaMachine" title="Line as a Machine">Line as a Machine</a><br><a href="/innovation/#WraparoundCasePacking" title="Wraparound Packer">Wraparound Packer</a><br><a href="/innovation/#Robomatrix" title="Robomatrix">Robomatrix</a>®<br><a href="/innovation/#Med-Con" title="Project Med-Con">Project Med-Con</a><br><a href="/innovation/#R-and-D" title="Industry Research Collaboration">Science Collaboration</a><br><a href="/resources/foodmach-wins-innovation-award/" title="Innovation Award">Innovation Award</a></p>
+</td>
+<td style="width: 95px; height: 376px;">
+<p><a href="/resources/guides/" title="Guides">Guides</a><br><a href="/resources/case-studies/" title="Case Studies">Case Studies</a><br><a href="/resources/articles/" title="Articles">Articles</a></p>
+</td>
+<td style="width: 117px; height: 376px;">
+<p><strong><span class="orange">1800 366 362<br></span></strong><a href="/make-a-time" title="Make a time to see us!">Make a time to see us!</a><br><a href="mailto: sales@foodmach.com.au">Email</a></p>
+<p><strong>Echuca<br></strong>1 Darling St<br>Echuca VIC 3564<strong><br></strong><a href="mailto:echuca@foodmach.com.au">Email</a></p>
+<p><strong>Melbourne</strong><br><a href="mailto: melbourne@foodmach.com.au">Email</a></p>
+<p><strong>Sydney</strong><br><a href="mailto: sydney@foodmach.com.au">Email</a></p>
+<p><strong>Brisbane</strong><br><a href="mailto:%20brisbane@foodmach.com.au">Email</a></p>
+<p><strong>Adelaide</strong><br><a href="mailto:%20adelaide@foodmach.com.au">Email</a></p>
+<p><a href="/tech-products-contact">Meet the Tech Products Team</a></p>
+</td>
+</tr>
+</tbody>
+</table>			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12 text-right notes">
+				<p>© Foodmach Pty Ltd | See our <span style="text-decoration: underline;"><a href="/privacy-policy" target="_blank" rel="noopener" title="Privacy Policy">Privacy Policy</a></span></p>			</div>
+		</div>
+	</div>
+</section>
+
+
+<!--
+<div id="floatingNav">
+
+
+<div class="collapse floatingBox" id="floatContact">
+  <div>
+	<a class="close" data-toggle="collapse" href="#floatContact" aria-label="Close"><span aria-hidden="true">&times;</span></a>
+    <p class="h2">1800 366 362</p>
+    <p><a href="mailto:sales@foodmach.com.au">sales@foodmach.com.au</a></p>
+
+  </div>
+</div>
+<div class="collapse floatingBox" id="floatSearch">
+  <div>
+	<a class="close" data-toggle="collapse" href="#floatSearch" aria-label="Close"><span aria-hidden="true">&times;</span></a>
+	<form class="form"  method="GET" action="/search.php" style="margin-top: 0.75em;">
+		<input class="form-control search-with-keywords" type="text" id="footer_searchTerm" name="search_term" placeholder="What are you looking for?"  />
+		<button type="submit" class="btn btn-sm btn-block btn-primary">SUBMIT</button>
+	</form>
+  </div>
+</div>
+
+
+<div class="btn-group" role="group" aria-label="Basic example">
+  <a data-toggle="collapse" href="#floatContact" role="button" aria-expanded="false" class="btn btn-default" style="border-left: 0;">CONTACT US</a>
+  <a data-toggle="collapse" href="#floatSearch" role="button" aria-expanded="false" class="btn btn-default" style="border-right: 0;">SEARCH</a>
+</div>
+
+</div>
+-->
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="/assets/js/bootstrap.min.js"></script>
+    <script src="/assets/js/bootstrap-tabcollapse.js"></script>
+    <script>
+	    $('#specTabs').tabCollapse({
+		    tabsClass: 'hidden-sm hidden-xs mobileTab',
+		    accordionClass: 'visible-sm visible-xs mobileAccordion'
+		});
+    </script>
+    
+    <script src="/assets/js/jquery.matchHeight-min.js"></script>
+    <script>
+		$(function() {
+			$('.menuSection').matchHeight({});
+			$('.matchHeight').matchHeight({});
+			
+			$('[data-toggle="popover"]').popover()
+		});
+    </script>
+
+
+		
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+  <script>
+    $(document).ready(function() {
+
+      $(".search-with-keywords").each(function(i, el) {
+        var $id = $(el).attr('id');
+        $('#'+$id ).autocomplete({
+          source: "?get_keyword_results=1",
+          minLength: 2,
+        });
+      });
+    } );
+  
+  </script>
+  <script type="text/javascript">
+    if(getCookie('closeModal') != 1){
+			window.setTimeout(function(){
+					$('#guided').modal({
+							backdrop: 'static',
+							keyboard: false,
+							show: true
+					});
+			}, 5000)
+		}
+
+		$(function(){
+			// $("#guided").on("hidden.bs.modal", function () {
+			// 	setCookie('closeModal', 1);
+			// });
+
+			$('#closeModal').click(function(){
+				setCookie('closeModal', 1);
+			});
+		});
+
+		
+		function setCookie(key, value) {
+			var expires = new Date();
+			expires.setTime(expires.getTime() + (1 * 24 * 60 * 60 * 1000));
+			document.cookie = key + '=' + value + ';expires=' + expires.toUTCString();
+		}
+		
+
+		function getCookie(key) {
+				var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+				return keyValue ? keyValue[2] : null;
+		}
+</script>
+
+    
+
+	<!-- FitVids -->
+	<script src="/assets/lib/FitVids/jquery.fitvids.js"></script>
+	<script>
+	  $(document).ready(function(){
+	    // Target your .container, .wrapper, .post, etc.
+	    $("#image-container").fitVids();
+	    $(".pageContent").fitVids();
+	  });
+	</script>
+ 
+
+<!--  Countdown -->
+<script>
+
+const second = 1000,
+      minute = second * 60,
+      hour = minute * 60,
+      day = hour * 24;
+
+let countDown = new Date('Jan 01 2030 9:00:00').getTime(),
+    x = setInterval(function() {    
+
+      // let now = new Date().getTime(),
+      //     distance = countDown - now;
+
+      // document.getElementById('days').innerText = Math.floor(distance / (day)),
+      //   document.getElementById('hours').innerText = Math.floor((distance % (day)) / (hour)),
+      //   document.getElementById('minutes').innerText = Math.floor((distance % (hour)) / (minute)),
+      //   document.getElementById('seconds').innerText = Math.floor((distance % (minute)) / second);
+
+      //do something later when date is reached
+      //if (distance < 0) {
+      //  clearInterval(x);
+      //  'IT'S MY BIRTHDAY!;
+      //}
+
+    }, second)	
+</script>
+
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/46913005.js"></script>
+<!-- End of HubSpot Embed Code -->
+
+  <script>
+    $(function() {
+      let recaptchaSiteKey = '6Lf6Fp4rAAAAAFPyRwJfrto-XqujIzSyv6MQgt-z';
+      let onSubmitForm = function(e){
+        e.preventDefault();
+
+        var $form = $(this);
+        if($(this)[0].checkValidity()) {
+          grecaptcha.ready(function() {
+            grecaptcha.execute(recaptchaSiteKey, {action : 'formSubmit'}).then(function(token) {
+              let recaptchaResponse = document.getElementById('recaptchaResponse');
+              if (!recaptchaResponse) {
+                recaptchaResponse = document.createElement('input');
+                recaptchaResponse.type = 'hidden';
+                recaptchaResponse.id = 'recaptchaResponse';
+                recaptchaResponse.name = 'recaptchaResponse';
+                $form.append(recaptchaResponse);
+              }
+              recaptchaResponse.value = token;
+              $form.off('submit', onSubmitForm);
+              $form.submit();
+            });
+          });
+        }
+      }
+      $(".recaptchaForm").on('submit', onSubmitForm);
+    });
+  </script>
+
+
+  </body>
+</html>

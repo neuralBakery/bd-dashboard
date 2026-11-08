@@ -1,5 +1,5 @@
 REGIONAL VICTORIA — WEEKLY INTELLIGENCE
-Generated: 2026-11-05
+Generated: 2026-11-09
 Last successful bounded research run: None
 Latest run: incomplete
 Direct employer hiring does not confirm external provider demand.
@@ -31,11 +31,23 @@ Why it matters / next step (inference): Inference: investigate site timing, work
 Source: https://www.rdv.vic.gov.au/news/trunk-infrastructure-to-support-regional-businesses
 Assessment: workforceDemand: 0; serviceRelevance: 3; timing: 2; commercialPotential: 0; evidenceStrength: 3; Published direct recruitment does not confirm external provider demand.
 
+Organisation unverified — Library loos well worth the wait [Monitor; New]
+The main entry to the library was closed from April during the construction period. Photo: Adam Carswell/file
+
+The major upgrade of the public toilets and parent facilities at Bendigo Library has been completed in compliance with the National Construction Code.
+
+The project was funded by a $412,586 grant from the state government’s Living Libraries Infrastructure Program and a contribution from the city.
+
+“The new facilities have transformed the library and the city is very appreciative of the funding received from the Victorian Government to undertake this project.”
+Why it matters / next step (inference): Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.
+Source: https://timesnewsgroup.com.au/bendigotimes/news/library-loos-well-worth-the-wait
+Assessment: workforceDemand: 0; serviceRelevance: 3; timing: 2; commercialPotential: 0; evidenceStrength: 2; Published direct recruitment does not confirm external provider demand.; Risk, competitor or economic context: separated from sales opportunities.
+
 COVERAGE / FAILURES
 Regional Development Victoria: failed — Robots access failed (403); collection stopped
 City of Greater Bendigo: success
 Greater Shepparton Council: failed — Network/proxy connection failed: timed out
-Mildura Rural City Council: failed — Robots access failed (403); collection stopped
+Mildura Rural City Council: failed — Discovery returned no article links; not evidence of no developments
 The Shepparton Adviser: success
 Bendigo Times: success
 Foodmach Careers: success

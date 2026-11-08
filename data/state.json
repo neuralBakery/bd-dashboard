@@ -1713,6 +1713,79 @@
       "status": "incomplete",
       "partialAdded": 0,
       "partialUpdated": 0
+    },
+    {
+      "startedAt": "2026-11-08T20:24:57.070045+00:00",
+      "finishedAt": "2026-11-08T20:27:51.008199+00:00",
+      "sources": [
+        {
+          "name": "Regional Development Victoria",
+          "url": "https://www.rdv.vic.gov.au/news",
+          "status": "failed",
+          "error": "Robots access failed (403); collection stopped"
+        },
+        {
+          "name": "City of Greater Bendigo",
+          "url": "https://www.bendigo.vic.gov.au/about-us/news-and-media",
+          "status": "success",
+          "coverage": {
+            "discoveredLinks": 14,
+            "checkedPages": 14,
+            "windowLimit": 12,
+            "boundedCoverage": true
+          }
+        },
+        {
+          "name": "Greater Shepparton Council",
+          "url": "https://greatershepparton.vic.gov.au/whats-happening/news",
+          "status": "failed",
+          "error": "Network/proxy connection failed: timed out"
+        },
+        {
+          "name": "Mildura Rural City Council",
+          "url": "https://www.mildura.vic.gov.au/Contact-us/News-and-media/Media-Releases",
+          "status": "failed",
+          "error": "Discovery returned no article links; not evidence of no developments"
+        },
+        {
+          "name": "The Shepparton Adviser",
+          "url": "https://www.sheppadviser.com.au/feed/",
+          "status": "success",
+          "coverage": {
+            "discoveredLinks": 1,
+            "checkedPages": 3,
+            "windowLimit": 12,
+            "boundedCoverage": false
+          }
+        },
+        {
+          "name": "Bendigo Times",
+          "url": "https://timesnewsgroup.com.au/bendigotimes/feed/",
+          "status": "success",
+          "coverage": {
+            "discoveredLinks": 10,
+            "checkedPages": 11,
+            "windowLimit": 12,
+            "boundedCoverage": false
+          }
+        },
+        {
+          "name": "Foodmach Careers",
+          "url": "https://foodmach.com.au/jobs/",
+          "status": "success",
+          "coverage": {
+            "discoveredLinks": 0,
+            "checkedPages": 2,
+            "windowLimit": 12,
+            "boundedCoverage": false
+          }
+        }
+      ],
+      "added": 0,
+      "updated": 0,
+      "status": "incomplete",
+      "partialAdded": 2,
+      "partialUpdated": 0
     }
   ],
   "partialRecords": [
@@ -2207,7 +2280,7 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:31:40.257994+00:00",
-      "lastChecked": "2026-11-05T04:04:34.821449+00:00",
+      "lastChecked": "2026-11-08T20:25:27.760585+00:00",
       "change": "Unchanged",
       "history": [
         {
@@ -2328,7 +2401,7 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:32:02.162041+00:00",
-      "lastChecked": "2026-11-05T04:04:34.828396+00:00",
+      "lastChecked": "2026-11-08T20:25:27.771738+00:00",
       "change": "Unchanged",
       "history": [],
       "evidence": [
@@ -2397,7 +2470,7 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:32:04.605083+00:00",
-      "lastChecked": "2026-11-05T04:04:34.830426+00:00",
+      "lastChecked": "2026-11-08T20:25:27.774895+00:00",
       "change": "Unchanged",
       "history": [],
       "evidence": [
@@ -2468,7 +2541,7 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:32:58.334451+00:00",
-      "lastChecked": "2026-11-05T04:06:22.816086+00:00",
+      "lastChecked": "2026-11-08T20:27:19.012704+00:00",
       "change": "Unchanged",
       "history": [
         {
@@ -2593,7 +2666,7 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:33:18.434311+00:00",
-      "lastChecked": "2026-11-05T04:06:22.818032+00:00",
+      "lastChecked": "2026-11-08T20:27:19.015675+00:00",
       "change": "Unchanged",
       "history": [],
       "evidence": [
@@ -2666,7 +2739,7 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:33:18.434311+00:00",
-      "lastChecked": "2026-11-05T04:06:22.818188+00:00",
+      "lastChecked": "2026-11-08T20:27:19.015920+00:00",
       "change": "Unchanged",
       "history": [
         {
@@ -2797,7 +2870,7 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:33:38.218045+00:00",
-      "lastChecked": "2026-11-05T04:06:22.822044+00:00",
+      "lastChecked": "2026-11-08T20:27:19.021874+00:00",
       "change": "Unchanged",
       "history": [],
       "evidence": [
@@ -2872,7 +2945,7 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:33:42.627491+00:00",
-      "lastChecked": "2026-11-05T04:06:47.798255+00:00",
+      "lastChecked": "2026-11-08T20:27:43.650723+00:00",
       "change": "Unchanged",
       "history": [
         {
@@ -3072,7 +3145,7 @@
       "verification": "source checked",
       "confidence": "Source text checked; commercial relevance is inference",
       "firstDiscovered": "2026-11-05T03:34:10.312128+00:00",
-      "lastChecked": "2026-11-05T04:06:55.175179+00:00",
+      "lastChecked": "2026-11-08T20:27:51.004235+00:00",
       "change": "Unchanged",
       "history": [
         {
@@ -3169,9 +3242,152 @@
       },
       "priority": "Monitor",
       "coverageStatus": "Partial coverage — completed source only"
+    },
+    {
+      "id": "Aa62f0d2c8b9e34501b61",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Closure & restructuring",
+      "date": "2026-11-06",
+      "headline": "Library loos well worth the wait",
+      "summary": "The main entry to the library was closed from April during the construction period. Photo: Adam Carswell/file\n\nThe major upgrade of the public toilets and parent facilities at Bendigo Library has been completed in compliance with the National Construction Code.\n\nThe project was funded by a $412,586 grant from the state government’s Living Libraries Infrastructure Program and a contribution from the city.\n\n“The new facilities have transformed the library and the city is very appreciative of the funding received from the Victorian Government to undertake this project.”",
+      "source": "Bendigo Times",
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/library-loos-well-worth-the-wait",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": false,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-08T20:27:43.663339+00:00",
+      "lastChecked": "2026-11-08T20:27:43.663345+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://timesnewsgroup.com.au/bendigotimes/news/library-loos-well-worth-the-wait",
+          "publisher": "Bendigo Times",
+          "publicationDate": "2026-11-06",
+          "retrievedAt": "2026-11-08T20:27:43.663347+00:00",
+          "sha256": "f2f364371d2ca914248e0b8e0b3c744db7dd44146b2c46d4c0aa35326de5e3ff",
+          "snapshot": "data/evidence/f2f364371d2ca914248e0b8e0b3c744db7dd44146b2c46d4c0aa35326de5e3ff.txt",
+          "quotes": [
+            "The main entry to the library was closed from April during the construction period. Photo: Adam Carswell/file",
+            "The major upgrade of the public toilets and parent facilities at Bendigo Library has been completed in compliance with the National Construction Code.",
+            "The project was funded by a $412,586 grant from the state government’s Living Libraries Infrastructure Program and a contribution from the city.",
+            "“The new facilities have transformed the library and the city is very appreciative of the funding received from the Victorian Government to undertake this project.”"
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 7,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 3,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 2
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 3",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 2",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Risk, competitor or economic context: separated from sales opportunities."
+        ],
+        "ageDays": 3
+      },
+      "priority": "Monitor",
+      "changedAt": "2026-11-08T20:27:51.005405+00:00",
+      "coverageStatus": "Partial coverage — completed source only"
+    },
+    {
+      "id": "Ae38e5a636b02c5bcd7df",
+      "company": "Organisation unverified",
+      "region": "Bendigo",
+      "town": "Bendigo",
+      "geographicMatches": [
+        {
+          "branch": "Bendigo",
+          "town": "Bendigo"
+        }
+      ],
+      "sector": "Industry unverified",
+      "type": "Closure & restructuring",
+      "date": "2026-11-06",
+      "headline": "Innovative newsagent claims second state title",
+      "summary": "He said although the business survived the COVID-19 pandemic, the continuing shift towards working from home and the closure of the adjacent Bendigo Bank branch has cut foot traffic.",
+      "source": "Bendigo Times",
+      "url": "https://timesnewsgroup.com.au/bendigotimes/news/innovative-newsagent-claims-second-state-title",
+      "state": "New",
+      "note": "",
+      "contact": "Operations / HR / procurement role — name unverified",
+      "contactUrl": "",
+      "relationship": "Unverified",
+      "primarySource": false,
+      "verification": "source checked",
+      "confidence": "Source text checked; commercial relevance is inference",
+      "firstDiscovered": "2026-11-08T20:27:43.666333+00:00",
+      "lastChecked": "2026-11-08T20:27:43.666337+00:00",
+      "change": "New",
+      "history": [],
+      "evidence": [
+        {
+          "url": "https://timesnewsgroup.com.au/bendigotimes/news/innovative-newsagent-claims-second-state-title",
+          "publisher": "Bendigo Times",
+          "publicationDate": "2026-11-06",
+          "retrievedAt": "2026-11-08T20:27:43.666340+00:00",
+          "sha256": "deb47c02b4001575e37d5bcaa59691a2548e08f6b988af78738dd24af47b418d",
+          "snapshot": "data/evidence/deb47c02b4001575e37d5bcaa59691a2548e08f6b988af78738dd24af47b418d.txt",
+          "quotes": [
+            "He said although the business survived the COVID-19 pandemic, the continuing shift towards working from home and the closure of the adjacent Bendigo Bank branch has cut foot traffic."
+          ]
+        }
+      ],
+      "angle": "Inference: investigate site timing, workforce plans and existing supplier arrangements. External recruitment demand is unconfirmed.",
+      "assessment": {
+        "score": 4,
+        "maximum": 14,
+        "criteria": {
+          "workforceDemand": 0,
+          "serviceRelevance": 0,
+          "timing": 2,
+          "commercialPotential": 0,
+          "evidenceStrength": 2
+        },
+        "priority": "Monitor",
+        "reasons": [
+          "workforceDemand: 0",
+          "serviceRelevance: 0",
+          "timing: 2",
+          "commercialPotential: 0",
+          "evidenceStrength: 2",
+          "Published direct recruitment does not confirm external provider demand.",
+          "Risk, competitor or economic context: separated from sales opportunities."
+        ],
+        "ageDays": 3
+      },
+      "priority": "Monitor",
+      "changedAt": "2026-11-08T20:27:51.005465+00:00",
+      "coverageStatus": "Partial coverage — completed source only"
     }
   ],
-  "lastPartialUpdate": "2026-11-05T03:34:10.339039+00:00",
+  "lastPartialUpdate": "2026-11-08T20:27:51.005752+00:00",
   "lastReprocessing": {
     "at": "2026-11-05T03:36:46.463966+00:00",
     "reason": "Corrected content scope, company attribution and publication metadata using original source snapshots",
